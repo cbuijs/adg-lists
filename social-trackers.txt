@@ -1,0 +1,9 @@
+! Title: SOCIAL-TRACKERS for CTAG "user_child".
+! Version: 1761043946
+!
+! Sources:
+!   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+!
+||https-filtering-check.adtidy.org^$ctag=user_child
+||instagram.astv.ru^$ctag=user_child
+! <EOF>

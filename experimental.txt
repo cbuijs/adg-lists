@@ -1,0 +1,8 @@
+! Title: EXPERIMENTAL for CTAG "user_child".
+! Version: 1761043945
+!
+! Sources:
+!   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_5_Experimental/filter.txt
+!
+||https-filtering-check.adtidy.org^$ctag=user_child
+! <EOF>
