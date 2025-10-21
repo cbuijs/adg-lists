@@ -1,10 +1,18 @@
 ! Title: CNAME-TRACKERS for CTAG "user_child".
-! Version: 1761029551
+! Version: 1761029765
 !
 ! Sources:
 !   https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/refs/heads/master/domains
 !   https://raw.githubusercontent.com/AdguardTeam/cname-trackers/refs/heads/master/data/combined_original_trackers_justdomains.txt
 !   https://raw.githubusercontent.com/nextdns/click-tracking-domains/refs/heads/main/domains
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/alexa
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/apple
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/huawei
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/roku
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/samsung
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/sonos
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/windows
+!   https://raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains/xiaomi
 !
 ||adservice.google.ac^$ctag=user_child
 ||adservice.google.ad^$ctag=user_child
@@ -20,6 +28,7 @@
 ||adservice.google.com.ar^$ctag=user_child
 ||adservice.google.arab^$ctag=user_child
 ||adservice.google.as^$ctag=user_child
+||grs.dbankcloud.asia^$ctag=user_child
 ||adservice.google.at^$ctag=user_child
 ||redirect.at^$ctag=user_child
 ||adservice.google.com.au^$ctag=user_child
@@ -57,6 +66,17 @@
 ||adservice.google.co.ck^$ctag=user_child
 ||adservice.google.cl^$ctag=user_child
 ||adservice.google.cm^$ctag=user_child
+||metrics-dre.data.dbankcloud.cn^$ctag=user_child
+||metrics1.data.dbankcloud.cn^$ctag=user_child
+||datacollector-dra.dt.dbankcloud.cn^$ctag=user_child
+||datacollector-drcn.dt.dbankcloud.cn^$ctag=user_child
+||datacollector-dre.dt.dbankcloud.cn^$ctag=user_child
+||metrics.dt.dbankcloud.cn^$ctag=user_child
+||metrics-dra.dt.dbankcloud.cn^$ctag=user_child
+||metrics-dre.dt.dbankcloud.cn^$ctag=user_child
+||metrics1-drcn.dt.dbankcloud.cn^$ctag=user_child
+||grs.dbankcloud.cn^$ctag=user_child
+||logservice-dre.platform.dbankcloud.cn^$ctag=user_child
 ||1p-data.co^$ctag=user_child
 ||adservice.google.com.co^$ctag=user_child
 ||nc0.co^$ctag=user_child
@@ -66,8 +86,11 @@
 ||actonsoftware.com^$ctag=user_child
 ||app.adjust.com^$ctag=user_child
 ||affiliatefuture.com^$ctag=user_child
+||data.alexa.com^$ctag=user_child
 ||s.click.aliexpress.com^$ctag=user_child
 ||amaerodactylon.com^$ctag=user_child
+||device-metrics-us.amazon.com^$ctag=user_child
+||device-metrics-us-2.amazon.com^$ctag=user_child
 ||amazon-adsystem.com^$ctag=user_child
 ||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^$ctag=user_child
 ||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^$ctag=user_child
@@ -76,6 +99,16 @@
 ||click.member.americanexpress.com^$ctag=user_child
 ||apmebf.com^$ctag=user_child
 ||prism.app-us1.com^$ctag=user_child
+||api-adservices.apple.com^$ctag=user_child
+||books-analytics-events.apple.com^$ctag=user_child
+||iadsdk.apple.com^$ctag=user_child
+||metrics.apple.com^$ctag=user_child
+||notes-analytics-events.apple.com^$ctag=user_child
+||securemetrics.apple.com^$ctag=user_child
+||securemvt.apple.com^$ctag=user_child
+||stocks-analytics-events.apple.com^$ctag=user_child
+||supportmetrics.apple.com^$ctag=user_child
+||weather-analytics-events.apple.com^$ctag=user_child
 ||aquaplatform.com^$ctag=user_child
 ||ad.atdmt.com^$ctag=user_child
 ||attntags.com^$ctag=user_child
@@ -97,6 +130,7 @@
 ||e.customeriomail.com^$ctag=user_child
 ||ch0p.darty.com^$ctag=user_child
 ||dataunlocker.com^$ctag=user_child
+||grs.dbankcloud.com^$ctag=user_child
 ||online.digital-advisor.com^$ctag=user_child
 ||email.docker.com^$ctag=user_child
 ||postsign.docusign.com^$ctag=user_child
@@ -124,6 +158,29 @@
 ||gopjn.com^$ctag=user_child
 ||greylabeldelivery.com^$ctag=user_child
 ||heleric.com^$ctag=user_child
+||metrics.data.hicloud.com^$ctag=user_child
+||metrics1.data.hicloud.com^$ctag=user_child
+||metrics2.data.hicloud.com^$ctag=user_child
+||metrics3.data.hicloud.com^$ctag=user_child
+||metrics4.data.hicloud.com^$ctag=user_child
+||metrics5.data.hicloud.com^$ctag=user_child
+||datacollector-dra.dt.hicloud.com^$ctag=user_child
+||datacollector-drcn.dt.hicloud.com^$ctag=user_child
+||datacollector-dre.dt.hicloud.com^$ctag=user_child
+||datacollector-drru.dt.hicloud.com^$ctag=user_child
+||logservice-drru.dt.hicloud.com^$ctag=user_child
+||metrics.dt.hicloud.com^$ctag=user_child
+||metrics-dra.dt.hicloud.com^$ctag=user_child
+||metrics-drcn.dt.hicloud.com^$ctag=user_child
+||metrics6.dt.hicloud.com^$ctag=user_child
+||grs.hicloud.com^$ctag=user_child
+||logservice.hicloud.com^$ctag=user_child
+||logservice1.hicloud.com^$ctag=user_child
+||logservice-dra.platform.hicloud.com^$ctag=user_child
+||logservice-dre.platform.hicloud.com^$ctag=user_child
+||acfeedbackws.icloud.com^$ctag=user_child
+||feedbackws.icloud.com^$ctag=user_child
+||metrics.icloud.com^$ctag=user_child
 ||click.icptrack.com^$ctag=user_child
 ||email-tracking.infobip.com^$ctag=user_child
 ||links.iterable.com^$ctag=user_child
@@ -139,16 +196,40 @@
 ||kqzyfj.com^$ctag=user_child
 ||click.linksynergy.com^$ctag=user_child
 ||list-manage.com^$ctag=user_child
+||watson.live.com^$ctag=user_child
 ||click.mail.macmillan.com^$ctag=user_child
 ||k.madmetrics.com^$ctag=user_child
 ||tracker.marinsm.com^$ctag=user_child
 ||action.metaffiliation.com^$ctag=user_child
+||choice.microsoft.com^$ctag=user_child
+||settings-sandbox.data.microsoft.com^$ctag=user_child
+||settings-win.data.microsoft.com^$ctag=user_child
+||vortex.data.microsoft.com^$ctag=user_child
+||vortex-sandbox.data.microsoft.com^$ctag=user_child
+||vortex-win.data.microsoft.com^$ctag=user_child
 ||go.microsoft.com^$ctag=user_child
+||redir.metaservices.microsoft.com^$ctag=user_child
+||feedback.search.microsoft.com^$ctag=user_child
+||i1.services.social.microsoft.com^$ctag=user_child
+||spynet2.microsoft.com^$ctag=user_child
+||spynetalt.microsoft.com^$ctag=user_child
+||corp.sts.microsoft.com^$ctag=user_child
+||diagnostics.support.microsoft.com^$ctag=user_child
+||telemetry.microsoft.com^$ctag=user_child
+||telemetry.urs.microsoft.com^$ctag=user_child
+||watson.microsoft.com^$ctag=user_child
 ||image.email.microsoftemail.com^$ctag=user_child
+||tracking.india.miui.com^$ctag=user_child
+||sa.api.intl.miui.com^$ctag=user_child
+||tracking.intl.miui.com^$ctag=user_child
+||tracking.rus.miui.com^$ctag=user_child
+||tracking.miui.com^$ctag=user_child
 ||clicks.mlsend.com^$ctag=user_child
 ||mmtro.com^$ctag=user_child
 ||mr-in.com^$ctag=user_child
 ||u57.muzikguide.com^$ctag=user_child
+||dzc-metrics.mzstatic.com^$ctag=user_child
+||metrics.mzstatic.com^$ctag=user_child
 ||ntvpforever.com^$ctag=user_child
 ||go.pardot.com^$ctag=user_child
 ||parsely.com^$ctag=user_child
@@ -165,13 +246,20 @@
 ||alb.reddit.com^$ctag=user_child
 ||click.redditmail.com^$ctag=user_child
 ||go.redirectingat.com^$ctag=user_child
+||logs.roku.com^$ctag=user_child
 ||rttrk.com^$ctag=user_child
 ||sailthru.com^$ctag=user_child
+||insights.samsung.com^$ctag=user_child
+||nmetrics.samsung.com^$ctag=user_child
+||bigdata.ssp.samsung.com^$ctag=user_child
+||analytics.samsungknox.com^$ctag=user_child
 ||bs.serving-sys.com^$ctag=user_child
 ||shareasale.com^$ctag=user_child
 ||tag.shopping-feed.com^$ctag=user_child
 ||go.skimresources.com^$ctag=user_child
 ||click.email.sonos.com^$ctag=user_child
+||msmetrics.ws.sonos.com^$ctag=user_child
+||msmetrics-test.ws.sonos.com^$ctag=user_child
 ||open.spotify.com^$ctag=user_child
 ||wl.spotify.com^$ctag=user_child
 ||link.springer.com^$ctag=user_child
@@ -191,8 +279,14 @@
 ||redirect.viglink.com^$ctag=user_child
 ||track.webgains.com^$ctag=user_child
 ||wecantrack.com^$ctag=user_child
+||cache.datamart.windows.com^$ctag=user_child
+||feedback.windows.com^$ctag=user_child
 ||wizaly.com^$ctag=user_child
 ||xg4ken.com^$ctag=user_child
+||data.mistat.india.xiaomi.com^$ctag=user_child
+||data.mistat.intl.xiaomi.com^$ctag=user_child
+||data.mistat.xiaomi.com^$ctag=user_child
+||data.mistat.rus.xiaomi.com^$ctag=user_child
 ||xray-superpixel.com^$ctag=user_child
 ||adservice.google.co.cr^$ctag=user_child
 ||adservice.google.com.cu^$ctag=user_child
@@ -217,6 +311,7 @@
 ||adservice.google.com.eg^$ctag=user_child
 ||adservice.google.es^$ctag=user_child
 ||adservice.google.com.et^$ctag=user_child
+||grs.dbankcloud.eu^$ctag=user_child
 ||adservice.google.eu^$ctag=user_child
 ||adservice.google.fi^$ctag=user_child
 ||adservice.google.film^$ctag=user_child
@@ -340,9 +435,17 @@
 ||sc.adobedc.net^$ctag=user_child
 ||tags.adsafety.net^$ctag=user_child
 ||ak-is2.net^$ctag=user_child
+||onecollector.cloudapp.aria.akadns.net^$ctag=user_child
+||prod.nexusrules.live.com.akadns.net^$ctag=user_child
+||vortex.data.microsoft.com.akadns.net^$ctag=user_child
 ||anrdoezrs.net^$ctag=user_child
+||books-analytics-events.news.apple-dns.net^$ctag=user_child
+||notes-analytics-events.news.apple-dns.net^$ctag=user_child
+||stocks-analytics-events.news.apple-dns.net^$ctag=user_child
+||weather-analytics-events.news.apple-dns.net^$ctag=user_child
 ||at-o.net^$ctag=user_child
 ||popcashjs.b-cdn.net^$ctag=user_child
+||telemetry.appex.bing.net^$ctag=user_child
 ||tracking.bp01.net^$ctag=user_child
 ||clickserve.dartsearch.net^$ctag=user_child
 ||ad.doubleclick.net^$ctag=user_child
@@ -438,6 +541,9 @@
 ||adservice.google.re^$ctag=user_child
 ||adservice.google.ro^$ctag=user_child
 ||adservice.google.rs^$ctag=user_child
+||datacollector-drru.dt.dbankcloud.ru^$ctag=user_child
+||metrics5.dt.dbankcloud.ru^$ctag=user_child
+||grs.platform.dbankcloud.ru^$ctag=user_child
 ||adservice.google.ru^$ctag=user_child
 ||clck.yandex.ru^$ctag=user_child
 ||adservice.google.rw^$ctag=user_child
