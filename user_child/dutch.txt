@@ -1,0 +1,41 @@
+! Title: DUTCH for CTAG "user_child".
+! Version: 1761387454 (Epoch)
+!
+! Sources:
+!   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
+!
+||a.medialaancdn.be^$ctag=user_child
+||aa.hwigroup.com^$ctag=user_child
+||aa.tweakers.nl^$ctag=user_child
+||ab.hwigroup.com^$ctag=user_child
+||ab.tweakers.nl^$ctag=user_child
+||ads.nextday.media^$ctag=user_child
+||advertising-cdn.dpgmedia.cloud^$ctag=user_child
+||advertising-module.api.dpgmedia.cloud^$ctag=user_child
+||cdn.optoutadvertising.com^$ctag=user_child
+||content1.pcmweb.nl^$ctag=user_child
+||content1.pu.nl^$ctag=user_child
+||content1.wasmachines.nl^$ctag=user_child
+||content1.zoom.nl^$ctag=user_child
+||content2.besteproduct.nl^$ctag=user_child
+||content2.kieskeurig.nl^$ctag=user_child
+||content2.nrc.nl^$ctag=user_child
+||content2.pu.nl^$ctag=user_child
+||content2.wasmachines.nl^$ctag=user_child
+||content2.zoom.nl^$ctag=user_child
+||crnsgngrpj.nl^$ctag=user_child
+||cryptobeneluxbanner.care^$ctag=user_child
+||cryptosplash.care^$ctag=user_child
+||dntblckmpls.nl^$ctag=user_child
+||go2.go2cloud.org^$ctag=user_child
+||https-filtering-check.adtidy.org^$ctag=user_child
+||kjdsfjisdfjr23.azurewebsites.net^$ctag=user_child
+||mt67.net^$ctag=user_child
+||nextdaymedia-ads.s3.amazonaws.com^$ctag=user_child
+||nojazz.eu^$ctag=user_child
+||proxy.optoutadserving.com^$ctag=user_child
+||publize.net^$ctag=user_child
+||traffic.12flirt.com^$ctag=user_child
+||trickyrock.com^$ctag=user_child
+||viadata.store^$ctag=user_child
+||x9t7g4m2qk2.azurewebsites.net^$ctag=user_child
