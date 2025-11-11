@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1762751710 (Epoch)
+! Version: 1762838110 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -311,6 +311,7 @@
 ||blueduckredapple.com^$ctag=user_child
 ||boostads.net^$ctag=user_child
 ||brealtime.com^$ctag=user_child
+||bstgms4y.com^$ctag=user_child
 ||bu1.duba.com^$ctag=user_child
 ||bubblesmedia.ru^$ctag=user_child
 ||burstnet.com^$ctag=user_child
