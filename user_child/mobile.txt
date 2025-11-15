@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1763097311 (Epoch)
+! Version: 1763183711 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -211,6 +211,7 @@
 ||adz.mobi^$ctag=user_child
 ||adzerk.net^$ctag=user_child
 ||adzmobi.com^$ctag=user_child
+||afafb.com^$ctag=user_child
 ||agent.tamedia.com.tw^$ctag=user_child
 ||ahoy-internal-ads-hv.b-cdn.net^$ctag=user_child
 ||ajdivotdelbloab24.jio.com^$ctag=user_child
@@ -575,7 +576,6 @@
 ||monitor.adcaffe.com^$ctag=user_child
 ||mopub-win-us-east.bksn.se^$ctag=user_child
 ||mossru.com^$ctag=user_child
-||mp-api.afafb.com^$ctag=user_child
 ||msg.ettoday.net^$ctag=user_child
 ||mtag.mman.kr^$ctag=user_child
 ||mtburn.jp^$ctag=user_child
@@ -706,6 +706,7 @@
 ||sdk.adtiming.com^$ctag=user_child
 ||sdk.starbolt.io^$ctag=user_child
 ||sdkv2.imaginationunwired.com^$ctag=user_child
+||se.rfvtgbyhn.com^$ctag=user_child
 ||search.adcaffe.com^$ctag=user_child
 ||sensors.larkplayerapp.com^$ctag=user_child
 ||servebom.com^$ctag=user_child
@@ -767,6 +768,7 @@
 ||tapulsads.ru^$ctag=user_child
 ||targetspot.com^$ctag=user_child
 ||tbiwtech.com^$ctag=user_child
+||tc.qzwxrtyk.com^$ctag=user_child
 ||tccbanner.com^$ctag=user_child
 ||teachscape.vo.llnwd.net^$ctag=user_child
 ||thecatmachine.com^$ctag=user_child
