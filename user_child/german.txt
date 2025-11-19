@@ -1,5 +1,5 @@
 ! Title: GERMAN for CTAG "user_child".
-! Version: 1763442908 (Epoch)
+! Version: 1763529309 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
@@ -9,7 +9,6 @@
 ||a.zdg.de^$ctag=user_child
 ||a3.zdg.de^$ctag=user_child
 ||ad.71i.de^$ctag=user_child
-||ad.bwise.ch^$ctag=user_child
 ||ad.dl.dewezet.de^$ctag=user_child
 ||ad.dl.mainpost.de^$ctag=user_child
 ||ad.dl.volksstimme.de^$ctag=user_child
@@ -59,10 +58,8 @@
 ||netwayer.de^$ctag=user_child
 ||network.gofeminin.de^$ctag=user_child
 ||network2.aufeminin.com^$ctag=user_child
-||oddsserve-wqps7yvkz.stackpathdns.com^$ctag=user_child
 ||orbidder.otto.de^$ctag=user_child
 ||ox.gassi-tv.de^$ctag=user_child
-||partner.fondsdiscount.de^$ctag=user_child
 ||partner.gewinnspiele.de^$ctag=user_child
 ||partner.maxxim.de^$ctag=user_child
 ||partner.schalke04.de^$ctag=user_child
