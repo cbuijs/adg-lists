@@ -1,5 +1,5 @@
 ! Title: TURKISH for CTAG "user_child".
-! Version: 1764220511 (Epoch)
+! Version: 1764306910 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
@@ -40,6 +40,7 @@
 ||adsp.ciner.com.tr^$ctag=user_child
 ||adsp.haberturk.com^$ctag=user_child
 ||aggravatingoil.com^$ctag=user_child
+||ahatm12od.top^$ctag=user_child
 ||ahatm8od.top^$ctag=user_child
 ||alty.fun^$ctag=user_child
 ||androidads23.adcolony.com^$ctag=user_child
