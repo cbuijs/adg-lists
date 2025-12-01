@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1764479709 (Epoch)
+! Version: 1764566107 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -164,6 +164,7 @@
 ||smart-below.com^$ctag=user_child
 ||socdm.com^$ctag=user_child
 ||sokmil-ad.com^$ctag=user_child
+||ssdsp.smt.docomo.ne.jp^$ctag=user_child
 ||thepsusiwho.com^$ctag=user_child
 ||tracer.jp^$ctag=user_child
 ||track2.cross-system.com^$ctag=user_child
