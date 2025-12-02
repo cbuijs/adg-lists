@@ -1,5 +1,5 @@
 ! Title: BASE for CTAG "user_child".
-! Version: 1764566101 (Epoch)
+! Version: 1764652501 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
@@ -46,12 +46,12 @@
 ||0518714bbd.com^$ctag=user_child
 ||05420795.xyz^$ctag=user_child
 ||05454674.xyz^$ctag=user_child
-||054cb3b003.1699bc140d.com^$ctag=user_child
 ||054ii.com^$ctag=user_child
 ||055479b29b.9a57160d5c.com^$ctag=user_child
 ||058d79990c.com^$ctag=user_child
 ||05b29ae553.e68a481d7d.com^$ctag=user_child
 ||05e4bd1819.com^$ctag=user_child
+||05e76a16b8.5e3d5f480f.com^$ctag=user_child
 ||05f3b6b187.com^$ctag=user_child
 ||05fa754f24.com^$ctag=user_child
 ||0600abfc6e.7ec3ad2512.com^$ctag=user_child
@@ -172,6 +172,7 @@
 ||12159c9c0b.3009e36989.com^$ctag=user_child
 ||122cafc086.com^$ctag=user_child
 ||123-stream.org^$ctag=user_child
+||12454f109f.69b22afb80.com^$ctag=user_child
 ||124d138eac.com^$ctag=user_child
 ||125700.shop^$ctag=user_child
 ||12aksss.xyz^$ctag=user_child
@@ -183,7 +184,6 @@
 ||132ffebe8c.com^$ctag=user_child
 ||1338f95c76.com^$ctag=user_child
 ||13554359.xyz^$ctag=user_child
-||1364c2e769.26e8264baa.com^$ctag=user_child
 ||137kfj65k.de^$ctag=user_child
 ||138124e964.eda4dc1ffe.com^$ctag=user_child
 ||13c29d08a5.e8370630f3.com^$ctag=user_child
@@ -233,7 +233,6 @@
 ||17ed256d85.com^$ctag=user_child
 ||17f9a9fb6c.e910e94be7.com^$ctag=user_child
 ||181m2fscr.de^$ctag=user_child
-||182ff42ced.e1d56c0a5f.com^$ctag=user_child
 ||184c4i95p.de^$ctag=user_child
 ||18df009b06.com^$ctag=user_child
 ||18e6f131f9.com^$ctag=user_child
@@ -268,6 +267,7 @@
 ||1betandgonow.com^$ctag=user_child
 ||1bm3n8sld.de^$ctag=user_child
 ||1c0c3fde9d.com^$ctag=user_child
+||1c0ec60324.e7d783f480.com^$ctag=user_child
 ||1c6fd11ca2.com^$ctag=user_child
 ||1c7567185b.e56706706b.com^$ctag=user_child
 ||1ca6e3e357.a8ca394de0.com^$ctag=user_child
@@ -277,13 +277,11 @@
 ||1cd21cb1e4.com^$ctag=user_child
 ||1ckbfk08k.de^$ctag=user_child
 ||1d0a4a935b.com^$ctag=user_child
-||1d36243653.ef1dd1776c.com^$ctag=user_child
 ||1d36f919d8.1be795e9c2.com^$ctag=user_child
 ||1d60ed7be0.c0699fd01b.com^$ctag=user_child
 ||1db9fede5f.com^$ctag=user_child
 ||1dtdsln1j.de^$ctag=user_child
 ||1e055ef148.34b2efc756.com^$ctag=user_child
-||1e686e4bdb.fceedf7652.com^$ctag=user_child
 ||1ep.co^$ctag=user_child
 ||1ep2l1253.de^$ctag=user_child
 ||1ernp861b3zio6i.rest^$ctag=user_child
@@ -548,6 +546,7 @@
 ||2pc6q54ga.de^$ctag=user_child
 ||2qh27f5ukxvxiexk6zev.cfd^$ctag=user_child
 ||2qj7mq3w4uxe.com^$ctag=user_child
+||2qny57hvbzze2b77r6mhr2wrqefnkpvy.cyou^$ctag=user_child
 ||2rb5hh5t6.de^$ctag=user_child
 ||2re6rpip2.de^$ctag=user_child
 ||2rlgdkf7s.de^$ctag=user_child
@@ -728,7 +727,6 @@
 ||31d6gphkr.de^$ctag=user_child
 ||31daa5lnq.de^$ctag=user_child
 ||31def61c3.de^$ctag=user_child
-||31e9d899ee.41869c9436.com^$ctag=user_child
 ||31fa866365.f5ff45b3d4.com^$ctag=user_child
 ||31fbcecdf2.com^$ctag=user_child
 ||31ixu8oyt8tj9e4icw.cfd^$ctag=user_child
@@ -785,7 +783,6 @@
 ||3240742.notifysrv.com^$ctag=user_child
 ||3242002.notifysrv.com^$ctag=user_child
 ||3242990.notify6.com^$ctag=user_child
-||3242990.notifysrv.com^$ctag=user_child
 ||3243082.notify6.com^$ctag=user_child
 ||3243082.notifysrv.com^$ctag=user_child
 ||3245102.notifysrv.com^$ctag=user_child
@@ -824,13 +821,11 @@
 ||3290472.notifysrv.com^$ctag=user_child
 ||3291002.notifysrv.com^$ctag=user_child
 ||3292164.notify6.com^$ctag=user_child
-||3292164.notifysrv.com^$ctag=user_child
 ||3292172.notifysrv.com^$ctag=user_child
 ||3294260.notify6.com^$ctag=user_child
 ||3294260.notifysrv.com^$ctag=user_child
 ||3294264.notify6.com^$ctag=user_child
 ||3294264.notifysrv.com^$ctag=user_child
-||3296892.notifysrv.com^$ctag=user_child
 ||3298834.notifysrv.com^$ctag=user_child
 ||32ae2295ab.com^$ctag=user_child
 ||32t4j1be6y7ulwq1nmx.cfd^$ctag=user_child
@@ -841,7 +836,6 @@
 ||3302396.notify6.com^$ctag=user_child
 ||3302404.notify6.com^$ctag=user_child
 ||3302404.notifysrv.com^$ctag=user_child
-||3304350.notifysrv.com^$ctag=user_child
 ||3304354.notify6.com^$ctag=user_child
 ||3304354.notifysrv.com^$ctag=user_child
 ||3307240.notifysrv.com^$ctag=user_child
@@ -868,10 +862,8 @@
 ||3312088.notify6.com^$ctag=user_child
 ||3313174.notify6.com^$ctag=user_child
 ||3313964.notifysrv.com^$ctag=user_child
-||3314624.notifysrv.com^$ctag=user_child
 ||3316328.notify6.com^$ctag=user_child
 ||3317864.notifysrv.com^$ctag=user_child
-||3317882.notifysrv.com^$ctag=user_child
 ||3317892.notify6.com^$ctag=user_child
 ||3317892.notifysrv.com^$ctag=user_child
 ||3319502.notifysrv.com^$ctag=user_child
@@ -879,7 +871,6 @@
 ||331f7bf198.com^$ctag=user_child
 ||3321284.notifysrv.com^$ctag=user_child
 ||3321964.notifysrv.com^$ctag=user_child
-||3322022.notifysrv.com^$ctag=user_child
 ||3323378.notify6.com^$ctag=user_child
 ||3324204.notifysrv.com^$ctag=user_child
 ||3324214.notifysrv.com^$ctag=user_child
@@ -889,13 +880,10 @@
 ||3326704.notifysrv.com^$ctag=user_child
 ||3328380.notifysrv.com^$ctag=user_child
 ||3328388.notifysrv.com^$ctag=user_child
-||3328394.notifysrv.com^$ctag=user_child
 ||3328396.notifysrv.com^$ctag=user_child
-||3328398.notifysrv.com^$ctag=user_child
 ||3328404.notifysrv.com^$ctag=user_child
 ||3329496.notify6.com^$ctag=user_child
 ||3329724.notifysrv.com^$ctag=user_child
-||3329726.notifysrv.com^$ctag=user_child
 ||3334828.notify6.com^$ctag=user_child
 ||3335306.notifysrv.com^$ctag=user_child
 ||3338422.notifysrv.com^$ctag=user_child
@@ -908,14 +896,11 @@
 ||3345712.notifysrv.com^$ctag=user_child
 ||3346174.notify6.com^$ctag=user_child
 ||3346174.notifysrv.com^$ctag=user_child
-||3347188.notify6.com^$ctag=user_child
-||3347188.notifysrv.com^$ctag=user_child
 ||3347192.notifysrv.com^$ctag=user_child
 ||3348424.notifysrv.com^$ctag=user_child
 ||3348428.notifysrv.com^$ctag=user_child
 ||3349680.notify6.com^$ctag=user_child
 ||3351072.notifysrv.com^$ctag=user_child
-||3351914.notifysrv.com^$ctag=user_child
 ||3352256.notify6.com^$ctag=user_child
 ||3352256.notifysrv.com^$ctag=user_child
 ||3352472.notifysrv.com^$ctag=user_child
@@ -924,25 +909,18 @@
 ||3360202.notify6.com^$ctag=user_child
 ||3360944.notifysrv.com^$ctag=user_child
 ||3362420.notify6.com^$ctag=user_child
-||3362426.notify6.com^$ctag=user_child
-||3362426.notifysrv.com^$ctag=user_child
-||3364638.notify6.com^$ctag=user_child
 ||3373381.notify6.com^$ctag=user_child
 ||33747538f3.com^$ctag=user_child
 ||3376753.notifysrv.com^$ctag=user_child
 ||33773a42d8.944ef08b40.com^$ctag=user_child
 ||33795b3c71.00104186da.com^$ctag=user_child
 ||3382743.notify6.com^$ctag=user_child
-||3382743.notifysrv.com^$ctag=user_child
-||3382771.notifysrv.com^$ctag=user_child
 ||3383139.notifysrv.com^$ctag=user_child
 ||33848102.xyz^$ctag=user_child
 ||3385991.notify6.com^$ctag=user_child
 ||33862684.xyz^$ctag=user_child
 ||3386671.notify6.com^$ctag=user_child
-||3389741.notify6.com^$ctag=user_child
 ||3396523.notify6.com^$ctag=user_child
-||3396611.notifysrv.com^$ctag=user_child
 ||33b39a6e93.3638f4360b.com^$ctag=user_child
 ||33e575cb57.a02e31b105.com^$ctag=user_child
 ||33e70fcb8e.com^$ctag=user_child
@@ -950,19 +928,15 @@
 ||3400453.notifysrv.com^$ctag=user_child
 ||3404041.notifysrv.com^$ctag=user_child
 ||3404165.notify6.com^$ctag=user_child
-||3404423.notifysrv.com^$ctag=user_child
 ||3405017.notify6.com^$ctag=user_child
 ||3405035.notifysrv.com^$ctag=user_child
 ||3405103.notify6.com^$ctag=user_child
 ||3405133.notify6.com^$ctag=user_child
-||3405133.notifysrv.com^$ctag=user_child
 ||3405137.notifysrv.com^$ctag=user_child
 ||3405143.notifysrv.com^$ctag=user_child
-||3405151.notifysrv.com^$ctag=user_child
 ||3405163.notifysrv.com^$ctag=user_child
 ||3405751.notify6.com^$ctag=user_child
 ||3408133.notifysrv.com^$ctag=user_child
-||3408773.notify6.com^$ctag=user_child
 ||3408773.notifysrv.com^$ctag=user_child
 ||3409129.notify6.com^$ctag=user_child
 ||3409173.notifysrv.com^$ctag=user_child
@@ -973,17 +947,14 @@
 ||3416183.notifysrv.com^$ctag=user_child
 ||3416525.notifysrv.com^$ctag=user_child
 ||3416833.notifysrv.com^$ctag=user_child
-||3417929.notifysrv.com^$ctag=user_child
 ||3419733.notifysrv.com^$ctag=user_child
 ||3420743.notifysrv.com^$ctag=user_child
 ||3420755.notifysrv.com^$ctag=user_child
-||3420763.notifysrv.com^$ctag=user_child
 ||3420765.notifysrv.com^$ctag=user_child
 ||3420767.notify6.com^$ctag=user_child
 ||3420767.notifysrv.com^$ctag=user_child
 ||3420793.notifysrv.com^$ctag=user_child
 ||3421353.notifysrv.com^$ctag=user_child
-||3423953.notifysrv.com^$ctag=user_child
 ||3427951.notifysrv.com^$ctag=user_child
 ||3429095.notifysrv.com^$ctag=user_child
 ||342ef7c20e.com^$ctag=user_child
@@ -995,22 +966,16 @@
 ||3440401.notify6.com^$ctag=user_child
 ||3440401.notifysrv.com^$ctag=user_child
 ||3440407.notifysrv.com^$ctag=user_child
-||3440409.notify6.com^$ctag=user_child
 ||3440409.notifysrv.com^$ctag=user_child
 ||3440411.notify6.com^$ctag=user_child
 ||3442145.notifysrv.com^$ctag=user_child
 ||34475780.xyz^$ctag=user_child
-||3451465.notifysrv.com^$ctag=user_child
 ||3453873.notifysrv.com^$ctag=user_child
-||3454909.notifysrv.com^$ctag=user_child
 ||3456415.notifysrv.com^$ctag=user_child
 ||3457693.notifysrv.com^$ctag=user_child
 ||3459205.notifysrv.com^$ctag=user_child
-||3461281.notifysrv.com^$ctag=user_child
-||3461289.notify6.com^$ctag=user_child
 ||3461293.notifysrv.com^$ctag=user_child
 ||3461347.notify6.com^$ctag=user_child
-||3461347.notifysrv.com^$ctag=user_child
 ||3461533.notify6.com^$ctag=user_child
 ||3464703.notify6.com^$ctag=user_child
 ||3464703.notifysrv.com^$ctag=user_child
@@ -1019,10 +984,7 @@
 ||3466861.notifysrv.com^$ctag=user_child
 ||3466863.notify6.com^$ctag=user_child
 ||3467915.notify6.com^$ctag=user_child
-||3470943.notifysrv.com^$ctag=user_child
 ||3471913.notifysrv.com^$ctag=user_child
-||3474937.notifysrv.com^$ctag=user_child
-||3475333.notifysrv.com^$ctag=user_child
 ||3475341.notify6.com^$ctag=user_child
 ||3475349.notify6.com^$ctag=user_child
 ||3477325.notify6.com^$ctag=user_child
@@ -1038,7 +1000,6 @@
 ||3501923.notify6.com^$ctag=user_child
 ||3503c6c81a.com^$ctag=user_child
 ||3505119.notify6.com^$ctag=user_child
-||3505123.notifysrv.com^$ctag=user_child
 ||3505127.notify6.com^$ctag=user_child
 ||3505135.notifysrv.com^$ctag=user_child
 ||3505137.notify6.com^$ctag=user_child
@@ -1047,36 +1008,26 @@
 ||3505143.notifysrv.com^$ctag=user_child
 ||3505743.notifysrv.com^$ctag=user_child
 ||3505935.notify6.com^$ctag=user_child
-||3505963.notifysrv.com^$ctag=user_child
 ||3505983.notifysrv.com^$ctag=user_child
 ||3506005.notify6.com^$ctag=user_child
 ||3508349.notifysrv.com^$ctag=user_child
 ||3508759.notifysrv.com^$ctag=user_child
-||3508993.notifysrv.com^$ctag=user_child
 ||3510151.notifysrv.com^$ctag=user_child
-||3512011.notifysrv.com^$ctag=user_child
 ||3512423.notifysrv.com^$ctag=user_child
 ||3513563.notifysrv.com^$ctag=user_child
-||3518189.notifysrv.com^$ctag=user_child
 ||3520653.notifysrv.com^$ctag=user_child
 ||3523289.notifysrv.com^$ctag=user_child
 ||352396e005.com^$ctag=user_child
-||3524303.notifysrv.com^$ctag=user_child
 ||3524325.notifysrv.com^$ctag=user_child
 ||3524339.notify6.com^$ctag=user_child
 ||3527699.notifysrv.com^$ctag=user_child
 ||3530761.notify6.com^$ctag=user_child
 ||3532273.notifysrv.com^$ctag=user_child
-||3532663.notifysrv.com^$ctag=user_child
 ||3535661.notify6.com^$ctag=user_child
 ||3538043.notify6.com^$ctag=user_child
 ||3538565.notify6.com^$ctag=user_child
-||3538613.notifysrv.com^$ctag=user_child
 ||3539463.notifysrv.com^$ctag=user_child
-||3541095.notifysrv.com^$ctag=user_child
 ||3542163.notifysrv.com^$ctag=user_child
-||3544557.notify6.com^$ctag=user_child
-||3544647.notify6.com^$ctag=user_child
 ||35452888.xyz^$ctag=user_child
 ||3549573.notifysrv.com^$ctag=user_child
 ||3553611.notify6.com^$ctag=user_child
@@ -1084,33 +1035,23 @@
 ||3556651.notifysrv.com^$ctag=user_child
 ||3557559.notify6.com^$ctag=user_child
 ||356.freeonlinegayporn.com^$ctag=user_child
-||3562667.notify6.com^$ctag=user_child
 ||3563549.notify6.com^$ctag=user_child
 ||3563551.notifysrv.com^$ctag=user_child
 ||3563655.notify6.com^$ctag=user_child
 ||3566695.notifysrv.com^$ctag=user_child
-||3566697.notifysrv.com^$ctag=user_child
-||3566839.notifysrv.com^$ctag=user_child
-||3568955.notify6.com^$ctag=user_child
 ||3569081.notify6.com^$ctag=user_child
 ||3569513.notifysrv.com^$ctag=user_child
 ||3570033.notifysrv.com^$ctag=user_child
 ||3570673.notify6.com^$ctag=user_child
 ||3570727.notifysrv.com^$ctag=user_child
-||3570737.notifysrv.com^$ctag=user_child
 ||3570741.notifysrv.com^$ctag=user_child
-||3570789.notifysrv.com^$ctag=user_child
-||3572273.notify6.com^$ctag=user_child
 ||3572273.notifysrv.com^$ctag=user_child
 ||3572277.notifysrv.com^$ctag=user_child
 ||3572291.notify6.com^$ctag=user_child
 ||3572293.notifysrv.com^$ctag=user_child
 ||3572295.notify6.com^$ctag=user_child
 ||3572299.notify6.com^$ctag=user_child
-||3572299.notifysrv.com^$ctag=user_child
 ||3572904.notifysrv.com^$ctag=user_child
-||3576531.notifysrv.com^$ctag=user_child
-||3578227.notify6.com^$ctag=user_child
 ||3578231.notify6.com^$ctag=user_child
 ||3578231.notifysrv.com^$ctag=user_child
 ||3578233.notify6.com^$ctag=user_child
@@ -1122,18 +1063,13 @@
 ||3587733.notifysrv.com^$ctag=user_child
 ||3587799.notifysrv.com^$ctag=user_child
 ||3588135.notify6.com^$ctag=user_child
-||3588587.notifysrv.com^$ctag=user_child
-||3588589.notify6.com^$ctag=user_child
 ||3588597.notifysrv.com^$ctag=user_child
 ||3588599.notifysrv.com^$ctag=user_child
 ||3589779.notify6.com^$ctag=user_child
 ||3591075.notify6.com^$ctag=user_child
 ||3591075.notifysrv.com^$ctag=user_child
-||3593835.notify6.com^$ctag=user_child
-||3593847.notifysrv.com^$ctag=user_child
 ||3593859.notifysrv.com^$ctag=user_child
 ||3595095.notifysrv.com^$ctag=user_child
-||3595711.notify6.com^$ctag=user_child
 ||3595711.notifysrv.com^$ctag=user_child
 ||3598457.notifysrv.com^$ctag=user_child
 ||3599613.notify6.com^$ctag=user_child
@@ -1173,12 +1109,9 @@
 ||3653689.notifysrv.com^$ctag=user_child
 ||3654845.notify6.com^$ctag=user_child
 ||3661193.notify6.com^$ctag=user_child
-||3662555.notifysrv.com^$ctag=user_child
 ||3662557.notifysrv.com^$ctag=user_child
 ||3662563.notifysrv.com^$ctag=user_child
 ||3662593.notifysrv.com^$ctag=user_child
-||3662601.notifysrv.com^$ctag=user_child
-||3662839.notify6.com^$ctag=user_child
 ||3662845.notify6.com^$ctag=user_child
 ||3662845.notifysrv.com^$ctag=user_child
 ||3662897.notifysrv.com^$ctag=user_child
@@ -1206,18 +1139,15 @@
 ||3701725.notifysrv.com^$ctag=user_child
 ||3701939.notify6.com^$ctag=user_child
 ||37066957.xyz^$ctag=user_child
-||3710061.notify6.com^$ctag=user_child
 ||3710069.notify6.com^$ctag=user_child
 ||3710069.notifysrv.com^$ctag=user_child
 ||3710075.notify6.com^$ctag=user_child
 ||3714181.notify6.com^$ctag=user_child
 ||3714181.notifysrv.com^$ctag=user_child
 ||3715633.notifysrv.com^$ctag=user_child
-||3717105.notify6.com^$ctag=user_child
 ||3719901.notify6.com^$ctag=user_child
 ||37243211.xyz^$ctag=user_child
 ||3724345.notify6.com^$ctag=user_child
-||3724345.notifysrv.com^$ctag=user_child
 ||3728675.notify6.com^$ctag=user_child
 ||3728675.notifysrv.com^$ctag=user_child
 ||372ae6b830.com^$ctag=user_child
@@ -1264,7 +1194,6 @@
 ||3837643.notifysrv.com^$ctag=user_child
 ||3843075.notify6.com^$ctag=user_child
 ||3843131.notify6.com^$ctag=user_child
-||3845271.notify6.com^$ctag=user_child
 ||3849719.notify6.com^$ctag=user_child
 ||3853331.notify6.com^$ctag=user_child
 ||3853333.notify6.com^$ctag=user_child
@@ -1347,7 +1276,6 @@
 ||3961144.notify6.com^$ctag=user_child
 ||3961146.notify6.com^$ctag=user_child
 ||3961386.notify6.com^$ctag=user_child
-||3961402.notify6.com^$ctag=user_child
 ||3961406.notify6.com^$ctag=user_child
 ||3965102.notify6.com^$ctag=user_child
 ||3968040.notify6.com^$ctag=user_child
@@ -1359,7 +1287,6 @@
 ||3982708.notify6.com^$ctag=user_child
 ||3984766.notify6.com^$ctag=user_child
 ||3984926.notify6.com^$ctag=user_child
-||3989692.notify6.com^$ctag=user_child
 ||3990818.notify6.com^$ctag=user_child
 ||3997384.notify6.com^$ctag=user_child
 ||3997386.notify6.com^$ctag=user_child
@@ -1396,7 +1323,6 @@
 ||3d55b46c91.78187cbed6.com^$ctag=user_child
 ||3d781321bc.5ec1d56c09.com^$ctag=user_child
 ||3dbe0d1f5f.com^$ctag=user_child
-||3dd3a44e1c.1c8c1287bc.com^$ctag=user_child
 ||3dedca7f84.com^$ctag=user_child
 ||3e0605983a.com^$ctag=user_child
 ||3e1898dbbe.com^$ctag=user_child
@@ -1425,6 +1351,7 @@
 ||3qfe1gfa.de^$ctag=user_child
 ||3qnb4ngoicq8mo53w6n5.rest^$ctag=user_child
 ||3rtirxpbxip84t.rest^$ctag=user_child
+||3tmwf3qjfm4gkvqho8.rest^$ctag=user_child
 ||3wr110.net^$ctag=user_child
 ||3xfm2zh11nz1iq9m.rest^$ctag=user_child
 ||3y67xtmlll29hg.rest^$ctag=user_child
@@ -1443,7 +1370,6 @@
 ||4022684.notify6.com^$ctag=user_child
 ||4027d86a39.542cf0845e.com^$ctag=user_child
 ||4028412.notify6.com^$ctag=user_child
-||4028414.notify6.com^$ctag=user_child
 ||4031264.notify6.com^$ctag=user_child
 ||4031266.notify6.com^$ctag=user_child
 ||403252b851.f7d607451c.com^$ctag=user_child
@@ -1561,7 +1487,6 @@
 ||4241048.notify6.com^$ctag=user_child
 ||4241052.notify6.com^$ctag=user_child
 ||4243868.notify6.com^$ctag=user_child
-||42532fc91f.43512fee11.com^$ctag=user_child
 ||4255510.notify6.com^$ctag=user_child
 ||4259086.notify6.com^$ctag=user_child
 ||425kmk7n9wn21pwvl18.xyz^$ctag=user_child
@@ -1635,6 +1560,7 @@
 ||44b6d66394.a2e5b82fea.com^$ctag=user_child
 ||44cd912290.com^$ctag=user_child
 ||44fc0648ef.6cde8b5544.com^$ctag=user_child
+||44x.io^$ctag=user_child
 ||450a.feet9.com^$ctag=user_child
 ||4527824.notify6.com^$ctag=user_child
 ||452tapgn.de^$ctag=user_child
@@ -1682,7 +1608,6 @@
 ||4795232.notify6.com^$ctag=user_child
 ||4795268.notify6.com^$ctag=user_child
 ||4795272.notify6.com^$ctag=user_child
-||4795274.notify6.com^$ctag=user_child
 ||4795280.notify6.com^$ctag=user_child
 ||4795286.notify6.com^$ctag=user_child
 ||4795320.notify6.com^$ctag=user_child
@@ -1705,6 +1630,7 @@
 ||4815238.notify6.com^$ctag=user_child
 ||4815462.notify6.com^$ctag=user_child
 ||4819336.notify6.com^$ctag=user_child
+||482e528949.com^$ctag=user_child
 ||48304789.xyz^$ctag=user_child
 ||4832634.notify6.com^$ctag=user_child
 ||4832912.notify6.com^$ctag=user_child
@@ -1731,7 +1657,6 @@
 ||4897578.notify6.com^$ctag=user_child
 ||48a11e6b12.com^$ctag=user_child
 ||48d368a6f7.com^$ctag=user_child
-||4902880.notify6.com^$ctag=user_child
 ||4917212.notify6.com^$ctag=user_child
 ||4919236.notify6.com^$ctag=user_child
 ||4929320.notify6.com^$ctag=user_child
@@ -1922,7 +1847,6 @@
 ||5adde1db4b.com^$ctag=user_child
 ||5advertise.com^$ctag=user_child
 ||5ae3a94233.com^$ctag=user_child
-||5b13e52520.fcc217ae84.com^$ctag=user_child
 ||5bab7c0ef6.f97feec1b5.com^$ctag=user_child
 ||5bb66f161d.com^$ctag=user_child
 ||5be7319a8b.com^$ctag=user_child
@@ -1956,6 +1880,7 @@
 ||5hto1yv5bzh5n5fp.rest^$ctag=user_child
 ||5icim50.de^$ctag=user_child
 ||5ivy3ikkt.com^$ctag=user_child
+||5klitp1tgh6x1cvqj3jxyk2.rest^$ctag=user_child
 ||5kov1f2o.xyz^$ctag=user_child
 ||5l33bz3v67rqphjv.rest^$ctag=user_child
 ||5mh7wp1gl3nvkx.cyou^$ctag=user_child
@@ -1975,6 +1900,7 @@
 ||5vpbnbkiey24.com^$ctag=user_child
 ||5wuefo9haif3.com^$ctag=user_child
 ||5xd3jfwl9e8v.com^$ctag=user_child
+||5y6ipuyqc6k46w.cfd^$ctag=user_child
 ||5yw6hre7vei3qzgvglinhwf526ev959ky6.cfd^$ctag=user_child
 ||6-partner.com^$ctag=user_child
 ||6.www.cheetahhowevertowardsfrom.com^$ctag=user_child
@@ -2049,6 +1975,7 @@
 ||693564ko1nupk3qfc.rest^$ctag=user_child
 ||6957b6e1fc.com^$ctag=user_child
 ||6969.javher.com^$ctag=user_child
+||696d82b076.e67f6fea84.com^$ctag=user_child
 ||69741211.clicknplay.to^$ctag=user_child
 ||697a3aa509.com^$ctag=user_child
 ||69f0630890.fff3cd7d36.com^$ctag=user_child
@@ -2205,6 +2132,7 @@
 ||7abdc2aae1.com^$ctag=user_child
 ||7ad490a943.b3c8cc8e2b.com^$ctag=user_child
 ||7amz.com^$ctag=user_child
+||7b315e2e97.e608df03d6.com^$ctag=user_child
 ||7b5f77dbb5.com^$ctag=user_child
 ||7b624d2bdd.com^$ctag=user_child
 ||7b862b8642.e3202e1cad.com^$ctag=user_child
@@ -2215,6 +2143,7 @@
 ||7bd3d001ff6.clicknplay.to^$ctag=user_child
 ||7bd9a61155.com^$ctag=user_child
 ||7be1e7d5ad.9287167913.com^$ctag=user_child
+||7bf7ea4016.134df17ee1.com^$ctag=user_child
 ||7bhyymw4ebrm2c7fwplxv8p.rest^$ctag=user_child
 ||7blg89ptlp5nkil.rest^$ctag=user_child
 ||7c13b412e9.com^$ctag=user_child
@@ -2587,6 +2516,7 @@
 ||a.boyjackpot.com^$ctag=user_child
 ||a.brilmaver.com^$ctag=user_child
 ||a.cant3am.com^$ctag=user_child
+||a.chmsrv.com^$ctag=user_child
 ||a.clickintact.com^$ctag=user_child
 ||a.coinhub.wiki^$ctag=user_child
 ||a.crazyporn.xxx^$ctag=user_child
@@ -2597,7 +2527,6 @@
 ||a.digitalgiftshopping.com^$ctag=user_child
 ||a.dimao.site^$ctag=user_child
 ||a.dipi.online^$ctag=user_child
-||a.dporntube.site^$ctag=user_child
 ||a.dramb.site^$ctag=user_child
 ||a.drem.site^$ctag=user_child
 ||a.dremp.xyz^$ctag=user_child
@@ -2624,7 +2553,6 @@
 ||a.fegori.xyz^$ctag=user_child
 ||a.framb.site^$ctag=user_child
 ||a.freid.site^$ctag=user_child
-||a.frezeporn.site^$ctag=user_child
 ||a.friy.site^$ctag=user_child
 ||a.frodo.space^$ctag=user_child
 ||a.ftrem.site^$ctag=user_child
@@ -2691,6 +2619,7 @@
 ||a.ma3ion.com^$ctag=user_child
 ||a.mabipa.com^$ctag=user_child
 ||a.maturepussyporn.net^$ctag=user_child
+||a.mikbaken.com^$ctag=user_child
 ||a.moninas.store^$ctag=user_child
 ||a.mx.notifysrv.com^$ctag=user_child
 ||a.mystr1.xyz^$ctag=user_child
@@ -3201,6 +3130,7 @@
 ||acuteprone.com^$ctag=user_child
 ||acvraulxhsvkr.com^$ctag=user_child
 ||acvxskfeohrzi.online^$ctag=user_child
+||acygxzgjlnhvi.website^$ctag=user_child
 ||aczqghbgetaef.store^$ctag=user_child
 ||aczrxebflhpkx.online^$ctag=user_child
 ||ad-api.gl-inet.com^$ctag=user_child
@@ -3314,7 +3244,6 @@
 ||adarutoad.com^$ctag=user_child
 ||adasgmp.cc^$ctag=user_child
 ||adasgsts.cc^$ctag=user_child
-||adb.deflr.com^$ctag=user_child
 ||adbit.co^$ctag=user_child
 ||adbite.com^$ctag=user_child
 ||adbits.online^$ctag=user_child
@@ -3979,7 +3908,6 @@
 ||adzs.com^$ctag=user_child
 ||adztech-delivery.reviveservers.com^$ctag=user_child
 ||adztech-images.reviveservers.com^$ctag=user_child
-||ae-edqfrmstp.one^$ctag=user_child
 ||ae4a30136a.com^$ctag=user_child
 ||ae554bd9ee.com^$ctag=user_child
 ||aeaeantimbers.cyou^$ctag=user_child
@@ -4016,6 +3944,7 @@
 ||aetvellt.net^$ctag=user_child
 ||aeucjiicbgosj.site^$ctag=user_child
 ||aeviagrieves.cfd^$ctag=user_child
+||aexnljipwpbbi.site^$ctag=user_child
 ||aeym37jp.xyz^$ctag=user_child
 ||aezvrrtyjovwt.online^$ctag=user_child
 ||af305e6c77.com^$ctag=user_child
@@ -4023,6 +3952,7 @@
 ||af9550f443.c1db3bcb4b.com^$ctag=user_child
 ||afae561ed5.3165de3ff8.com^$ctag=user_child
 ||afahivar.coom^$ctag=user_child
+||afanglffjywuu.site^$ctag=user_child
 ||afbavrlcwefya.space^$ctag=user_child
 ||afbvnjyxvizaz.space^$ctag=user_child
 ||afcntvlruzigd.online^$ctag=user_child
@@ -4209,6 +4139,7 @@
 ||agileskincareunrented.com^$ctag=user_child
 ||agingravenous.com^$ctag=user_child
 ||aginnercheated.help^$ctag=user_child
+||agistorarder.cyou^$ctag=user_child
 ||agitatechampionship.com^$ctag=user_child
 ||agitatedfoot.com^$ctag=user_child
 ||agitatedleadership.com^$ctag=user_child
@@ -4279,6 +4210,7 @@
 ||ahdvpuovkaz.com^$ctag=user_child
 ||aheadprincessmeal.com^$ctag=user_child
 ||aheebacoadseech.xyz^$ctag=user_child
+||ahejadicyivel.site^$ctag=user_child
 ||ahftrokawda.com^$ctag=user_child
 ||ahfxdqlnlwpyz.site^$ctag=user_child
 ||ahgpiumykrvtj.site^$ctag=user_child
@@ -4519,6 +4451,7 @@
 ||al-adtech.com^$ctag=user_child
 ||al5sm.com^$ctag=user_child
 ||alabafpyhfmdx.site^$ctag=user_child
+||alaestey.shop^$ctag=user_child
 ||alagaodealing.com^$ctag=user_child
 ||alainchug.com^$ctag=user_child
 ||alalos.com^$ctag=user_child
@@ -4780,6 +4713,7 @@
 ||ambratoryt.go-srv.com^$ctag=user_child
 ||amcleacoflg.net^$ctag=user_child
 ||amdahlpothery.help^$ctag=user_child
+||ameblojp.live^$ctag=user_child
 ||amelatrina.com^$ctag=user_child
 ||amelectivireer.com^$ctag=user_child
 ||amendmentbutterfly.com^$ctag=user_child
@@ -4817,6 +4751,7 @@
 ||amolesramsons.cfd^$ctag=user_child
 ||amon1.net^$ctag=user_child
 ||amongfurfooz.cfd^$ctag=user_child
+||amongstbirdbath.com^$ctag=user_child
 ||amoraicsabella.rest^$ctag=user_child
 ||amoralforsteppe.com^$ctag=user_child
 ||amorhypho.help^$ctag=user_child
@@ -4832,6 +4767,7 @@
 ||amphibian.studionimbus.nl^$ctag=user_child
 ||amphibian.tboa.club^$ctag=user_child
 ||ample-speaker.pro^$ctag=user_child
+||amplejuicers.click^$ctag=user_child
 ||amplify.madison365.com^$ctag=user_child
 ||ampxchange.com^$ctag=user_child
 ||ampyzvcxspfep.site^$ctag=user_child
@@ -4883,6 +4819,7 @@
 ||analytics.analytics-egain.com^$ctag=user_child
 ||analyticsq.com^$ctag=user_child
 ||analyticsq1.com^$ctag=user_child
+||analyzeunsettled.com^$ctag=user_child
 ||anamaembush.com^$ctag=user_child
 ||anamuel-careslie.com^$ctag=user_child
 ||anapirate.com^$ctag=user_child
@@ -4918,6 +4855,7 @@
 ||anedukerationpeci.com^$ctag=user_child
 ||aneguftwymwfg.store^$ctag=user_child
 ||anelewakas.com^$ctag=user_child
+||anensttarde.rest^$ctag=user_child
 ||aneorwd.com^$ctag=user_child
 ||aneurinnoddles.digital^$ctag=user_child
 ||anewfeedliberty.com^$ctag=user_child
@@ -5097,6 +5035,7 @@
 ||aokxcojgnjjkv.online^$ctag=user_child
 ||aokxjkrmw.net^$ctag=user_child
 ||aoliterzgyhnv.website^$ctag=user_child
+||aomaezazuwios.website^$ctag=user_child
 ||aomirflc.com^$ctag=user_child
 ||aomxqfcj.global^$ctag=user_child
 ||aopapp.com^$ctag=user_child
@@ -5206,6 +5145,7 @@
 ||apozemachimera.cfd^$ctag=user_child
 ||app-momentum.com^$ctag=user_child
 ||app.189tutors.com^$ctag=user_child
+||app.dlsite123.online^$ctag=user_child
 ||app.iugbhsu.com^$ctag=user_child
 ||app.noviclick.com^$ctag=user_child
 ||app.phimvu.app^$ctag=user_child
@@ -5414,7 +5354,6 @@
 ||argyriatergite.cyou^$ctag=user_child
 ||argyricmosaics.cyou^$ctag=user_child
 ||argyricshrups.qpon^$ctag=user_child
-||arhelioptileon.com^$ctag=user_child
 ||arhxjhicpa.com^$ctag=user_child
 ||ariasmajored.cyou^$ctag=user_child
 ||aricinquerida.com^$ctag=user_child
@@ -5443,6 +5382,7 @@
 ||armedtidying.com^$ctag=user_child
 ||armfhefszehro.site^$ctag=user_child
 ||armfulmakari.shop^$ctag=user_child
+||armillaboxcars.com^$ctag=user_child
 ||arminebefancy.help^$ctag=user_child
 ||arminius.io^$ctag=user_child
 ||armkiqgmaram.com^$ctag=user_child
@@ -5621,7 +5561,6 @@
 ||asleepjack.com^$ctag=user_child
 ||aslnk.link^$ctag=user_child
 ||asloader.tz.de^$ctag=user_child
-||asmienshaoor.com^$ctag=user_child
 ||asnincadar.com^$ctag=user_child
 ||asnoibator.com^$ctag=user_child
 ||aso1.net^$ctag=user_child
@@ -5695,7 +5634,6 @@
 ||astonishmentfuneral.com^$ctag=user_child
 ||astoopechee.net^$ctag=user_child
 ||astraycubist.qpon^$ctag=user_child
-||astrhyhorna.com^$ctag=user_child
 ||astrokompas.com^$ctag=user_child
 ||astrologybacklightsinless.com^$ctag=user_child
 ||astrologyflyabletruth.com^$ctag=user_child
@@ -5733,6 +5671,7 @@
 ||ateeterfouled.help^$ctag=user_child
 ||ateleneguniter.shop^$ctag=user_child
 ||atelicmens.help^$ctag=user_child
+||atelierkapeika.rest^$ctag=user_child
 ||aterhouseoyope.com^$ctag=user_child
 ||atetsuthskcft.website^$ctag=user_child
 ||ateyfathertold.org^$ctag=user_child
@@ -5747,6 +5686,7 @@
 ||athingoral.cyou^$ctag=user_child
 ||athinkgrange.cfd^$ctag=user_child
 ||athletedurable.com^$ctag=user_child
+||athletic-height.pro^$ctag=user_child
 ||athlg.com^$ctag=user_child
 ||atholicncesispe.com^$ctag=user_child
 ||atholicncesispe.info^$ctag=user_child
@@ -5897,6 +5837,7 @@
 ||auntiealtogethertumor.com^$ctag=user_child
 ||auntiescincid.cyou^$ctag=user_child
 ||aunwxnuyanjjv.website^$ctag=user_child
+||auonhnrfjicf.com^$ctag=user_child
 ||auovksdjuotdb.space^$ctag=user_child
 ||auphaustouckur.net^$ctag=user_child
 ||auphjgbxvszlq.online^$ctag=user_child
@@ -5930,6 +5871,7 @@
 ||authorizedimmediate.com^$ctag=user_child
 ||authorizevanquishcovering.com^$ctag=user_child
 ||auto-deploy.pages.dev^$ctag=user_child
+||autoadrounoor.net^$ctag=user_child
 ||autoconfig.directory.notifysrv.com^$ctag=user_child
 ||autoflowbin.cyou^$ctag=user_child
 ||automatedtraffic.com^$ctag=user_child
@@ -6066,6 +6008,7 @@
 ||awesomewash.pro^$ctag=user_child
 ||awestatic.com^$ctag=user_child
 ||awestc.com^$ctag=user_child
+||aweyqaqkrzjj.top^$ctag=user_child
 ||aweyqaqkrzzr.top^$ctag=user_child
 ||awfhhbawivnii.website^$ctag=user_child
 ||awfrpupxxwqidr.net^$ctag=user_child
@@ -6147,6 +6090,7 @@
 ||axvjfzbwezssw.site^$ctag=user_child
 ||axxqqibnjdunk.space^$ctag=user_child
 ||axxynteocvosxyv.xyz^$ctag=user_child
+||axzjxagpgdoiu.online^$ctag=user_child
 ||axzrwvkfygjak.space^$ctag=user_child
 ||ay.delivery^$ctag=user_child
 ||ay267.com^$ctag=user_child
@@ -6329,7 +6273,6 @@
 ||ba61261c39.com^$ctag=user_child
 ||ba6174e1cd.com^$ctag=user_child
 ||ba7dea6a05.com^$ctag=user_child
-||ba8bed274a.0daa70aafd.com^$ctag=user_child
 ||ba9e239613.dd0254aae5.com^$ctag=user_child
 ||baalismdolisie.click^$ctag=user_child
 ||bab3105053.com^$ctag=user_child
@@ -6338,6 +6281,7 @@
 ||babboolserine.cyou^$ctag=user_child
 ||babcockwerner.cfd^$ctag=user_child
 ||babes-mansion.s3.amazonaws.com^$ctag=user_child
+||babinjectbother.com^$ctag=user_child
 ||bablohyawling.click^$ctag=user_child
 ||babmc.com^$ctag=user_child
 ||baboackoortoast.net^$ctag=user_child
@@ -6349,7 +6293,6 @@
 ||baburdpiefort.rest^$ctag=user_child
 ||babureflet.click^$ctag=user_child
 ||babyboomboomads.com^$ctag=user_child
-||babyishcommission.com^$ctag=user_child
 ||babzbvhowzvfa.site^$ctag=user_child
 ||baccarat212.com^$ctag=user_child
 ||bacchaenaggar.com^$ctag=user_child
@@ -6560,6 +6503,7 @@
 ||barracuda.verto.exchange^$ctag=user_child
 ||barrasdockage.com^$ctag=user_child
 ||barricadecourse.com^$ctag=user_child
+||barsebrustle.cyou^$ctag=user_child
 ||barsshrug.com^$ctag=user_child
 ||bartererfaxtingling.com^$ctag=user_child
 ||bartonpriority.com^$ctag=user_child
@@ -6727,7 +6671,6 @@
 ||be-frioaj.love^$ctag=user_child
 ||be06.com^$ctag=user_child
 ||be0ef76ec5.com^$ctag=user_child
-||be1c6e25e9.ca6d30883b.com^$ctag=user_child
 ||be33c66794.com^$ctag=user_child
 ||be3b287535.cf9e789bf0.com^$ctag=user_child
 ||be51586160.com^$ctag=user_child
@@ -6760,7 +6703,6 @@
 ||beaver.bluebunnypaper.com^$ctag=user_child
 ||beaver.brush.ninja^$ctag=user_child
 ||beaver.livechatlabs.com^$ctag=user_child
-||beaversforwork.com^$ctag=user_child
 ||beavertron.com^$ctag=user_child
 ||bebautvdrradc.world^$ctag=user_child
 ||bebb6fb79c.f34aabcc0e.com^$ctag=user_child
@@ -6842,7 +6784,6 @@
 ||behindforhewas.org^$ctag=user_child
 ||beingajoytow.com^$ctag=user_child
 ||beinkmquiejh.com^$ctag=user_child
-||beinlyhurlpit.com^$ctag=user_child
 ||bejkfhbmrjw.xyz^$ctag=user_child
 ||bejwponulwdwx.online^$ctag=user_child
 ||bekickpulsing.digital^$ctag=user_child
@@ -6882,7 +6823,6 @@
 ||beltcological.com^$ctag=user_child
 ||beltenefloit.com^$ctag=user_child
 ||beltingfederal.shop^$ctag=user_child
-||beltsflusker.com^$ctag=user_child
 ||beludicolor.com^$ctag=user_child
 ||belwrite.com^$ctag=user_child
 ||bemailgaudily.cfd^$ctag=user_child
@@ -6893,7 +6833,6 @@
 ||bemobtrcks.com^$ctag=user_child
 ||bemobtrk.com^$ctag=user_child
 ||bemocksmunched.com^$ctag=user_child
-||bemoltrestor.com^$ctag=user_child
 ||bemottoincord.com^$ctag=user_child
 ||bemtaistees.net^$ctag=user_child
 ||benamedtrull.cyou^$ctag=user_child
@@ -6924,7 +6863,6 @@
 ||bepchrzncipst.space^$ctag=user_child
 ||bepeltdoyly.help^$ctag=user_child
 ||bepilelaities.com^$ctag=user_child
-||bepinchyerked.com^$ctag=user_child
 ||bepqoenzlqlhv.online^$ctag=user_child
 ||berapt-medii.com^$ctag=user_child
 ||beratfoaming.shop^$ctag=user_child
@@ -6933,7 +6871,6 @@
 ||berinseosmetic.com^$ctag=user_child
 ||berkflanger.help^$ctag=user_child
 ||berlipurplin.com^$ctag=user_child
-||bermudaprimero.com^$ctag=user_child
 ||bernalwood.fumblingvacation.pro^$ctag=user_child
 ||bernooemerges.qpon^$ctag=user_child
 ||beroeform.qpon^$ctag=user_child
@@ -6944,7 +6881,6 @@
 ||bertsysxmykqm.online^$ctag=user_child
 ||berush.com^$ctag=user_child
 ||besetglaucin.shop^$ctag=user_child
-||beseviperor.com^$ctag=user_child
 ||beshaumaidoa.net^$ctag=user_child
 ||beshearnagnail.click^$ctag=user_child
 ||besideslot.com^$ctag=user_child
@@ -7060,7 +6996,6 @@
 ||bewormbedrail.help^$ctag=user_child
 ||bewraysmoropus.cyou^$ctag=user_child
 ||beyanmaan.com^$ctag=user_child
-||beyliksyowler.com^$ctag=user_child
 ||beyondpayors.com^$ctag=user_child
 ||beyondssalvage.cyou^$ctag=user_child
 ||beyourxfriend.com^$ctag=user_child
@@ -7075,8 +7010,8 @@
 ||bfast.com^$ctag=user_child
 ||bfaubcoezrihe.site^$ctag=user_child
 ||bfb9bc6900.e92030d8b1.com^$ctag=user_child
+||bfbqplghp.com^$ctag=user_child
 ||bfetpjdaebmzl.space^$ctag=user_child
-||bfjhhdmznjh.club^$ctag=user_child
 ||bfligiylbqypjkn.net^$ctag=user_child
 ||bfpartners.click^$ctag=user_child
 ||bfraircymryuh.xyz^$ctag=user_child
@@ -7150,6 +7085,7 @@
 ||bhsfjllpzzmwq.site^$ctag=user_child
 ||bhshm.com^$ctag=user_child
 ||bhu9xjvxku1jrxul79wij8i9.cfd^$ctag=user_child
+||bhxgwciqjeqld.website^$ctag=user_child
 ||bhyyiodopichc.site^$ctag=user_child
 ||biakvwhahqeto.site^$ctag=user_child
 ||biancasunlit.com^$ctag=user_child
@@ -7312,7 +7248,6 @@
 ||biucjsmmvnzbm.online^$ctag=user_child
 ||biuealqjtqkyk.website^$ctag=user_child
 ||biuuuriaiwannk.com^$ctag=user_child
-||bivdhulygjipf.store^$ctag=user_child
 ||biverbmullite.com^$ctag=user_child
 ||bivos.xyz^$ctag=user_child
 ||bivvmhkimlqzq.store^$ctag=user_child
@@ -7529,6 +7464,7 @@
 ||bluntieexeunt.com^$ctag=user_child
 ||blurbreimbursetrombone.com^$ctag=user_child
 ||blushing-nothing.pro^$ctag=user_child
+||blushingstandard.com^$ctag=user_child
 ||blusterscreens.cyou^$ctag=user_child
 ||blwadijbvbttx.space^$ctag=user_child
 ||blwdricfvhneu.space^$ctag=user_child
@@ -7627,6 +7563,7 @@
 ||boatagerooflet.help^$ctag=user_child
 ||boatcontinuing.com^$ctag=user_child
 ||boatjadeinconsistency.com^$ctag=user_child
+||boaveejaidoy.com^$ctag=user_child
 ||boazaicheewasti.net^$ctag=user_child
 ||bobabillydirect.org^$ctag=user_child
 ||bobacelfland.help^$ctag=user_child
@@ -7668,6 +7605,8 @@
 ||bogrodius.com^$ctag=user_child
 ||bogus-disk.com^$ctag=user_child
 ||bohkhufmvwim.online^$ctag=user_child
+||bohlbdqbglfvf.website^$ctag=user_child
+||bohmitevoiced.help^$ctag=user_child
 ||boidaedamara.click^$ctag=user_child
 ||boiiphyton.rest^$ctag=user_child
 ||boilerjaspis.qpon^$ctag=user_child
@@ -7799,6 +7738,7 @@
 ||borvens.com^$ctag=user_child
 ||borwortdumose.cyou^$ctag=user_child
 ||borzjournal.ru^$ctag=user_child
+||bosaisoaftir.net^$ctag=user_child
 ||boshaulr.net^$ctag=user_child
 ||bosheseschars.rest^$ctag=user_child
 ||bosplyx.com^$ctag=user_child
@@ -7923,6 +7863,7 @@
 ||bqlmweiecxpxr.online^$ctag=user_child
 ||bqnbbexmycmcg.store^$ctag=user_child
 ||bqqfztbozkwyb.site^$ctag=user_child
+||bqqrygwtehqmf.site^$ctag=user_child
 ||bqrdoilvhadpq.vip^$ctag=user_child
 ||bqrjmulwnxynr.website^$ctag=user_child
 ||bqrueuxqvhjhc.online^$ctag=user_child
@@ -8135,6 +8076,7 @@
 ||brygella.com^$ctag=user_child
 ||bryny.xyz^$ctag=user_child
 ||bryozoasauter.qpon^$ctag=user_child
+||brzcjvmxfmiep.site^$ctag=user_child
 ||brzjthsubtlwj.site^$ctag=user_child
 ||brzvtueeyyqdo.space^$ctag=user_child
 ||bs-adserver.b-cdn.net^$ctag=user_child
@@ -8154,7 +8096,6 @@
 ||bsjxodcvrvgbe.online^$ctag=user_child
 ||bskakeiotyvge.online^$ctag=user_child
 ||bskilkkuooeyy.site^$ctag=user_child
-||bsktpurreic.com^$ctag=user_child
 ||bsnwicychhpjy.website^$ctag=user_child
 ||bsqbgspa.com^$ctag=user_child
 ||bssaly.com^$ctag=user_child
@@ -8343,7 +8284,6 @@
 ||businessessities.com^$ctag=user_child
 ||businesstremendoushad.com^$ctag=user_child
 ||bustlefungus.com^$ctag=user_child
-||bustlerloins.com^$ctag=user_child
 ||bustlingdeep.pro^$ctag=user_child
 ||bustslicerstrongbox.com^$ctag=user_child
 ||busxxmopnrkmz.store^$ctag=user_child
@@ -8368,6 +8308,7 @@
 ||buttonderecho.digital^$ctag=user_child
 ||buttonsreliabletome.com^$ctag=user_child
 ||buttontileaiming.com^$ctag=user_child
+||buttysuyog.click^$ctag=user_child
 ||butvdptaaf.com^$ctag=user_child
 ||buvettesutaio.rest^$ctag=user_child
 ||buvhlspktqqoi.online^$ctag=user_child
@@ -8657,8 +8598,10 @@
 ||cahzlmvowjlcu.space^$ctag=user_child
 ||caigoowheephoa.xyz^$ctag=user_child
 ||caiheegliptojih.net^$ctag=user_child
+||cainsburlap.com^$ctag=user_child
 ||caipeesteeglo.net^$ctag=user_child
 ||cairoanoahaur.net^$ctag=user_child
+||caishuhauz.net^$ctag=user_child
 ||caitoasece.com^$ctag=user_child
 ||caizaipt.net^$ctag=user_child
 ||caizuvuptobane.net^$ctag=user_child
@@ -8784,7 +8727,6 @@
 ||capeneist.rest^$ctag=user_child
 ||caperedlevi.com^$ctag=user_child
 ||capitalistsplitting.com^$ctag=user_child
-||capletstoit.com^$ctag=user_child
 ||capndr.com^$ctag=user_child
 ||caponsstop.help^$ctag=user_child
 ||cappaecoignes.life^$ctag=user_child
@@ -8952,6 +8894,7 @@
 ||caublarlpwmsn.site^$ctag=user_child
 ||caudexintrine.com^$ctag=user_child
 ||cauditcommernal.com^$ctag=user_child
+||caujastozi.com^$ctag=user_child
 ||cauliflowertoaster.com^$ctag=user_child
 ||caulisbacile.qpon^$ctag=user_child
 ||caulishanker.qpon^$ctag=user_child
@@ -9029,6 +8972,7 @@
 ||cc2.camcaps.io^$ctag=user_child
 ||cc33b86bbf.com^$ctag=user_child
 ||cc513b382d.e8643563e6.com^$ctag=user_child
+||cc72z5nognpe7v.cfd^$ctag=user_child
 ||cc77nr43hxvhr7g844xmtmwc3.cfd^$ctag=user_child
 ||cc93bb0aee.com^$ctag=user_child
 ||ccb836bd09.com^$ctag=user_child
@@ -9225,6 +9169,7 @@
 ||cdn.uiopkl.com^$ctag=user_child
 ||cdn.ulesxbo.com^$ctag=user_child
 ||cdn.unibotscdn.com^$ctag=user_child
+||cdn.vaara.id^$ctag=user_child
 ||cdn.vcxzp.com^$ctag=user_child
 ||cdn.verwh.com^$ctag=user_child
 ||cdn.vinit.cloud^$ctag=user_child
@@ -9540,6 +9485,7 @@
 ||chanduicimline.com^$ctag=user_child
 ||changatulip.world^$ctag=user_child
 ||changeable1x.xyz^$ctag=user_child
+||changedadroitharassment.com^$ctag=user_child
 ||changejav128.fun^$ctag=user_child
 ||changuvoub.net^$ctag=user_child
 ||chantc.fumblingvacation.pro^$ctag=user_child
@@ -9574,6 +9520,7 @@
 ||chaulrophaiz.com^$ctag=user_child
 ||chautcho.com^$ctag=user_child
 ||chayotatricker.cfd^$ctag=user_child
+||chazanalbs.shop^$ctag=user_child
 ||chbwe.space^$ctag=user_child
 ||cheakjovz.com^$ctag=user_child
 ||cheapenleaving.com^$ctag=user_child
@@ -9693,6 +9640,7 @@
 ||childishbombgodless.com^$ctag=user_child
 ||childishlispbarely.com^$ctag=user_child
 ||childlessporcupinevaluables.com^$ctag=user_child
+||chiliessouped.help^$ctag=user_child
 ||chiliessupport.cyou^$ctag=user_child
 ||chilihandshakewing.com^$ctag=user_child
 ||chilimonoxidesalary.com^$ctag=user_child
@@ -9819,6 +9767,7 @@
 ||churchyardlikinglockdown.com^$ctag=user_child
 ||churrautarky.cyou^$ctag=user_child
 ||churripguttule.help^$ctag=user_child
+||churtoalot.com^$ctag=user_child
 ||churtoustob.net^$ctag=user_child
 ||chuvvsepyflgov.com^$ctag=user_child
 ||chxipdpddjlpe.global^$ctag=user_child
@@ -10044,6 +9993,7 @@
 ||clergystickingprecedent.com^$ctag=user_child
 ||clerrrep.com^$ctag=user_child
 ||cleruspalolo.cyou^$ctag=user_child
+||clever-shame.pro^$ctag=user_child
 ||cleverjump.org^$ctag=user_child
 ||clevernessdeclare.com^$ctag=user_child
 ||clevernt.com^$ctag=user_child
@@ -10320,6 +10270,7 @@
 ||cloudtrack-camp.com^$ctag=user_child
 ||cloudtraff.com^$ctag=user_child
 ||cloudvideosa.com^$ctag=user_child
+||cloudyfather.pro^$ctag=user_child
 ||cloudypotsincluded.com^$ctag=user_child
 ||cloudyreach.pro^$ctag=user_child
 ||cloureddunlin.help^$ctag=user_child
@@ -10543,6 +10494,7 @@
 ||colorlessrush.com^$ctag=user_child
 ||colossal-extension.com^$ctag=user_child
 ||colossal-pathway.life^$ctag=user_child
+||colossal-seat.com^$ctag=user_child
 ||colossalanswer.com^$ctag=user_child
 ||colossaltroubledknocked.com^$ctag=user_child
 ||colossusssp.com^$ctag=user_child
@@ -10971,6 +10923,7 @@
 ||coseyselsa.help^$ctag=user_child
 ||coshingcyano.qpon^$ctag=user_child
 ||cosmeticsgenerosity.com^$ctag=user_child
+||cosmoidboards.cyou^$ctag=user_child
 ||cosmopolifashion.fumblingvacation.pro^$ctag=user_child
 ||cosmopolitanprawn.com^$ctag=user_child
 ||cosmosbungos.cyou^$ctag=user_child
@@ -11502,6 +11455,7 @@
 ||ctm-media.com^$ctag=user_child
 ||ctnsnet.com^$ctag=user_child
 ||ctnzjwecyluvg.online^$ctag=user_child
+||ctogzfzrakjio.space^$ctag=user_child
 ||ctosrd.com^$ctag=user_child
 ||ctozowsblyidt.website^$ctag=user_child
 ||ctpbsuqfm.com^$ctag=user_child
@@ -11518,6 +11472,7 @@
 ||cts.tradepub.com^$ctag=user_child
 ||ctsbiznoeogh.site^$ctag=user_child
 ||ctsdwm.com^$ctag=user_child
+||cttidjdivuexl.website^$ctag=user_child
 ||ctubhxbaew.com^$ctag=user_child
 ||ctuqitwpic.com^$ctag=user_child
 ||ctwmcd.com^$ctag=user_child
@@ -11525,6 +11480,7 @@
 ||ctxirjhxpyjtm.space^$ctag=user_child
 ||ctxrpolj.net^$ctag=user_child
 ||ctzsryncxsdkg.site^$ctag=user_child
+||ctzzirfslkvcv.website^$ctag=user_child
 ||cubersdope.life^$ctag=user_child
 ||cubicguanin.qpon^$ctag=user_child
 ||cubicinjustice.com^$ctag=user_child
@@ -11633,6 +11589,7 @@
 ||cushoussie.net^$ctag=user_child
 ||cusserbuda.rest^$ctag=user_child
 ||cussersimmure.click^$ctag=user_child
+||cusswoolf.qpon^$ctag=user_child
 ||cust126.leftmany.pro^$ctag=user_child
 ||customads.co^$ctag=user_child
 ||customernormallyseventh.com^$ctag=user_child
@@ -11681,6 +11638,7 @@
 ||cwbtbhdhcirkr.website^$ctag=user_child
 ||cwchjisabnnmx.space^$ctag=user_child
 ||cwchmb.com^$ctag=user_child
+||cwcrcmadilrquma.com^$ctag=user_child
 ||cwelrgidh.com^$ctag=user_child
 ||cwggydrmj.net^$ctag=user_child
 ||cwicxhjljfqki.site^$ctag=user_child
@@ -13009,6 +12967,7 @@
 ||data159.click^$ctag=user_child
 ||data284.click^$ctag=user_child
 ||data369.click^$ctag=user_child
+||data527.click^$ctag=user_child
 ||data741.click^$ctag=user_child
 ||data852.click^$ctag=user_child
 ||data963.click^$ctag=user_child
@@ -13215,6 +13174,7 @@
 ||de1d3c902b.3e4d96411b.com^$ctag=user_child
 ||de2nsnw1i3egd.cloudfront.net^$ctag=user_child
 ||de7559fcbb.8b745d2e44.com^$ctag=user_child
+||dea21aeefc.com^$ctag=user_child
 ||dea9webxhb7gu.cloudfront.net^$ctag=user_child
 ||deaconsodimmigration.com^$ctag=user_child
 ||dead-management.com^$ctag=user_child
@@ -13316,6 +13276,7 @@
 ||deeplypishtennisscale.com^$ctag=user_child
 ||deepmetrix.com^$ctag=user_child
 ||deepnewsjuly.com^$ctag=user_child
+||deepretainer.com^$ctag=user_child
 ||deepsathegoh.com^$ctag=user_child
 ||deer.m1x.co^$ctag=user_child
 ||deer.ray.io^$ctag=user_child
