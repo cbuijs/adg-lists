@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1765430107 (Epoch)
+! Version: 1765516508 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -609,6 +609,7 @@
 ||news-cdn.site^$ctag=user_child
 ||newsnet.in.ua^$ctag=user_child
 ||nexac.com^$ctag=user_child
+||nextacdn.top^$ctag=user_child
 ||nickhel.com^$ctag=user_child
 ||nkis.nikkei.com^$ctag=user_child
 ||novostimira.biz^$ctag=user_child
