@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1765516508 (Epoch)
+! Version: 1765602909 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -143,6 +143,7 @@
 ||ads.feelingtouch.com^$ctag=user_child
 ||ads.imbc.com^$ctag=user_child
 ||ads.imovideo.ru^$ctag=user_child
+||ads.inmobi.com^$ctag=user_child
 ||ads.iosappsworld.com^$ctag=user_child
 ||ads.jianchiapp.com^$ctag=user_child
 ||ads.mobilityware.com^$ctag=user_child
@@ -355,6 +356,7 @@
 ||cmshow.gtimg.cn^$ctag=user_child
 ||common.duapps.com^$ctag=user_child
 ||comscore.com^$ctag=user_child
+||config.inmobi.com^$ctag=user_child
 ||config.tremorhub.com^$ctag=user_child
 ||configuration.ttpsdk.info^$ctag=user_child
 ||configure.rayjump.com^$ctag=user_child
@@ -444,6 +446,7 @@
 ||gdn.bigfishgames.com^$ctag=user_child
 ||geede.info^$ctag=user_child
 ||geoloc.yospace.com^$ctag=user_child
+||glance.inmobi.com^$ctag=user_child
 ||global.appnext.com^$ctag=user_child
 ||go.admost.com^$ctag=user_child
 ||go.mobstitialtag.com^$ctag=user_child
@@ -495,7 +498,6 @@
 ||ingamesads.gameloft.com^$ctag=user_child
 ||inmense.site^$ctag=user_child
 ||inmobi.cn^$ctag=user_child
-||inmobi.com^$ctag=user_child
 ||inmobi.net^$ctag=user_child
 ||inmobicdn.net^$ctag=user_child
 ||inmobisdk-a.akamaihd.net^$ctag=user_child
@@ -729,6 +731,7 @@
 ||skt-asum.com^$ctag=user_child
 ||smilered.com^$ctag=user_child
 ||socdm.com^$ctag=user_child
+||sonicsads.com^$ctag=user_child
 ||sonobi.com^$ctag=user_child
 ||soundcloud-pax.pandora.com^$ctag=user_child
 ||speee-ad.akamaized.net^$ctag=user_child
