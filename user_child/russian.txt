@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1765775707 (Epoch)
+! Version: 1765862107 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -159,6 +159,7 @@
 ||coads.akipress.org^$ctag=user_child
 ||compare.meteoservice.ru^$ctag=user_child
 ||contactsin.com^$ctag=user_child
+||contemo.ru^$ctag=user_child
 ||context.hotline.ua^$ctag=user_child
 ||crackac.com^$ctag=user_child
 ||d.2uha.net^$ctag=user_child
