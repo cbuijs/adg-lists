@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1766034909 (Epoch)
+! Version: 1766121309 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -710,6 +710,7 @@
 ||sdk-api.kidoz.net^$ctag=user_child
 ||sdk.adtiming.com^$ctag=user_child
 ||sdk.starbolt.io^$ctag=user_child
+||sdkc.vervegroupinc.net^$ctag=user_child
 ||sdkv2.imaginationunwired.com^$ctag=user_child
 ||se.rfvtgbyhn.com^$ctag=user_child
 ||search.adcaffe.com^$ctag=user_child
