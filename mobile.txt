@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1766121309 (Epoch)
+! Version: 1766207709 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -377,6 +377,7 @@
 ||cs02-pps-drcn.dbankcdn.com^$ctag=user_child
 ||csi.gstatic.com^$ctag=user_child
 ||ctl.buyt.in^$ctag=user_child
+||ctv-ads.api.leiniao.com^$ctag=user_child
 ||d.kugou.com^$ctag=user_child
 ||d19xf4taj229i8.cloudfront.net^$ctag=user_child
 ||d239g0z67jcted.cloudfront.net^$ctag=user_child
