@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1766207709 (Epoch)
+! Version: 1766294109 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -208,7 +208,6 @@
 ||adx-open-service.youku.com^$ctag=user_child
 ||adx-os.bridgeoos.com^$ctag=user_child
 ||adx-sg-req.bridgeoos.com^$ctag=user_child
-||adx-tk.rayjump.com^$ctag=user_child
 ||adxcorp.kr^$ctag=user_child
 ||adz.mobi^$ctag=user_child
 ||adzerk.net^$ctag=user_child
@@ -331,7 +330,6 @@
 ||cashprom.ru^$ctag=user_child
 ||casino-ad-mediation.me2zengame.com^$ctag=user_child
 ||cdn-ad.wtzw.com^$ctag=user_child
-||cdn-adn.rayjump.com^$ctag=user_child
 ||cdn-api.admost.com^$ctag=user_child
 ||cdn-cf.postitial.com^$ctag=user_child
 ||cdn-image.com^$ctag=user_child
@@ -359,7 +357,6 @@
 ||config.inmobi.com^$ctag=user_child
 ||config.tremorhub.com^$ctag=user_child
 ||configuration.ttpsdk.info^$ctag=user_child
-||configure.rayjump.com^$ctag=user_child
 ||consent.easybrain.com^$ctag=user_child
 ||contextualadv.com^$ctag=user_child
 ||cp.pushwoosh.com^$ctag=user_child
@@ -461,7 +458,6 @@
 ||gynax.com^$ctag=user_child
 ||h5.isnssdk.com^$ctag=user_child
 ||ha-api.pushwoosh.com^$ctag=user_child
-||hb.rayjump.com^$ctag=user_child
 ||hellay.net^$ctag=user_child
 ||heyzap.com^$ctag=user_child
 ||holder.com.ua^$ctag=user_child
@@ -475,7 +471,6 @@
 ||https-filtering-check.adtidy.org^$ctag=user_child
 ||huntmad.com^$ctag=user_child
 ||hw-ot-ad.a.yximgs.com^$ctag=user_child
-||hybird.rayjump.com^$ctag=user_child
 ||hybrid.ai^$ctag=user_child
 ||hyperadx.com^$ctag=user_child
 ||i-vengo.com^$ctag=user_child
@@ -601,7 +596,6 @@
 ||nbcollectretry.kugou.com^$ctag=user_child
 ||nearbyad.com^$ctag=user_child
 ||nend.net^$ctag=user_child
-||net.rayjump.com^$ctag=user_child
 ||netavenir.com^$ctag=user_child
 ||netseer.com^$ctag=user_child
 ||netshelter.net^$ctag=user_child
@@ -621,6 +615,7 @@
 ||nycp-hlb.dvgtm.akadns.net^$ctag=user_child
 ||ob.leap.app^$ctag=user_child
 ||oconner.biz^$ctag=user_child
+||octillion.tv^$ctag=user_child
 ||offerwall-adnative.com^$ctag=user_child
 ||offerwall.yandex.net^$ctag=user_child
 ||okloib88.com^$ctag=user_child
@@ -630,6 +625,7 @@
 ||open.isnssdk.com^$ctag=user_child
 ||open.kuaishouzt.com^$ctag=user_child
 ||open.kwaizt.com^$ctag=user_child
+||openglass.tv^$ctag=user_child
 ||opt8.co^$ctag=user_child
 ||os.scmpacdn.com^$ctag=user_child
 ||other.appcpi.net^$ctag=user_child
@@ -684,6 +680,7 @@
 ||r0.mradx.net^$ctag=user_child
 ||r2d2.aotter.net^$ctag=user_child
 ||rainmaker.production-public.tubi.io^$ctag=user_child
+||rayjump.com^$ctag=user_child
 ||redtram.com^$ctag=user_child
 ||reqde.sooplive.co.kr^$ctag=user_child
 ||restartad.com^$ctag=user_child
@@ -721,7 +718,6 @@
 ||serveraddr.service.kugou.com^$ctag=user_child
 ||service-ad-image-ga.prd.pluto.tv^$ctag=user_child
 ||sessionm.com^$ctag=user_child
-||setting.rayjump.com^$ctag=user_child
 ||shareasale.com^$ctag=user_child
 ||sharethrough.com^$ctag=user_child
 ||sheilaqeb.com^$ctag=user_child
@@ -847,6 +843,7 @@
 ||widespace.com^$ctag=user_child
 ||wordego.com^$ctag=user_child
 ||wtraff.com^$ctag=user_child
+||wurl.com^$ctag=user_child
 ||www.adbert.com.tw^$ctag=user_child
 ||xdrig.com^$ctag=user_child
 ||ximad.com^$ctag=user_child

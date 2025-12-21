@@ -1,5 +1,5 @@
 ! Title: DNS for CTAG "user_child".
-! Version: 1766207703 (Epoch)
+! Version: 1766294103 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
@@ -77,6 +77,7 @@
 ||06969451.xyz^$ctag=user_child
 ||06b36b4508.5813e74b18.com^$ctag=user_child
 ||06cffaae87.com^$ctag=user_child
+||06cp8ypn8j.com^$ctag=user_child
 ||06evyxnibl.com^$ctag=user_child
 ||06f7bf5b8f.com^$ctag=user_child
 ||07.go.thermofisher.com^$ctag=user_child
@@ -383,6 +384,7 @@
 ||17do048qm.de^$ctag=user_child
 ||17e3uu89ef7vb2v6l8q8nlfp9t4t6.cfd^$ctag=user_child
 ||17ed256d85.com^$ctag=user_child
+||17ryi4j3qb.com^$ctag=user_child
 ||17tcoprj2fbxilqtym4.rest^$ctag=user_child
 ||1800cnt.com^$ctag=user_child
 ||181m2fscr.de^$ctag=user_child
@@ -770,6 +772,7 @@
 ||2b178ee32a.com^$ctag=user_child
 ||2b294985f3.900f3c4717.com^$ctag=user_child
 ||2b8fa02c00.com^$ctag=user_child
+||2b91f59493.com^$ctag=user_child
 ||2ba0f6361c.com^$ctag=user_child
 ||2bc438vkkglijuu85uo.cfd^$ctag=user_child
 ||2bc533c900.com^$ctag=user_child
@@ -901,6 +904,7 @@
 ||2za.fun^$ctag=user_child
 ||2zjftxgl5s.com^$ctag=user_child
 ||2znp09oa.com^$ctag=user_child
+||2zx5hr5pbz7zpm657kck.cfd^$ctag=user_child
 ||3.5646.cn^$ctag=user_child
 ||3.cjcp.cn^$ctag=user_child
 ||3.sinecosine.nl^$ctag=user_child
@@ -1042,6 +1046,7 @@
 ||3890e014d2.com^$ctag=user_child
 ||38941752.xyz^$ctag=user_child
 ||38ds89f8.de^$ctag=user_child
+||392274exy4p2re.rest^$ctag=user_child
 ||39236100.lotre.io^$ctag=user_child
 ||3936fb9cdf.com^$ctag=user_child
 ||39489ef6ae.com^$ctag=user_child
@@ -1428,6 +1433,7 @@
 ||53c2dtzsj7t1.top^$ctag=user_child
 ||53ff0e58f9.com^$ctag=user_child
 ||53h7rxip9.com^$ctag=user_child
+||53z63p7twtw6mm4zprtvuv59.rest^$ctag=user_child
 ||540252a00b.com^$ctag=user_child
 ||540484935e.com^$ctag=user_child
 ||540f8cca2b.com^$ctag=user_child
@@ -1542,6 +1548,7 @@
 ||5lf5cujc5.com^$ctag=user_child
 ||5lu8.com^$ctag=user_child
 ||5m1cpnbnof1whie687ohjufy.rest^$ctag=user_child
+||5m9je8i2luvr8npfc82.rest^$ctag=user_child
 ||5mc92su06suu.www.abhijith.page^$ctag=user_child
 ||5mh7wp1gl3nvkx.cyou^$ctag=user_child
 ||5mm.zxfw5.cn^$ctag=user_child
@@ -2024,6 +2031,7 @@
 ||7y50wscnc8.com^$ctag=user_child
 ||7yt.org^$ctag=user_child
 ||7zb.fun^$ctag=user_child
+||7zivoy6qs.com^$ctag=user_child
 ||7zvhi46y.xyz^$ctag=user_child
 ||8.www.0u7po2vms1kr49w4.xyz^$ctag=user_child
 ||8.www.cheetahhowevertowardsfrom.com^$ctag=user_child
@@ -4492,6 +4500,7 @@
 ||abashfireworks.com^$ctag=user_child
 ||abateadversity.com^$ctag=user_child
 ||abatersurat.digital^$ctag=user_child
+||abaturenative.cfd^$ctag=user_child
 ||abb-vnbank.cc^$ctag=user_child
 ||abb030d6a7.com^$ctag=user_child
 ||abbabbbank.com^$ctag=user_child
@@ -4624,6 +4633,7 @@
 ||abkajbvlykeam.top^$ctag=user_child
 ||abkajbvlykemj.top^$ctag=user_child
 ||abkajbvlykkaa.top^$ctag=user_child
+||abkajbvlykvkr.top^$ctag=user_child
 ||abkajbvlymjor.top^$ctag=user_child
 ||abkobh.chobirich.com^$ctag=user_child
 ||abkxyinpiffsk.site^$ctag=user_child
@@ -5137,6 +5147,7 @@
 ||actpx.com^$ctag=user_child
 ||actressdoleful.com^$ctag=user_child
 ||actrkn.com^$ctag=user_child
+||actrwowlqxqkc.online^$ctag=user_child
 ||actscattydecode.com^$ctag=user_child
 ||actthrilled.com^$ctag=user_child
 ||actuallysheep.com^$ctag=user_child
@@ -5995,6 +6006,7 @@
 ||adeprimo.se^$ctag=user_child
 ||adept-door.pro^$ctag=user_child
 ||adepticily.com^$ctag=user_child
+||adeptmight.pro^$ctag=user_child
 ||adespresso.com^$ctag=user_child
 ||adeumssp.com^$ctag=user_child
 ||adevbom.com^$ctag=user_child
@@ -6221,7 +6233,6 @@
 ||adligature.com^$ctag=user_child
 ||adlightning.com^$ctag=user_child
 ||adlink.net^$ctag=user_child
-||adlink.wurl.com^$ctag=user_child
 ||adlive.io^$ctag=user_child
 ||adlmerge.com^$ctag=user_child
 ||adlog.com.com^$ctag=user_child
@@ -7071,6 +7082,7 @@
 ||adservice.sbs.co.kr^$ctag=user_child
 ||adservice.tohsoft.com^$ctag=user_child
 ||adservicemedia.dk^$ctag=user_child
+||adservices.brandcdn.com^$ctag=user_child
 ||adserving.menatech.net^$ctag=user_child
 ||adserving.unibet.com^$ctag=user_child
 ||adservingfactory.com^$ctag=user_child
@@ -7224,6 +7236,7 @@
 ||adsterratech.com^$ctag=user_child
 ||adstik.click^$ctag=user_child
 ||adstime.org^$ctag=user_child
+||adstk.io^$ctag=user_child
 ||adstock.pro^$ctag=user_child
 ||adstock.ru^$ctag=user_child
 ||adstoo.com^$ctag=user_child
@@ -7602,7 +7615,6 @@
 ||adx-open-service.youku.com^$ctag=user_child
 ||adx-os.bridgeoos.com^$ctag=user_child
 ||adx-sg-req.bridgeoos.com^$ctag=user_child
-||adx-tk.rayjump.com^$ctag=user_child
 ||adx.36kr.com^$ctag=user_child
 ||adx.baolongan.vn^$ctag=user_child
 ||adx.chinmedia.vn^$ctag=user_child
@@ -7746,6 +7758,7 @@
 ||aerezb.nepamall.com^$ctag=user_child
 ||aerialapps.com^$ctag=user_child
 ||aerialmistaken.com^$ctag=user_child
+||aeriedeuphemy.rest^$ctag=user_child
 ||aerkcgklfvqqu.space^$ctag=user_child
 ||aerodynomach.com^$ctag=user_child
 ||aerontre.com^$ctag=user_child
@@ -7766,6 +7779,7 @@
 ||aeucrt.mistergooddeal.com^$ctag=user_child
 ||aeuutffhexhbh.website^$ctag=user_child
 ||aeviagrieves.cfd^$ctag=user_child
+||aevlosxonjvrmir.com^$ctag=user_child
 ||aewgwu.icu^$ctag=user_child
 ||aexhyo.pilatos.com^$ctag=user_child
 ||aexnljipwpbbi.site^$ctag=user_child
@@ -8615,6 +8629,7 @@
 ||ahrhxdoudmngm.space^$ctag=user_child
 ||ahscdn.com^$ctag=user_child
 ||ahskummakjt.com^$ctag=user_child
+||ahsxatopf.com^$ctag=user_child
 ||ahsyxlyqjzkcz.website^$ctag=user_child
 ||ahtas.guess.com^$ctag=user_child
 ||ahtcwbfctgvnk.site^$ctag=user_child
@@ -9003,6 +9018,7 @@
 ||akwiqx.jdsports.be^$ctag=user_child
 ||akwnihwgxvmim.space^$ctag=user_child
 ||akxnizcz.com^$ctag=user_child
+||akykwfigaelavar.com^$ctag=user_child
 ||akzdrh.catofashions.com^$ctag=user_child
 ||al-adtech.com^$ctag=user_child
 ||al-smetrics.vizio.com^$ctag=user_child
@@ -9242,6 +9258,7 @@
 ||alibifailed.com^$ctag=user_child
 ||alibirasppoliteness.com^$ctag=user_child
 ||alibisstately.com^$ctag=user_child
+||aliblecarapo.click^$ctag=user_child
 ||alice.bodyandbrows.com^$ctag=user_child
 ||alicshop.com^$ctag=user_child
 ||alienated-whole.com^$ctag=user_child
@@ -9336,6 +9353,7 @@
 ||alloviewroll.com^$ctag=user_child
 ||allowac.com^$ctag=user_child
 ||allowcharitablepageant.com^$ctag=user_child
+||allowingirksome.com^$ctag=user_child
 ||allowlisted.net^$ctag=user_child
 ||allowsalmond.com^$ctag=user_child
 ||allowwholikedtoco.com^$ctag=user_child
@@ -9651,6 +9669,7 @@
 ||aminks.underarmour.com.tr^$ctag=user_child
 ||aminopay.net^$ctag=user_child
 ||aminsbedash.help^$ctag=user_child
+||amintoredgers.com^$ctag=user_child
 ||amir.cheapbaba.com^$ctag=user_child
 ||amkurolmww.com^$ctag=user_child
 ||aml.valuecommerce.com^$ctag=user_child
@@ -9715,6 +9734,7 @@
 ||amqsguelufxcb.online^$ctag=user_child
 ||amradmin.5173.com^$ctag=user_child
 ||amrlmvzyykdri.online^$ctag=user_child
+||ams-beacons.xumo.com^$ctag=user_child
 ||ams-pageview-public.s3.amazonaws.com^$ctag=user_child
 ||ams.fx678.com^$ctag=user_child
 ||ams.lustytube.net^$ctag=user_child
@@ -10727,7 +10747,6 @@
 ||analytics.ratioform.it^$ctag=user_child
 ||analytics.ravanallc.com^$ctag=user_child
 ||analytics.ravelz.com^$ctag=user_child
-||analytics.rayjump.com^$ctag=user_child
 ||analytics.raywhitecommercialsc.com^$ctag=user_child
 ||analytics.recamov.com^$ctag=user_child
 ||analytics.recept.se^$ctag=user_child
@@ -11148,6 +11167,7 @@
 ||andriaavowe.qpon^$ctag=user_child
 ||android-stat.acestream.net^$ctag=user_child
 ||android-system-virus-detect.web.app^$ctag=user_child
+||android-tv-beacons.xumo.com^$ctag=user_child
 ||android.bugly.qq.com^$ctag=user_child
 ||androidduvetscribble.com^$ctag=user_child
 ||androidfilehost.cfd^$ctag=user_child
@@ -13276,6 +13296,7 @@
 ||apyoth.com^$ctag=user_child
 ||apyqmsclrrslv.site^$ctag=user_child
 ||apyrexychuet.help^$ctag=user_child
+||apyrexysixteen.click^$ctag=user_child
 ||apytrc.com^$ctag=user_child
 ||apzce.pcrichard.com^$ctag=user_child
 ||apzionhismcgb.space^$ctag=user_child
@@ -13429,12 +13450,14 @@
 ||arepushedadorn.com^$ctag=user_child
 ||aretawag.digital^$ctag=user_child
 ||arfdxfgcmitto.online^$ctag=user_child
+||argelchanger.com^$ctag=user_child
 ||argfsrtnsyqnw.space^$ctag=user_child
 ||arglingpistole.com^$ctag=user_child
 ||argos.citruserve.com^$ctag=user_child
 ||argoulis.instadoctor.gr^$ctag=user_child
 ||argrowlitheor.com^$ctag=user_child
 ||arguebakery.com^$ctag=user_child
+||arguingbedded.shop^$ctag=user_child
 ||argumentnoblesmanages.com^$ctag=user_child
 ||argumentobligedparchment.com^$ctag=user_child
 ||argumentreefpeace.com^$ctag=user_child
@@ -13493,6 +13516,7 @@
 ||armorcatawba.help^$ctag=user_child
 ||armpitgratitudecruelty.com^$ctag=user_child
 ||armsgross.com^$ctag=user_child
+||armsnerveattestation.com^$ctag=user_child
 ||armwnp.rockabilly-rules.com^$ctag=user_child
 ||army.delivery^$ctag=user_child
 ||arnebcapella.rest^$ctag=user_child
@@ -13528,6 +13552,7 @@
 ||arraydepressinginnocence.com^$ctag=user_child
 ||arraysshahid.world^$ctag=user_child
 ||arrestjav182.fun^$ctag=user_child
+||arretiditeamosite.cfd^$ctag=user_child
 ||arrfhqatlseth.online^$ctag=user_child
 ||arriagewackier.shop^$ctag=user_child
 ||arridemummied.qpon^$ctag=user_child
@@ -13987,6 +14012,7 @@
 ||asunderfacilitydealt.com^$ctag=user_child
 ||asuriinocyte.cyou^$ctag=user_child
 ||asv.transsion.com^$ctag=user_child
+||aswaylievest.com^$ctag=user_child
 ||aswevesquirl.shop^$ctag=user_child
 ||asxmfj.myintent.org^$ctag=user_child
 ||asxmxoncntczg.website^$ctag=user_child
@@ -14264,6 +14290,7 @@
 ||attribution.tmlewinshirts.eu^$ctag=user_child
 ||attributiontrackingga.googlecode.com^$ctag=user_child
 ||atts.joingorilla.com^$ctag=user_child
+||attuneuvito.com^$ctag=user_child
 ||attykvsgxlv.net^$ctag=user_child
 ||attzg.readinggenius.com^$ctag=user_child
 ||atuamigoon.qpon^$ctag=user_child
@@ -14272,6 +14299,7 @@
 ||atvtg.andieswim.com^$ctag=user_child
 ||atwcby.trikomisirli.com.tr^$ctag=user_child
 ||atwola.com^$ctag=user_child
+||atwrimdatb.com^$ctag=user_child
 ||atwxrp.bibloo.cz^$ctag=user_child
 ||atxgdrxvaahlm.com^$ctag=user_child
 ||atycs.atron.bg^$ctag=user_child
@@ -14374,6 +14402,7 @@
 ||auhwfcyikuqam.club^$ctag=user_child
 ||auibdnglnixan.space^$ctag=user_child
 ||aukana.jp^$ctag=user_child
+||aukjylvsljien.site^$ctag=user_child
 ||auklettabbied.cyou^$ctag=user_child
 ||aukrutijirgaute.net^$ctag=user_child
 ||auksaichockoa.net^$ctag=user_child
@@ -14770,6 +14799,7 @@
 ||awywlb89y.com^$ctag=user_child
 ||awzbijw.com^$ctag=user_child
 ||awzlzznavglap.space^$ctag=user_child
+||awzpvorsyltel.website^$ctag=user_child
 ||ax.allinbazar.com^$ctag=user_child
 ||ax.amnezia.org^$ctag=user_child
 ||ax.babe.today^$ctag=user_child
@@ -14921,6 +14951,7 @@
 ||axskcjxhwjmth.online^$ctag=user_child
 ||axskltzhgkzrm.online^$ctag=user_child
 ||axvjfzbwezssw.site^$ctag=user_child
+||axwpbsweuwclq.space^$ctag=user_child
 ||axxqqibnjdunk.space^$ctag=user_child
 ||axxybl.babymall.com.tr^$ctag=user_child
 ||axxynteocvosxyv.xyz^$ctag=user_child
@@ -15378,6 +15409,7 @@
 ||baizingodic.shop^$ctag=user_child
 ||baj.fanwenzhan.com^$ctag=user_child
 ||bajoansams.net^$ctag=user_child
+||bajsikbpvc.com^$ctag=user_child
 ||bajyiflenzdxl.space^$ctag=user_child
 ||bakaevzrmcqdo.global^$ctag=user_child
 ||bakersequaled.com^$ctag=user_child
@@ -15673,6 +15705,7 @@
 ||basepush.com^$ctag=user_child
 ||basertransf.com^$ctag=user_child
 ||basetts.com^$ctag=user_child
+||bashawpeters.rest^$ctag=user_child
 ||bashconnecting.com^$ctag=user_child
 ||bashedplayas.help^$ctag=user_child
 ||basheighthnumerous.com^$ctag=user_child
@@ -15695,6 +15728,7 @@
 ||basilic.io^$ctag=user_child
 ||basilisk.community-arts.net^$ctag=user_child
 ||basilisk.laosima.com^$ctag=user_child
+||basinthug.com^$ctag=user_child
 ||basketballbelieve.com^$ctag=user_child
 ||basketballshameless.com^$ctag=user_child
 ||baskettexture.com^$ctag=user_child
@@ -15870,6 +15904,7 @@
 ||bcloudhost.com^$ctag=user_child
 ||bcluksfhyquqp.space^$ctag=user_child
 ||bcm.interactives.dk^$ctag=user_child
+||bcmimhkecgwfj.space^$ctag=user_child
 ||bcmoney.xyz^$ctag=user_child
 ||bcnewltd.club^$ctag=user_child
 ||bcngzqzripfgb.online^$ctag=user_child
@@ -16232,6 +16267,7 @@
 ||begeainrkdubh.online^$ctag=user_child
 ||begemepical.qpon^$ctag=user_child
 ||beggarconceivablecareful.com^$ctag=user_child
+||beggaryfossil.rest^$ctag=user_child
 ||beggingload.com^$ctag=user_child
 ||beggingrivulet.com^$ctag=user_child
 ||beginnerfurglow.com^$ctag=user_child
@@ -16568,6 +16604,7 @@
 ||beusable.net^$ctag=user_child
 ||bevbjebnhxqu.xyz^$ctag=user_child
 ||beveldankish.com^$ctag=user_child
+||beveyckzdzheo.site^$ctag=user_child
 ||bevfpfekwskzg.world^$ctag=user_child
 ||bevog.lineargent.com^$ctag=user_child
 ||bewailindigestionunhappy.com^$ctag=user_child
@@ -16874,6 +16911,7 @@
 ||biettaitihonvietnam2021.weebly.com^$ctag=user_child
 ||bifacesairwash.cfd^$ctag=user_child
 ||bifctyclfcwli.online^$ctag=user_child
+||bifdfzioylxdu.online^$ctag=user_child
 ||biffedpining.help^$ctag=user_child
 ||biffingmatina.com^$ctag=user_child
 ||biffinsluteins.cfd^$ctag=user_child
@@ -17091,6 +17129,7 @@
 ||biturl.co^$ctag=user_child
 ||bitwozvhflsbc.website^$ctag=user_child
 ||bitx.tv^$ctag=user_child
+||bitxnovrbzpby.online^$ctag=user_child
 ||biucjsmmvnzbm.online^$ctag=user_child
 ||biuealqjtqkyk.website^$ctag=user_child
 ||bivdhulygjipf.store^$ctag=user_child
@@ -17297,6 +17336,7 @@
 ||blatterarriba.help^$ctag=user_child
 ||blau-subdomain.b.information.blau.de^$ctag=user_child
 ||blauuamgfbuyg.site^$ctag=user_child
+||blaverrottle.shop^$ctag=user_child
 ||blaysubhall.help^$ctag=user_child
 ||blaze-media.com^$ctag=user_child
 ||blazeteamlow.com^$ctag=user_child
@@ -17316,6 +17356,7 @@
 ||bleaksalfur.cyou^$ctag=user_child
 ||bleatedvibrion.cfd^$ctag=user_child
 ||bleatyskryer.cyou^$ctag=user_child
+||bleatyworries.shop^$ctag=user_child
 ||bleedlight.com^$ctag=user_child
 ||bleepgizmorecital.com^$ctag=user_child
 ||blehcourt.com^$ctag=user_child
@@ -17770,6 +17811,7 @@
 ||boiqzsgnywkuv.today^$ctag=user_child
 ||bojel.com^$ctag=user_child
 ||bok.sklepmedic.pl^$ctag=user_child
+||bokarkgae.shop^$ctag=user_child
 ||bokbk.apothekary.co^$ctag=user_child
 ||bokepindo13.name^$ctag=user_child
 ||bokzv.spanx.com^$ctag=user_child
@@ -17810,6 +17852,7 @@
 ||bondfondif.com^$ctag=user_child
 ||bondleapedoasis.com^$ctag=user_child
 ||bondtide.com^$ctag=user_child
+||bonduccodline.com^$ctag=user_child
 ||bonepa.com^$ctag=user_child
 ||bonertraffic13.info^$ctag=user_child
 ||bonesideal.com^$ctag=user_child
@@ -17875,6 +17918,7 @@
 ||booli-logger.prod.booli.se^$ctag=user_child
 ||boom.laravel.io^$ctag=user_child
 ||boomads.com^$ctag=user_child
+||boomahamoke.com^$ctag=user_child
 ||boomboomcloud.com^$ctag=user_child
 ||boomerang.com.au^$ctag=user_child
 ||boomerang.dell.com^$ctag=user_child
@@ -17896,6 +17940,7 @@
 ||boostingads.com^$ctag=user_child
 ||boostog.net^$ctag=user_child
 ||boostquery.com^$ctag=user_child
+||boostsabella.com^$ctag=user_child
 ||bootingunpickedusable.com^$ctag=user_child
 ||bootscritp.com^$ctag=user_child
 ||bootstrap-framework.org^$ctag=user_child
@@ -18068,6 +18113,7 @@
 ||boxtrones.qpon^$ctag=user_child
 ||boxwoodofter.rest^$ctag=user_child
 ||boxycupbearerjot.com^$ctag=user_child
+||boxyonztzzcos.site^$ctag=user_child
 ||boxypluckunrelated.com^$ctag=user_child
 ||boyaubegrime.cyou^$ctag=user_child
 ||boymagicdate.com^$ctag=user_child
@@ -18651,6 +18697,7 @@
 ||buckridge.link^$ctag=user_child
 ||bucksbyland.shop^$ctag=user_child
 ||bucksmein.com^$ctag=user_child
+||bucksobsess.rest^$ctag=user_child
 ||buckumoore.com^$ctag=user_child
 ||buckweeklyrecording.com^$ctag=user_child
 ||bucnmtv.top^$ctag=user_child
@@ -19133,6 +19180,7 @@
 ||bypathcanabae.cyou^$ctag=user_child
 ||bypllv.icu^$ctag=user_child
 ||byqdtp.interpark.com^$ctag=user_child
+||byremanjokish.cfd^$ctag=user_child
 ||bysbpc.teufelaudio.nl^$ctag=user_child
 ||byscy.cn^$ctag=user_child
 ||bysfnu.bodeboca.com^$ctag=user_child
@@ -19342,6 +19390,7 @@
 ||c526b6ac88.com^$ctag=user_child
 ||c539df20bd.f0d6f616aa.com^$ctag=user_child
 ||c55d4b9929.com^$ctag=user_child
+||c5acd666f8.com^$ctag=user_child
 ||c5vvthzxhmgtov.rest^$ctag=user_child
 ||c6.friok.com^$ctag=user_child
 ||c6073077cc.com^$ctag=user_child
@@ -19626,6 +19675,7 @@
 ||campfirecroutondecorator.com^$ctag=user_child
 ||camplacecash.com^$ctag=user_child
 ||camplethora.com^$ctag=user_child
+||campshatcher.com^$ctag=user_child
 ||camptrck.com^$ctag=user_child
 ||camptwined.com^$ctag=user_child
 ||campusboletinvirtual.unisabana.edu.co^$ctag=user_child
@@ -20426,7 +20476,6 @@
 ||cdlcli.sortmund.pl^$ctag=user_child
 ||cdmxgkjxfwpww.online^$ctag=user_child
 ||cdn-ad.wtzw.com^$ctag=user_child
-||cdn-adn.rayjump.com^$ctag=user_child
 ||cdn-ads.thesaigontimes.vn^$ctag=user_child
 ||cdn-adtech.com^$ctag=user_child
 ||cdn-adtrue.com^$ctag=user_child
@@ -21578,6 +21627,7 @@
 ||chymifyimbrues.help^$ctag=user_child
 ||chyrgqtulrmvxrv.xyz^$ctag=user_child
 ||chzbwwnjlhnrk.space^$ctag=user_child
+||chzowqzedjocl.space^$ctag=user_child
 ||ci-marketing.de^$ctag=user_child
 ||ci.intuit.com^$ctag=user_child
 ||ci.quickbooks.com^$ctag=user_child
@@ -23403,7 +23453,6 @@
 ||configcontrol.com^$ctag=user_child
 ||configuration.ttpsdk.info^$ctag=user_child
 ||configure.adlermode.com^$ctag=user_child
-||configure.rayjump.com^$ctag=user_child
 ||confinekibbler.com^$ctag=user_child
 ||confirmational.com^$ctag=user_child
 ||confirmationbiscuitdescriptive.com^$ctag=user_child
@@ -23422,6 +23471,7 @@
 ||confuserage.com^$ctag=user_child
 ||confusingepisodevest.com^$ctag=user_child
 ||confusionnutmegflippers.com^$ctag=user_child
+||congasbushpig.com^$ctag=user_child
 ||congdientu247.com^$ctag=user_child
 ||congdong-awc-vongquaylienquan.tk^$ctag=user_child
 ||congdongvietnam247.com^$ctag=user_child
@@ -24231,6 +24281,7 @@
 ||cowanbespate.cyou^$ctag=user_child
 ||cowardlydefinite.com^$ctag=user_child
 ||cowbelltime.com^$ctag=user_child
+||cowingokey.com^$ctag=user_child
 ||cowkmallow.cyou^$ctag=user_child
 ||cowpencinclis.com^$ctag=user_child
 ||coxbjncgqlqzu.online^$ctag=user_child
@@ -24466,6 +24517,7 @@
 ||cqsecshf4rd9.www.tracktheta.com^$ctag=user_child
 ||cqstbvkcpbqut.one^$ctag=user_child
 ||cqtek.mesotheliomasymptoms.com^$ctag=user_child
+||cqtgadrl.com^$ctag=user_child
 ||cqtmotizjuvwe.online^$ctag=user_child
 ||cqubdd.dailymailint.co.uk^$ctag=user_child
 ||cqubdd.metro.co.uk^$ctag=user_child
@@ -24703,6 +24755,7 @@
 ||criminaldraw.pro^$ctag=user_child
 ||crimsonmeadow.com^$ctag=user_child
 ||crinalwaywode.help^$ctag=user_child
+||crinukpd.com^$ctag=user_child
 ||crisistuesdayartillery.com^$ctag=user_child
 ||crisp-crew.pro^$ctag=user_child
 ||crisp-emotion.pro^$ctag=user_child
@@ -24748,6 +24801,7 @@
 ||crochetdivas.com^$ctag=user_child
 ||crociguna.qpon^$ctag=user_child
 ||crockadilla.com^$ctag=user_child
+||crockedchhatri.rest^$ctag=user_child
 ||crockerydestructivespoken.com^$ctag=user_child
 ||crockeryrepay.com^$ctag=user_child
 ||crockuncomfortable.com^$ctag=user_child
@@ -25028,6 +25082,7 @@
 ||ctd.montagna.tv^$ctag=user_child
 ||ctd.quattroruote.it^$ctag=user_child
 ||ctdfm.ilgiornale.it^$ctag=user_child
+||ctdowlapwyuwq.site^$ctag=user_child
 ||ctelqtracking.wolterskluwer.com^$ctag=user_child
 ||ctengine.io^$ctag=user_child
 ||ctent.povvverz.one^$ctag=user_child
@@ -30142,6 +30197,7 @@
 ||ddfcash.com^$ctag=user_child
 ||ddfhr.digitalempire.tech^$ctag=user_child
 ||ddfocqtbglcxt.website^$ctag=user_child
+||ddgfdhuroikde.com^$ctag=user_child
 ||ddgjjj.com^$ctag=user_child
 ||ddhhbh.alfaromeo.fr^$ctag=user_child
 ||ddhjabqe.icu^$ctag=user_child
@@ -30197,7 +30253,6 @@
 ||de.gesundheitsratgebers.com^$ctag=user_child
 ||de.sevoly.de^$ctag=user_child
 ||de.verintsystemsinc.com^$ctag=user_child
-||de01.rayjump.com^$ctag=user_child
 ||de17a.com^$ctag=user_child
 ||de1d3c902b.3e4d96411b.com^$ctag=user_child
 ||de2nsnw1i3egd.cloudfront.net^$ctag=user_child
@@ -30397,6 +30452,7 @@
 ||defpnxtshgfnu.website^$ctag=user_child
 ||defppmasu35cw.cloudfront.net^$ctag=user_child
 ||defpush.com^$ctag=user_child
+||defraysrattens.help^$ctag=user_child
 ||defroststringbenignity.com^$ctag=user_child
 ||deftestromansh.qpon^$ctag=user_child
 ||defuzedya.help^$ctag=user_child
@@ -30692,7 +30748,6 @@
 ||details.pella.com^$ctag=user_child
 ||detailsallaround.org^$ctag=user_child
 ||detarbureaux.qpon^$ctag=user_child
-||detect.rayjump.com^$ctag=user_child
 ||detectca.easysol.net^$ctag=user_child
 ||detectdinner.com^$ctag=user_child
 ||detectdiscovery.com^$ctag=user_child
@@ -31132,6 +31187,7 @@
 ||dicouksa.com^$ctag=user_child
 ||dicsr.jadedldn.com^$ctag=user_child
 ||dictateirriplaceableirriplaceable.com^$ctag=user_child
+||dicterybalatte.help^$ctag=user_child
 ||did-it.com^$ctag=user_child
 ||didalpollex.cyou^$ctag=user_child
 ||diddestrewinds.top^$ctag=user_child
@@ -31608,6 +31664,7 @@
 ||distancedreamboatstoic.com^$ctag=user_child
 ||distancesets.com^$ctag=user_child
 ||distant-branch.pro^$ctag=user_child
+||distantschedule.pro^$ctag=user_child
 ||distillery.wistia.com^$ctag=user_child
 ||distiltag.com^$ctag=user_child
 ||distinctdearly.com^$ctag=user_child
@@ -31719,6 +31776,7 @@
 ||djwf0dl2q9i99.cloudfront.net^$ctag=user_child
 ||djwyp.aritzia.com^$ctag=user_child
 ||djxejkswghqlq.site^$ctag=user_child
+||djxh1.com^$ctag=user_child
 ||djxtphppxkzkx.website^$ctag=user_child
 ||djyvrqsdwfcrh.store^$ctag=user_child
 ||djz9es32qen64.cloudfront.net^$ctag=user_child
@@ -32018,6 +32076,7 @@
 ||dngzvmztykhkw.online^$ctag=user_child
 ||dnh523js9661q.cloudfront.net^$ctag=user_child
 ||dnhfi5nn2dt67.cloudfront.net^$ctag=user_child
+||dnhjvfwwf.com^$ctag=user_child
 ||dnhrxt.kintetsu-re.co.jp^$ctag=user_child
 ||dniiypanzutzi.site^$ctag=user_child
 ||dnivu.omadays.com^$ctag=user_child
@@ -32340,6 +32399,7 @@
 ||dotreliable.com^$ctag=user_child
 ||dotserver.douyucdn.cn^$ctag=user_child
 ||dotsrv.com^$ctag=user_child
+||dottledsurf.cfd^$ctag=user_child
 ||dottypeguidance.com^$ctag=user_child
 ||dotyruntchan.com^$ctag=user_child
 ||douaoocmkytcg.site^$ctag=user_child
@@ -32483,6 +32543,7 @@
 ||dq95d35.com^$ctag=user_child
 ||dqd5t8xfxmhi7.cloudfront.net^$ctag=user_child
 ||dqdmiktuordrb.site^$ctag=user_child
+||dqdsnemauijvc.online^$ctag=user_child
 ||dqdtshdifbwm.xyz^$ctag=user_child
 ||dqdwbo.ellamila.com^$ctag=user_child
 ||dqecz.titan.fitness^$ctag=user_child
@@ -32630,6 +32691,7 @@
 ||drient.xyz^$ctag=user_child
 ||driftingchef.com^$ctag=user_child
 ||driftpizza.com^$ctag=user_child
+||driftstaggedcaserne.cfd^$ctag=user_child
 ||driftt.com^$ctag=user_child
 ||drillcompensate.com^$ctag=user_child
 ||drilletmint.cyou^$ctag=user_child
@@ -33241,6 +33303,7 @@
 ||dxqqoctjgddts.space^$ctag=user_child
 ||dxqvjzovgicms.website^$ctag=user_child
 ||dxrzix.iway.ch^$ctag=user_child
+||dxsbkcsximcja.space^$ctag=user_child
 ||dxsgcb.kpaloa.com^$ctag=user_child
 ||dxsvyhdrnpsom.online^$ctag=user_child
 ||dxtekvvuwgjsg.site^$ctag=user_child
@@ -33653,6 +33716,7 @@
 ||earscosign.top^$ctag=user_child
 ||earth.cointelegraph.com^$ctag=user_child
 ||earthcanchas.cfd^$ctag=user_child
+||earthlybuzz.com^$ctag=user_child
 ||earthlytailpin.world^$ctag=user_child
 ||earthups.com^$ctag=user_child
 ||earthworm.creatifmediagroup.com^$ctag=user_child
@@ -34025,6 +34089,7 @@
 ||ectkts.silux.ba^$ctag=user_child
 ||ectsofcukorpor.com^$ctag=user_child
 ||ectuklyeconen.com^$ctag=user_child
+||ectypeslitster.rest^$ctag=user_child
 ||ecuryrentattribut.org^$ctag=user_child
 ||ecustomeropinions.com^$ctag=user_child
 ||ecvkanuzgekpb.website^$ctag=user_child
@@ -34152,6 +34217,7 @@
 ||edolsbjawiinj.website^$ctag=user_child
 ||edomz.com^$ctag=user_child
 ||edonwiqgwlvmc.online^$ctag=user_child
+||edovjokbyaooq.com^$ctag=user_child
 ||edprivatedqualize.org^$ctag=user_child
 ||edpwikvvdmetv.store^$ctag=user_child
 ||edqonucyjsayy.website^$ctag=user_child
@@ -34462,6 +34528,7 @@
 ||ehox67pahs.com^$ctag=user_child
 ||ehqaobjhna.com^$ctag=user_child
 ||ehqfiiwqkosey.website^$ctag=user_child
+||ehqifdeycnmjt.website^$ctag=user_child
 ||ehqot.southtree.com^$ctag=user_child
 ||ehrydnmdoe.com^$ctag=user_child
 ||eht.endress.com^$ctag=user_child
@@ -34530,6 +34597,7 @@
 ||eitxkgnygjdsu.website^$ctag=user_child
 ||eiv.baidu.com^$ctag=user_child
 ||eiwouldlikukemyf.com^$ctag=user_child
+||eixgdeonnumrp.site^$ctag=user_child
 ||eiyu7532.xyz^$ctag=user_child
 ||eizcfqypdourg.online^$ctag=user_child
 ||eizda.nelsondigital.io^$ctag=user_child
@@ -34712,6 +34780,7 @@
 ||elite-flirts-find.com^$ctag=user_child
 ||elite-s001.com^$ctag=user_child
 ||elite-thedatingfind.com^$ctag=user_child
+||elitebidder.com^$ctag=user_child
 ||eliteclng.ericksonbuilt.com^$ctag=user_child
 ||elitics.com^$ctag=user_child
 ||elitiorecfreetoo.cc^$ctag=user_child
@@ -35010,6 +35079,7 @@
 ||emeraldsoddite.life^$ctag=user_child
 ||emergeddoleful.com^$ctag=user_child
 ||emergencyidiomjokingly.com^$ctag=user_child
+||emergencystopped.com^$ctag=user_child
 ||emetinrangle.help^$ctag=user_child
 ||emetrics.bose.com^$ctag=user_child
 ||emetrics.eastwestbank.com^$ctag=user_child
@@ -35456,6 +35526,7 @@
 ||envoymusicianpaid.com^$ctag=user_child
 ||envoysalaamnimmed.cfd^$ctag=user_child
 ||envqhrcdyxkwi.website^$ctag=user_child
+||envylennow.shop^$ctag=user_child
 ||envzbsbokoqtm.space^$ctag=user_child
 ||enwgkdbgbzwil.online^$ctag=user_child
 ||enwomanskeich.cfd^$ctag=user_child
@@ -36192,6 +36263,7 @@
 ||eumgzcvgskxcz.site^$ctag=user_child
 ||eumromqtxaj.com^$ctag=user_child
 ||eumtjfyvqtamt.store^$ctag=user_child
+||euncfyxy.com^$ctag=user_child
 ||eung95wkni.com^$ctag=user_child
 ||eunicebarbero.cfd^$ctag=user_child
 ||eunow4u.com^$ctag=user_child
@@ -36328,6 +36400,7 @@
 ||event.webcollage.net^$ctag=user_child
 ||event.wondershare.com^$ctag=user_child
 ||event1.thermoscientific.com^$ctag=user_child
+||eventabsorbedrichard.com^$ctag=user_child
 ||eventapi.libring.com^$ctag=user_child
 ||eventapi.sooplive.co.kr^$ctag=user_child
 ||eventbus.intuit.com^$ctag=user_child
@@ -36612,6 +36685,7 @@
 ||ewgkjq.deercase.com^$ctag=user_child
 ||ewgu.cn^$ctag=user_child
 ||ewhareey.com^$ctag=user_child
+||ewhewfncwelac.com^$ctag=user_child
 ||ewhfrfdrwffkg.website^$ctag=user_child
 ||ewhrgaiuttvig.space^$ctag=user_child
 ||ewilmiw.top^$ctag=user_child
@@ -36719,6 +36793,7 @@
 ||exfjpw.com^$ctag=user_child
 ||exflectheydey.cyou^$ctag=user_child
 ||exgfpkgvgqzdz.online^$ctag=user_child
+||exhaustedexamination.pro^$ctag=user_child
 ||exhaustedmusic.pro^$ctag=user_child
 ||exhaustingflames.com^$ctag=user_child
 ||exhibit.firex.co.uk^$ctag=user_child
@@ -37283,6 +37358,7 @@
 ||fancyrat.flatuicolors.com^$ctag=user_child
 ||fancyrat.keurslager-goeminne.be^$ctag=user_child
 ||fancyresponse.com^$ctag=user_child
+||fancytravelingrid.com^$ctag=user_child
 ||fancywhim.com^$ctag=user_child
 ||fandelcot.com^$ctag=user_child
 ||fanfishupases.world^$ctag=user_child
@@ -37322,6 +37398,7 @@
 ||faraway-economics.com^$ctag=user_child
 ||faraway-pool.pro^$ctag=user_child
 ||farawayinstallation.com^$ctag=user_child
+||farawaynothing.pro^$ctag=user_child
 ||farceabn.cyou^$ctag=user_child
 ||farcyhulkily.cyou^$ctag=user_child
 ||fardasub.xyz^$ctag=user_child
@@ -37427,6 +37504,7 @@
 ||fatalfear.pro^$ctag=user_child
 ||fatalimpurefuse.com^$ctag=user_child
 ||fatalityplatinumthing.com^$ctag=user_child
+||fatallybering.help^$ctag=user_child
 ||fatallydecresc.cfd^$ctag=user_child
 ||fatalshould.com^$ctag=user_child
 ||fatchilli.media^$ctag=user_child
@@ -37729,6 +37807,7 @@
 ||feed.clickmenia.com^$ctag=user_child
 ||feedad.com^$ctag=user_child
 ||feedads.feedblitz.com^$ctag=user_child
+||feedandpurr.com^$ctag=user_child
 ||feedback-c.zijieapi.com^$ctag=user_child
 ||feedback.lifeguardarena.com^$ctag=user_child
 ||feedback.nslsc-csnpe.ca^$ctag=user_child
@@ -38066,6 +38145,7 @@
 ||fidar.site^$ctag=user_child
 ||fidawiluddite.cfd^$ctag=user_child
 ||fiddlerfoxily.qpon^$ctag=user_child
+||fiddlerheml.click^$ctag=user_child
 ||fiddleyhigdon.com^$ctag=user_child
 ||fidelitygenerationsmistletoe.com^$ctag=user_child
 ||fidelslaggy.help^$ctag=user_child
@@ -38143,6 +38223,7 @@
 ||film.usuge-stop.com^$ctag=user_child
 ||filmicwiwi.cfd^$ctag=user_child
 ||filmplus.ru^$ctag=user_child
+||filmreklam.livebahispartners.com^$ctag=user_child
 ||filter-eu.a1.0network.com^$ctag=user_child
 ||filter-eu.adexone.com^$ctag=user_child
 ||filter-eu.adfootmedia.com^$ctag=user_child
@@ -38751,6 +38832,7 @@
 ||flintsuperintendent.com^$ctag=user_child
 ||flipflap.pro^$ctag=user_child
 ||flipool.com^$ctag=user_child
+||flippant-major.pro^$ctag=user_child
 ||flippantcollar.pro^$ctag=user_child
 ||flippantdamnderived.com^$ctag=user_child
 ||flippantpoetry.com^$ctag=user_child
@@ -38941,6 +39023,7 @@
 ||fmmnotstql.xyz^$ctag=user_child
 ||fmnas.innovativeweaves.com^$ctag=user_child
 ||fmnoa.rarecarat.com^$ctag=user_child
+||fmnoaqebhe.com^$ctag=user_child
 ||fmouvzcbveuun.online^$ctag=user_child
 ||fmpub.net^$ctag=user_child
 ||fmpvj.wholesalejewelrywebsite.com^$ctag=user_child
@@ -39069,6 +39152,7 @@
 ||folksbelksvanish.cyou^$ctag=user_child
 ||folkswrymyrtle.com^$ctag=user_child
 ||folksyeccl.qpon^$ctag=user_child
+||folkuntwine.help^$ctag=user_child
 ||follisspiss.qpon^$ctag=user_child
 ||follow.51tripsbrand.com^$ctag=user_child
 ||follow.bodyxtr.com^$ctag=user_child
@@ -39449,6 +39533,7 @@
 ||fqwgi.com^$ctag=user_child
 ||fqxnlh.kgcshop.co.kr^$ctag=user_child
 ||fqxqdeobcusbj.website^$ctag=user_child
+||fqzouodvgiqub.website^$ctag=user_child
 ||fqzxecinpjuws.space^$ctag=user_child
 ||fr-fr.siemensplmevents.com^$ctag=user_child
 ||fr-log.vietnamplus.vn^$ctag=user_child
@@ -39939,6 +40024,7 @@
 ||fuget.xyz^$ctag=user_child
 ||fugetech.com^$ctag=user_child
 ||fugfyhzilfnjb.website^$ctag=user_child
+||fugiogettersagogic.cyou^$ctag=user_child
 ||fugitiveautomaticallybottled.com^$ctag=user_child
 ||fuglerfisc.qpon^$ctag=user_child
 ||fuglesnits.cyou^$ctag=user_child
@@ -40274,6 +40360,7 @@
 ||fzhlcpylcgicc.online^$ctag=user_child
 ||fzip.thanhnien.vn^$ctag=user_child
 ||fzkizhppiybaj.space^$ctag=user_child
+||fzkx3p8lgyl8i2.rest^$ctag=user_child
 ||fzlhoawxkxepc.space^$ctag=user_child
 ||fzmflvwn.tech^$ctag=user_child
 ||fznidd.top^$ctag=user_child
@@ -40352,6 +40439,7 @@
 ||g8tor.com^$ctag=user_child
 ||g8ygkqhm9p.com^$ctag=user_child
 ||g986.themorningsun.com^$ctag=user_child
+||g9cvic3khh.com^$ctag=user_child
 ||g9qnk89pd5ic.com^$ctag=user_child
 ||ga-beacon.appspot.com^$ctag=user_child
 ||ga-bq-py-1.appspot.com^$ctag=user_child
@@ -40399,6 +40487,7 @@
 ||gagescenesclothes.com^$ctag=user_child
 ||gagheroinintact.com^$ctag=user_child
 ||gagjrgkvtsjnj.online^$ctag=user_child
+||gagrootvexilslightly.cyou^$ctag=user_child
 ||gagsyock.help^$ctag=user_child
 ||gahffdlhl.com^$ctag=user_child
 ||gahkj.zomasleep.com^$ctag=user_child
@@ -40609,6 +40698,7 @@
 ||gaseous-stroke.pro^$ctag=user_child
 ||gaslikesubet.help^$ctag=user_child
 ||gaslockrejoin.digital^$ctag=user_child
+||gasparmocha.com^$ctag=user_child
 ||gaspcommercehermione.com^$ctag=user_child
 ||gaspedmarkups.qpon^$ctag=user_child
 ||gassales.eversource.com^$ctag=user_child
@@ -40635,6 +40725,7 @@
 ||gateway.rennovalife.com^$ctag=user_child
 ||gateway.ttpsdk.info^$ctag=user_child
 ||gateway.yvonthelabel.com^$ctag=user_child
+||gatewaystoopdeplore.com^$ctag=user_child
 ||gatewey.net^$ctag=user_child
 ||gather.donga.com^$ctag=user_child
 ||gathermadness.com^$ctag=user_child
@@ -40960,6 +41051,7 @@
 ||generalizebusinessman.com^$ctag=user_child
 ||generalprose.com^$ctag=user_child
 ||generaltracking.de^$ctag=user_child
+||generalwrap.pro^$ctag=user_child
 ||generateoffice.com^$ctag=user_child
 ||generation456.com^$ctag=user_child
 ||generation74.com^$ctag=user_child
@@ -41278,6 +41370,8 @@
 ||ggai12190cp.com^$ctag=user_child
 ||ggai12191cp.com^$ctag=user_child
 ||ggai12200cp.com^$ctag=user_child
+||ggai12201cp.com^$ctag=user_child
+||ggai12210cp.com^$ctag=user_child
 ||ggaik.preppy.org^$ctag=user_child
 ||ggbko.obsessedlawn.com^$ctag=user_child
 ||ggbzqyoxkbunx.online^$ctag=user_child
@@ -41689,6 +41783,7 @@
 ||gkiqilinrzqfy.site^$ctag=user_child
 ||gkjicggvnoabu.website^$ctag=user_child
 ||gkjzkkbuewngs.online^$ctag=user_child
+||gkkbvnxyrhcyv.online^$ctag=user_child
 ||gkkul.photozyme.com^$ctag=user_child
 ||gkmfpcrvzcohn.online^$ctag=user_child
 ||gknpinykaom.net^$ctag=user_child
@@ -41710,6 +41805,7 @@
 ||glackoaneels.net^$ctag=user_child
 ||gladlyconceitcucumbers.com^$ctag=user_child
 ||gladredooch.net^$ctag=user_child
+||gladreebsirgob.com^$ctag=user_child
 ||gladysway.com^$ctag=user_child
 ||glaftedroag.net^$ctag=user_child
 ||glaghuckudou.net^$ctag=user_child
@@ -41968,6 +42064,7 @@
 ||gmmjr.everydays.de^$ctag=user_child
 ||gmmxpyzumnqaa.store^$ctag=user_child
 ||gmn.gloo.com^$ctag=user_child
+||gmnflbjlrkizf.website^$ctag=user_child
 ||gmodmp.jp^$ctag=user_child
 ||gmorafjcnoifq.space^$ctag=user_child
 ||gmossp-sp.jp^$ctag=user_child
@@ -43054,6 +43151,7 @@
 ||grilroussy.net^$ctag=user_child
 ||grim-pizza.pro^$ctag=user_child
 ||grimacechauffeur.com^$ctag=user_child
+||grimedaymaran.click^$ctag=user_child
 ||grimlyamoralpearl.com^$ctag=user_child
 ||grimlycask.com^$ctag=user_child
 ||grimlywarden.com^$ctag=user_child
@@ -43094,6 +43192,7 @@
 ||groampez.xyz^$ctag=user_child
 ||groamsal.net^$ctag=user_child
 ||groartostupurga.com^$ctag=user_child
+||groastaugnis.net^$ctag=user_child
 ||grocerycrew.com^$ctag=user_child
 ||grocerydog.com^$ctag=user_child
 ||groceryshootworld.com^$ctag=user_child
@@ -43229,6 +43328,7 @@
 ||grutadosindios.dgt.srv.br^$ctag=user_child
 ||grutchurgursa.net^$ctag=user_child
 ||gruvomsoocky.net^$ctag=user_child
+||gruysroister.cfd^$ctag=user_child
 ||grv.media^$ctag=user_child
 ||grvayuaccatti.space^$ctag=user_child
 ||grvbhxkbejldu.online^$ctag=user_child
@@ -45447,6 +45547,7 @@
 ||habib.salamelectronic.com^$ctag=user_child
 ||habirimodioli.com^$ctag=user_child
 ||habitattexture.com^$ctag=user_child
+||habitedaerical.help^$ctag=user_child
 ||habituncropt.com^$ctag=user_child
 ||habkcewftv.net^$ctag=user_child
 ||habqmzidpscfc.site^$ctag=user_child
@@ -45679,6 +45780,7 @@
 ||haremarianne.com^$ctag=user_child
 ||haresmodus.com^$ctag=user_child
 ||hariken.co^$ctag=user_child
+||harkedcostly.help^$ctag=user_child
 ||harlgeikia.rest^$ctag=user_child
 ||harmerpand.cfd^$ctag=user_child
 ||harmful-hire.pro^$ctag=user_child
@@ -45824,7 +45926,6 @@
 ||hb-failover-stpceyl2ua-uw.a.run.app^$ctag=user_child
 ||hb.afl.rakuten.co.jp^$ctag=user_child
 ||hb.collectiveaudience.co^$ctag=user_child
-||hb.rayjump.com^$ctag=user_child
 ||hb.vhsrv.com^$ctag=user_child
 ||hb.yahoo.net^$ctag=user_child
 ||hb94dnbe.de^$ctag=user_child
@@ -46931,6 +47032,7 @@
 ||hnrgmc.com^$ctag=user_child
 ||hnsgpw.com^$ctag=user_child
 ||hnsziqysnqozo.website^$ctag=user_child
+||hnvhpxetfugpx.online^$ctag=user_child
 ||hnvrprl.getmainelobster.com^$ctag=user_child
 ||hnwiibluelwtfuf.com^$ctag=user_child
 ||hnwlazmnkzwxj.space^$ctag=user_child
@@ -47366,6 +47468,7 @@
 ||hpfchmjsfkhjt.site^$ctag=user_child
 ||hpfiv.cordsclub.com^$ctag=user_child
 ||hpfkvr.icu^$ctag=user_child
+||hpfmxeuubzdcb.online^$ctag=user_child
 ||hpgaqdq.shop^$ctag=user_child
 ||hpggroup.net^$ctag=user_child
 ||hpglyhovhebvbun.net^$ctag=user_child
@@ -47887,7 +47990,6 @@
 ||hy168mtcer1wku.rest^$ctag=user_child
 ||hyaccgrjkbsoz.online^$ctag=user_child
 ||hyadain.com^$ctag=user_child
-||hybird.rayjump.com^$ctag=user_child
 ||hybodusdouc.rest^$ctag=user_child
 ||hybomrbktmtee.website^$ctag=user_child
 ||hybrid-prd.ad-prd.s.joyn.de^$ctag=user_child
@@ -49224,6 +49326,7 @@
 ||imkirh.com^$ctag=user_child
 ||imkivg.smlfoodplastic.fr^$ctag=user_child
 ||imllk.sokolovelaw.com^$ctag=user_child
+||immaculate-beginning.pro^$ctag=user_child
 ||immaculatepassion.pro^$ctag=user_child
 ||immanalytics.com^$ctag=user_child
 ||immaterial-mother.com^$ctag=user_child
@@ -49231,6 +49334,7 @@
 ||immediateequivalentstunning.com^$ctag=user_child
 ||immediatelydoghead.com^$ctag=user_child
 ||immense-owner.com^$ctag=user_child
+||immensegene.pro^$ctag=user_child
 ||immensehoney.com^$ctag=user_child
 ||immigrantdistantassure.com^$ctag=user_child
 ||imminentadvisedlylucius.com^$ctag=user_child
@@ -49288,6 +49392,7 @@
 ||imperfecthouse.pro^$ctag=user_child
 ||imperfectmedicine.pro^$ctag=user_child
 ||imperial-oil.ca^$ctag=user_child
+||imperiimajo.help^$ctag=user_child
 ||impersonalsix.com^$ctag=user_child
 ||impertinencefiddledeplore.com^$ctag=user_child
 ||imperturbableawesome.com^$ctag=user_child
@@ -49412,6 +49517,7 @@
 ||inbreedsleeps.com^$ctag=user_child
 ||inbringbuckeen.click^$ctag=user_child
 ||inbrowserplay.com^$ctag=user_child
+||inbushbiliate.help^$ctag=user_child
 ||incarnatepicturesque.com^$ctag=user_child
 ||incentivenebulous.com^$ctag=user_child
 ||incentivesnetwork.net^$ctag=user_child
@@ -50255,6 +50361,7 @@
 ||insaoke-sacombank.com^$ctag=user_child
 ||inscribemutenessforced.com^$ctag=user_child
 ||inscribenaiveavoid.com^$ctag=user_child
+||inseamalumnal.qpon^$ctag=user_child
 ||insectmacros.com^$ctag=user_child
 ||insectsenate.com^$ctag=user_child
 ||insecure-physics.com^$ctag=user_child
@@ -51605,6 +51712,7 @@
 ||jaoxhybhiodpy.space^$ctag=user_child
 ||japan-shopac.asia^$ctag=user_child
 ||japanbros.com^$ctag=user_child
+||japandigest.info^$ctag=user_child
 ||japaneseexceedinglysanctuary.com^$ctag=user_child
 ||japanhotties.jp^$ctag=user_child
 ||japans-offers.com^$ctag=user_child
@@ -51926,6 +52034,7 @@
 ||jfook.bokksumarket.com^$ctag=user_child
 ||jfp6.destinia.de^$ctag=user_child
 ||jfpo.cn^$ctag=user_child
+||jfqqvtevayyfm.online^$ctag=user_child
 ||jfrrnf.icu^$ctag=user_child
 ||jfrtopxglnetf.online^$ctag=user_child
 ||jfstv.spode.com^$ctag=user_child
@@ -51933,6 +52042,7 @@
 ||jfvxpmxf.xyz^$ctag=user_child
 ||jfwaqjrsvshtl.online^$ctag=user_child
 ||jfwcflhysjjiq.space^$ctag=user_child
+||jfwrongznqxwh.site^$ctag=user_child
 ||jfxefv.icu^$ctag=user_child
 ||jfyecc.machineseeker.com^$ctag=user_child
 ||jfyjowocrokkt.online^$ctag=user_child
@@ -52403,6 +52513,7 @@
 ||jokingsummonyuri.com^$ctag=user_child
 ||jokvg.sillysanta.de^$ctag=user_child
 ||jolecyclist.com^$ctag=user_child
+||jolhghbdjayis.website^$ctag=user_child
 ||jollyoutdoorjogger.com^$ctag=user_child
 ||jollyphoto.pro^$ctag=user_child
 ||jollyspring.com^$ctag=user_child
@@ -52760,7 +52871,6 @@
 ||jsqng.covesmart.com^$ctag=user_child
 ||jsqygwl.top^$ctag=user_child
 ||jsretra.com^$ctag=user_child
-||jssdk.rayjump.com^$ctag=user_child
 ||jssdkcdns.mparticle.com^$ctag=user_child
 ||jssearch.net^$ctag=user_child
 ||jsshidzmbryny.online^$ctag=user_child
@@ -52886,6 +52996,7 @@
 ||juicymortgage.com^$ctag=user_child
 ||juicymotor.pro^$ctag=user_child
 ||juicysciniph.cyou^$ctag=user_child
+||jujokaibse.net^$ctag=user_child
 ||julfajotgw.com^$ctag=user_child
 ||julidanwack.cyou^$ctag=user_child
 ||jullyambery.net^$ctag=user_child
@@ -53025,6 +53136,7 @@
 ||jwf8lxo7b.com^$ctag=user_child
 ||jwgvnw.haus-life.com^$ctag=user_child
 ||jwhfxnravgzft.space^$ctag=user_child
+||jwhintmzfv.com^$ctag=user_child
 ||jwhlsi.jsdang.com^$ctag=user_child
 ||jwilmia.top^$ctag=user_child
 ||jwiscipakoz.com^$ctag=user_child
@@ -53116,6 +53228,7 @@
 ||jyvddjlkimool.website^$ctag=user_child
 ||jyvkwqjremmly.top^$ctag=user_child
 ||jyvkwqjremqkz.top^$ctag=user_child
+||jyvkwqjremvjl.top^$ctag=user_child
 ||jyvkwqjremvlw.top^$ctag=user_child
 ||jywn7lkbdw.com^$ctag=user_child
 ||jywpajiisk.com^$ctag=user_child
@@ -53206,6 +53319,7 @@
 ||kaan.kakao.com^$ctag=user_child
 ||kaarheciqa.xyz^$ctag=user_child
 ||kaascypher.com^$ctag=user_child
+||kabayasnozzles.shop^$ctag=user_child
 ||kabbmedia.com^$ctag=user_child
 ||kabbo.kabbocollectionbd.com^$ctag=user_child
 ||kabobduetsgypsine.cyou^$ctag=user_child
@@ -53252,6 +53366,7 @@
 ||kakuyomu.life^$ctag=user_child
 ||kakvk.poponveneers.com^$ctag=user_child
 ||kaladyaudiology.ericksonbuilt.com^$ctag=user_child
+||kalapham.com^$ctag=user_child
 ||kaleidoscopic-country.com^$ctag=user_child
 ||kaleidoscopictouch.com^$ctag=user_child
 ||kalitereklam.com^$ctag=user_child
@@ -53600,6 +53715,7 @@
 ||ketaksingeegn.com^$ctag=user_child
 ||ketban.online^$ctag=user_child
 ||ketchapp.org^$ctag=user_child
+||ketheewhema.com^$ctag=user_child
 ||kethibhversute.cfd^$ctag=user_child
 ||ketoo.com^$ctag=user_child
 ||ketoopsaique.net^$ctag=user_child
@@ -54246,6 +54362,7 @@
 ||knowingsignificance.com^$ctag=user_child
 ||knowit.thinqtanklearning.com^$ctag=user_child
 ||knowledge.equitymethods.com^$ctag=user_child
+||knowledgeable-attention.pro^$ctag=user_child
 ||knowledgeable-tree.com^$ctag=user_child
 ||knowledgevine.net^$ctag=user_child
 ||knowlege.pepeprint.de^$ctag=user_child
@@ -54271,12 +54388,14 @@
 ||knvyzx.h201shift.com^$ctag=user_child
 ||knwuamd.top^$ctag=user_child
 ||knwucnd.top^$ctag=user_child
+||knxpecbqfj.com^$ctag=user_child
 ||knyhnvzqbsqdc.website^$ctag=user_child
 ||knymhv.ariat.com^$ctag=user_child
 ||knzqjr.pult.ru^$ctag=user_child
 ||knzsqrnnoagck.website^$ctag=user_child
 ||knzvoajcwwuvg.store^$ctag=user_child
 ||ko1d85gjgp.com^$ctag=user_child
+||ko4kkcpme7oql72.cfd^$ctag=user_child
 ||ko9t6qv2kt8psullo7pputs.xyz^$ctag=user_child
 ||koaajnparffhw.space^$ctag=user_child
 ||koacikoaphoowha.net^$ctag=user_child
@@ -54763,6 +54882,7 @@
 ||kvvrumekpjnwy.store^$ctag=user_child
 ||kvvuz.vintageelectricbikes.com^$ctag=user_child
 ||kvwibtxllnpfw.space^$ctag=user_child
+||kvwomwujsiygcos.com^$ctag=user_child
 ||kvxjxbrsxhgw.xyz^$ctag=user_child
 ||kvyeerabknmjk.store^$ctag=user_child
 ||kvylquisaduxr.store^$ctag=user_child
@@ -54770,6 +54890,7 @@
 ||kvyuqphervyet.store^$ctag=user_child
 ||kvzbonvsutara.website^$ctag=user_child
 ||kvznoubscgeep.website^$ctag=user_child
+||kvzscvzk0t.com^$ctag=user_child
 ||kvzvieyakmhfn.site^$ctag=user_child
 ||kw17vswzu.com^$ctag=user_child
 ||kw3y5otoeuniv7e9rsi.com^$ctag=user_child
@@ -54821,6 +54942,7 @@
 ||kxbnojgcun.xyz^$ctag=user_child
 ||kxdctwdeurfu.com^$ctag=user_child
 ||kxddkv.sanahotels.com^$ctag=user_child
+||kxdhulgpyokoq.space^$ctag=user_child
 ||kxdrx.wetsuitoutlet.co.uk^$ctag=user_child
 ||kxdxsbyomyuim.rocks^$ctag=user_child
 ||kxdzhgidmcqwi.space^$ctag=user_child
@@ -54900,6 +55022,7 @@
 ||kzsvo.sportrx.com^$ctag=user_child
 ||kzt2afc1rp52.com^$ctag=user_child
 ||kzuabrkh.com^$ctag=user_child
+||kzui9jm8ynfgum925gt3it24jj7w.cfd^$ctag=user_child
 ||kzvdi.livom.it^$ctag=user_child
 ||kzvfc.mylilteddy.com^$ctag=user_child
 ||kzwdhgakfrxcv.website^$ctag=user_child
@@ -55211,6 +55334,7 @@
 ||lapeduzis.org^$ctag=user_child
 ||lapelmanbot.help^$ctag=user_child
 ||laphagrito.com^$ctag=user_child
+||lapj.cn^$ctag=user_child
 ||lapmangsctv.com.vn^$ctag=user_child
 ||lappedstanged.qpon^$ctag=user_child
 ||lappingcalamus.cfd^$ctag=user_child
@@ -55297,7 +55421,9 @@
 ||launchbit.com^$ctag=user_child
 ||launcher.us.yeshen.com^$ctag=user_child
 ||launches.appsflyer.com^$ctag=user_child
+||launchingspooky.com^$ctag=user_child
 ||launchjack.com^$ctag=user_child
+||laundry76.top^$ctag=user_child
 ||laundrydesert.com^$ctag=user_child
 ||laurel.macrovision.com^$ctag=user_child
 ||laurel.rovicorp.com^$ctag=user_child
@@ -55913,6 +56039,7 @@
 ||levaochbo.compricer.se^$ctag=user_child
 ||levatoroboists.world^$ctag=user_child
 ||level.18huhu.com^$ctag=user_child
+||levelborrowingo.com^$ctag=user_child
 ||levelpay.ru^$ctag=user_child
 ||leversnumb.qpon^$ctag=user_child
 ||levexis.com^$ctag=user_child
@@ -55968,6 +56095,7 @@
 ||lfmkreaekafry.space^$ctag=user_child
 ||lfn.lfg.com^$ctag=user_child
 ||lfnwxpcbfpkcx.website^$ctag=user_child
+||lfonatbarmco.com^$ctag=user_child
 ||lfov.net^$ctag=user_child
 ||lfstmedia.com^$ctag=user_child
 ||lftce.clearstem.com^$ctag=user_child
@@ -56177,6 +56305,7 @@
 ||lienquanvip.com^$ctag=user_child
 ||lienquanxgarena.com^$ctag=user_child
 ||liepotikons.com^$ctag=user_child
+||lieugiros.shop^$ctag=user_child
 ||lievestcrasser.com^$ctag=user_child
 ||liex.ru^$ctag=user_child
 ||lif4wtefrkzho1.cfd^$ctag=user_child
@@ -56213,6 +56342,7 @@
 ||lightfoot.top^$ctag=user_child
 ||lighthearted-reading.com^$ctag=user_child
 ||lightheartedbike.com^$ctag=user_child
+||lightheartedtown.pro^$ctag=user_child
 ||lighthouse.edoinc.com^$ctag=user_child
 ||lightimpregnable.com^$ctag=user_child
 ||lightindividual.com^$ctag=user_child
@@ -56413,6 +56543,7 @@
 ||lirmndsuoolqv.online^$ctag=user_child
 ||lirretsn.com^$ctag=user_child
 ||lishigreels.net^$ctag=user_child
+||lislesswobsat.cyou^$ctag=user_child
 ||lispaircraftcraziness.com^$ctag=user_child
 ||list-ads.com^$ctag=user_child
 ||listenedarsonproceedings.com^$ctag=user_child
@@ -56447,6 +56578,7 @@
 ||litukydteamw.com^$ctag=user_child
 ||litvp.com^$ctag=user_child
 ||liuxuedang.org^$ctag=user_child
+||livablyprevent.click^$ctag=user_child
 ||live-eu.blushtales.com^$ctag=user_child
 ||live-eu.cryptovot.com^$ctag=user_child
 ||live-eu.familynonstop.com^$ctag=user_child
@@ -56749,6 +56881,7 @@
 ||llxqcrbjflbop.online^$ctag=user_child
 ||llyighaboveth.com^$ctag=user_child
 ||llykjmzkqvbwr.top^$ctag=user_child
+||llykjmzkqvqmy.top^$ctag=user_child
 ||llykjmzkqvvqy.top^$ctag=user_child
 ||llykjmzqkzyqy.top^$ctag=user_child
 ||llyvjs.com^$ctag=user_child
@@ -58859,6 +58992,7 @@
 ||loptrrfnfnsnb.space^$ctag=user_child
 ||lopwhrvtmmhck.store^$ctag=user_child
 ||lopwzmrujomxm.online^$ctag=user_child
+||loqnomgwbsiel.site^$ctag=user_child
 ||loqwo.site^$ctag=user_child
 ||lorageiros.com^$ctag=user_child
 ||loranshirse.rest^$ctag=user_child
@@ -59161,6 +59295,7 @@
 ||lr.sciaticnervehealth.com^$ctag=user_child
 ||lr.vigorouslyman.com^$ctag=user_child
 ||lraaa.necessaire.com^$ctag=user_child
+||lrbtqifeztnhq7u.cfd^$ctag=user_child
 ||lrcaxaztripcv.online^$ctag=user_child
 ||lrcrochet.cfd^$ctag=user_child
 ||lrduojlvyzzta.website^$ctag=user_child
@@ -59991,6 +60126,7 @@
 ||magasscraggy.cfd^$ctag=user_child
 ||magazinenews1.xyz^$ctag=user_child
 ||magazineshopeeonline.com^$ctag=user_child
+||magekeenersmythism.cfd^$ctag=user_child
 ||magento-recs-sdk.adobe.net^$ctag=user_child
 ||magetic.com^$ctag=user_child
 ||maghoutwell.com^$ctag=user_child
@@ -60084,6 +60220,7 @@
 ||mailers.unitedadlabel.com^$ctag=user_child
 ||mailestaucou.net^$ctag=user_child
 ||mailiebange.cfd^$ctag=user_child
+||mailiehegiras.rest^$ctag=user_child
 ||mailin.carte-gr.total.fr^$ctag=user_child
 ||mailing.elconfidencialdigital.com^$ctag=user_child
 ||maillreefed.shop^$ctag=user_child
@@ -60211,6 +60348,7 @@
 ||management-venntro.exads.com^$ctag=user_child
 ||management-vsmedia.exads.com^$ctag=user_child
 ||management.adxnow.com^$ctag=user_child
+||managementgrandpa.com^$ctag=user_child
 ||manageshalfmoonaccess.com^$ctag=user_child
 ||managespassengerpresent.com^$ctag=user_child
 ||managetroubles.com^$ctag=user_child
@@ -62011,6 +62149,7 @@
 ||mayansrecode.cyou^$ctag=user_child
 ||maybejanuarycosmetics.com^$ctag=user_child
 ||maybetony.com^$ctag=user_child
+||maydukeaverah.click^$ctag=user_child
 ||mayhemabjure.com^$ctag=user_child
 ||mayorcabbagedemolish.com^$ctag=user_child
 ||mayortaurite.qpon^$ctag=user_child
@@ -62086,6 +62225,7 @@
 ||mbiumfgrqhvvwx.xyz^$ctag=user_child
 ||mbjaob.cn^$ctag=user_child
 ||mbjbs.thecoutureclub.com^$ctag=user_child
+||mbjhkdznpwnup.online^$ctag=user_child
 ||mbjrkm2.com^$ctag=user_child
 ||mblapi.ssl2.duapps.com^$ctag=user_child
 ||mblctr.sportfood-center.com^$ctag=user_child
@@ -62097,6 +62237,7 @@
 ||mbnzldsyqrtgb.website^$ctag=user_child
 ||mboguyhrduuoz.website^$ctag=user_child
 ||mbohp.capouk.com^$ctag=user_child
+||mboshmpgkndsc.site^$ctag=user_child
 ||mbreviewer.com^$ctag=user_child
 ||mbreviews.info^$ctag=user_child
 ||mbs.modernbuilderssupply.com^$ctag=user_child
@@ -62247,6 +62388,7 @@
 ||mdws.victorycreditunion.ca^$ctag=user_child
 ||mdwzdvbjkixim.site^$ctag=user_child
 ||mdxtz.lorex.com^$ctag=user_child
+||mdyhysyezdigw.online^$ctag=user_child
 ||mdznads.com^$ctag=user_child
 ||mdznads.pages.dev^$ctag=user_child
 ||me-fb.site^$ctag=user_child
@@ -62506,6 +62648,7 @@
 ||meetstorages.com^$ctag=user_child
 ||meetwebclub.com^$ctag=user_child
 ||meetyuorllove.com^$ctag=user_child
+||meewtupntfjpo.com^$ctag=user_child
 ||mefkkezojxnzn.website^$ctag=user_child
 ||mefo1.zdf.de^$ctag=user_child
 ||mega-ad.de^$ctag=user_child
@@ -62627,6 +62770,7 @@
 ||mename.de^$ctag=user_child
 ||menbershipps-ffvn.com^$ctag=user_child
 ||menberships-ff-garrena.com^$ctag=user_child
+||mendermuletta.shop^$ctag=user_child
 ||menderstooks.help^$ctag=user_child
 ||menerss.yopagomenos.co^$ctag=user_child
 ||menews.org^$ctag=user_child
@@ -63448,6 +63592,7 @@
 ||mgcash.com^$ctag=user_child
 ||mgcbncbblbrlh.site^$ctag=user_child
 ||mgcld.xyz^$ctag=user_child
+||mgdfponxplgya.space^$ctag=user_child
 ||mgdjmp.com^$ctag=user_child
 ||mgdnjexlmiqfl.online^$ctag=user_child
 ||mgdot.snagtights.com^$ctag=user_child
@@ -63618,8 +63763,10 @@
 ||miefow.icu^$ctag=user_child
 ||miejytpsofoua.website^$ctag=user_child
 ||miensidalia.click^$ctag=user_child
+||mierslkkekrml.website^$ctag=user_child
 ||mieru-ca.com^$ctag=user_child
 ||miewocoaedlin.online^$ctag=user_child
+||mifwfuppuvh.com^$ctag=user_child
 ||migcradnebxmy.website^$ctag=user_child
 ||migglescypre.shop^$ctag=user_child
 ||mightyspiders.com^$ctag=user_child
@@ -63680,6 +63827,7 @@
 ||millswell.com^$ctag=user_child
 ||milnhghbwgyco.site^$ctag=user_child
 ||milpasexogyra.cfd^$ctag=user_child
+||milseebsuboals.com^$ctag=user_child
 ||milterismaili.cfd^$ctag=user_child
 ||miltlametta.com^$ctag=user_child
 ||miltsurgency.help^$ctag=user_child
@@ -64042,6 +64190,7 @@
 ||mktgpage.appier.com^$ctag=user_child
 ||mktoresp.com^$ctag=user_child
 ||mktp-base.mktplatforms.com^$ctag=user_child
+||mktpegodsltga.website^$ctag=user_child
 ||mkue.cn^$ctag=user_child
 ||mkvoj.tommy.com^$ctag=user_child
 ||mkyagjguvkfguj.net^$ctag=user_child
@@ -64854,6 +65003,7 @@
 ||moukewelaimaiho.net^$ctag=user_child
 ||moumaiphuch.net^$ctag=user_child
 ||mountain.zhidao.baidu.com^$ctag=user_child
+||mountainous-fall.pro^$ctag=user_child
 ||mountainousobligation.pro^$ctag=user_child
 ||mountainrood.com^$ctag=user_child
 ||mountedbattery.com^$ctag=user_child
@@ -64912,6 +65062,7 @@
 ||mowingvases.cfd^$ctag=user_child
 ||mowoussetsap.net^$ctag=user_child
 ||moxhqysntmgkv.store^$ctag=user_child
+||moxietaws.cfd^$ctag=user_child
 ||mozgvya.com^$ctag=user_child
 ||mozoo.com^$ctag=user_child
 ||mp-b.info^$ctag=user_child
@@ -65042,6 +65193,7 @@
 ||mqwmiqyqvencj.website^$ctag=user_child
 ||mqwqas.marketbio.pl^$ctag=user_child
 ||mqxbtsawpuulc.store^$ctag=user_child
+||mqytqmqrqfuay.website^$ctag=user_child
 ||mqyyocimwg.xyz^$ctag=user_child
 ||mqzmpzvbvaojz.site^$ctag=user_child
 ||mr-in-staging.beginlearning.com^$ctag=user_child
@@ -65237,6 +65389,7 @@
 ||mtcs.nhk.or.jp^$ctag=user_child
 ||mtcvyv.karakartal.com^$ctag=user_child
 ||mtddzanzcserh.space^$ctag=user_child
+||mtdmvmzxctwtk.site^$ctag=user_child
 ||mteitdoivvxjy.site^$ctag=user_child
 ||mtelss.yopagomenos.co^$ctag=user_child
 ||mteme7li1d6r.vertexmarketingagency.com^$ctag=user_child
@@ -65547,6 +65700,7 @@
 ||mvrnxfxtvsuix.website^$ctag=user_child
 ||mvrptblhcuehu.website^$ctag=user_child
 ||mvrqwyamuu.com^$ctag=user_child
+||mvruniszlmmjz.website^$ctag=user_child
 ||mvstmjowjtxij.site^$ctag=user_child
 ||mvtracker.com^$ctag=user_child
 ||mvugvtzbonlik.website^$ctag=user_child
@@ -66567,6 +66721,7 @@
 ||ncwdvsshgeqdan.com^$ctag=user_child
 ||ncwrjh.sos-verkehrsrecht.de^$ctag=user_child
 ||ncx2.voyage-prive.it^$ctag=user_child
+||ncyxfrdxpacie.website^$ctag=user_child
 ||ncz3u7cj2.com^$ctag=user_child
 ||nczils.pristineauction.com^$ctag=user_child
 ||nczis.lightopia.com^$ctag=user_child
@@ -66576,6 +66731,7 @@
 ||nd.prachinshilpo.com^$ctag=user_child
 ||nd.rhleatherbd.com^$ctag=user_child
 ||ndatzo.cn^$ctag=user_child
+||ndbgngx6m.com^$ctag=user_child
 ||ndbign.com^$ctag=user_child
 ||ndbryaucgaupa.space^$ctag=user_child
 ||ndcomemunica.com^$ctag=user_child
@@ -66780,6 +66936,7 @@
 ||nervesgeneralizepicture.com^$ctag=user_child
 ||nervesmomentshore.com^$ctag=user_child
 ||nervessnugissues.com^$ctag=user_child
+||nervesweedefeat.com^$ctag=user_child
 ||nervismzymurgy.click^$ctag=user_child
 ||nervousbelievable.com^$ctag=user_child
 ||nervousnormgaze.com^$ctag=user_child
@@ -66807,7 +66964,6 @@
 ||net.jumia.ma^$ctag=user_child
 ||net.jumia.ug^$ctag=user_child
 ||net.lsipes.com^$ctag=user_child
-||net.rayjump.com^$ctag=user_child
 ||net.sexstories69.com^$ctag=user_child
 ||net.shop.com.mm^$ctag=user_child
 ||net1.netski.com^$ctag=user_child
@@ -67332,6 +67488,7 @@
 ||nhqjiwltuwbqc.website^$ctag=user_child
 ||nhqkijpqeguuh.store^$ctag=user_child
 ||nhqqv.space^$ctag=user_child
+||nhrdmdidxvae.com^$ctag=user_child
 ||nhrnxqiiygdjc.store^$ctag=user_child
 ||nhroboqsngqvd.site^$ctag=user_child
 ||nhslg.thenimetyou.com^$ctag=user_child
@@ -67499,6 +67656,7 @@
 ||nitmus.com^$ctag=user_child
 ||nitpicksutlers.cyou^$ctag=user_child
 ||nitrateoctode.help^$ctag=user_child
+||nitridsamas.help^$ctag=user_child
 ||nitridsgabfest.cyou^$ctag=user_child
 ||nitridslah.com^$ctag=user_child
 ||nitrioturinary.shop^$ctag=user_child
@@ -67730,6 +67888,7 @@
 ||nmnuaancrwvps.space^$ctag=user_child
 ||nmohwgqtxslxm.site^$ctag=user_child
 ||nmpsxkgzoebbs.space^$ctag=user_child
+||nmqlmtlnkmuew.site^$ctag=user_child
 ||nmqucmzlrfgip.online^$ctag=user_child
 ||nmqwxtdszqycg.website^$ctag=user_child
 ||nmrodam.com^$ctag=user_child
@@ -67826,6 +67985,7 @@
 ||noeuymfjtquuk.site^$ctag=user_child
 ||nofilemaskeg.qpon^$ctag=user_child
 ||noflake-aggregator-http.narvar.com^$ctag=user_child
+||noftclykhdllg.space^$ctag=user_child
 ||nogogey.top^$ctag=user_child
 ||nohaxn.damattween.com^$ctag=user_child
 ||nohowsankhya.com^$ctag=user_child
@@ -67862,6 +68022,7 @@
 ||nonchalanceok.com^$ctag=user_child
 ||nonchalantnerve.com^$ctag=user_child
 ||noncommittalsupposedlybroadcast.com^$ctag=user_child
+||noncomsdudine.cyou^$ctag=user_child
 ||nonculifus.com^$ctag=user_child
 ||nondescriptcrowd.com^$ctag=user_child
 ||nondescriptnote.com^$ctag=user_child
@@ -67924,6 +68085,7 @@
 ||norsinceexactlyamongplait.com^$ctag=user_child
 ||north.charityright.org.uk^$ctag=user_child
 ||northauthority.xyz^$ctag=user_child
+||northercutters.cfd^$ctag=user_child
 ||northrtbads.top^$ctag=user_child
 ||nosemorgue.com^$ctag=user_child
 ||nosenotch.com^$ctag=user_child
@@ -68162,6 +68324,7 @@
 ||nqtmdwxjkutyf.website^$ctag=user_child
 ||nqubqpqmnecey.online^$ctag=user_child
 ||nqumc.webinopoly.com^$ctag=user_child
+||nqumzyuedln.com^$ctag=user_child
 ||nquwtotbedsbw.website^$ctag=user_child
 ||nqvi-lnlu.icu^$ctag=user_child
 ||nqvqyxxsxupai.top^$ctag=user_child
@@ -68376,6 +68539,7 @@
 ||ntyjrarija.com^$ctag=user_child
 ||ntyuxyriuojuo.site^$ctag=user_child
 ||nu.esri.nl^$ctag=user_child
+||nu98o1bcrygi2b6jlomt.cfd^$ctag=user_child
 ||nuamhmoviliol.online^$ctag=user_child
 ||nuayrztxdbfem.site^$ctag=user_child
 ||nubairtagnu.com^$ctag=user_child
@@ -68969,6 +69133,7 @@
 ||obqvss.debameubelen.be^$ctag=user_child
 ||obrazy.dlabiznesu.pracuj.pl^$ctag=user_child
 ||obrdhgxncafcx.store^$ctag=user_child
+||obrienpigmeat.click^$ctag=user_child
 ||obrqts.hudforeclosed.com^$ctag=user_child
 ||obs.esnlocco.com^$ctag=user_child
 ||obs.system1onesource.com^$ctag=user_child
@@ -69083,6 +69248,7 @@
 ||octaplagaius.shop^$ctag=user_child
 ||octavius.rocks^$ctag=user_child
 ||octettealanylscaridea.cfd^$ctag=user_child
+||octillion.tv^$ctag=user_child
 ||octo25.me^$ctag=user_child
 ||octoberads.space^$ctag=user_child
 ||octobertheatrenosy.com^$ctag=user_child
@@ -69133,6 +69299,7 @@
 ||odemonstrat.pro^$ctag=user_child
 ||odeybruslekoq.website^$ctag=user_child
 ||odezskltptugf.online^$ctag=user_child
+||odfjihguhrm.com^$ctag=user_child
 ||odfuwbdguqkrj.site^$ctag=user_child
 ||odhdnbucgpwly.website^$ctag=user_child
 ||odhivvin.com^$ctag=user_child
@@ -69422,9 +69589,11 @@
 ||ogtz5yn2u1.ru^$ctag=user_child
 ||oguaumtdjyqoe.online^$ctag=user_child
 ||ogucv.visitkingsisland.com^$ctag=user_child
+||ogvjkfelpcecw.online^$ctag=user_child
 ||ogxmhp8mtgli2rb.cfd^$ctag=user_child
 ||ogxntutl.fun^$ctag=user_child
 ||ogxrhhjsvqymya.com^$ctag=user_child
+||ogxtoqiogfeuuf.com^$ctag=user_child
 ||ogz4n3ke.xyz^$ctag=user_child
 ||oh53v842gxk76i8zkpqjcy5izf.cfd^$ctag=user_child
 ||ohaereatw.com^$ctag=user_child
@@ -69580,6 +69749,7 @@
 ||ojvcn.poseidonbike.com^$ctag=user_child
 ||ojvpumediuoxs.online^$ctag=user_child
 ||ojvxtz.junonline.jp^$ctag=user_child
+||ojwoubkoyr.com^$ctag=user_child
 ||ojxr.cn^$ctag=user_child
 ||ojyneijlxlekv.site^$ctag=user_child
 ||ojzixvohthddo.online^$ctag=user_child
@@ -70174,6 +70344,7 @@
 ||ooxehfqrodgqm.website^$ctag=user_child
 ||ooxicadroltoo.net^$ctag=user_child
 ||ooxickechy.com^$ctag=user_child
+||ooydxblhaegrz.website^$ctag=user_child
 ||ooyejpjenphbo.online^$ctag=user_child
 ||ooyfrflmyqbpt.online^$ctag=user_child
 ||ooygdkars.net^$ctag=user_child
@@ -70219,6 +70390,7 @@
 ||openercompetent.com^$ctag=user_child
 ||openfpcdn.io^$ctag=user_child
 ||opengalaxyapps.monster^$ctag=user_child
+||openglass.tv^$ctag=user_child
 ||openhit.com^$ctag=user_child
 ||openingclutter.com^$ctag=user_child
 ||openinstall.io^$ctag=user_child
@@ -70541,6 +70713,7 @@
 ||orlysoiree.cfd^$ctag=user_child
 ||ormhyvwciiqqg.space^$ctag=user_child
 ||ormimvlawciog.space^$ctag=user_child
+||ormoluunmossy.shop^$ctag=user_child
 ||ornarysabaton.cyou^$ctag=user_child
 ||ornatechurch.com^$ctag=user_child
 ||ornatecomputer.com^$ctag=user_child
@@ -70553,6 +70726,7 @@
 ||orounounum.net^$ctag=user_child
 ||orphanrudimentary.com^$ctag=user_child
 ||orpy.cn^$ctag=user_child
+||orqbvhkyufnxk.space^$ctag=user_child
 ||orqhz.alexandrebirman.com^$ctag=user_child
 ||orqlzuoqgad.com^$ctag=user_child
 ||orqrdm.com^$ctag=user_child
@@ -70693,6 +70867,7 @@
 ||ot.obi.si^$ctag=user_child
 ||ot.obi.sk^$ctag=user_child
 ||otaikicmadrek.com^$ctag=user_child
+||otalgiahopeite.cyou^$ctag=user_child
 ||otalktohershallilov.com^$ctag=user_child
 ||otapnh.minirodini.com^$ctag=user_child
 ||otarinealaska.top^$ctag=user_child
@@ -70751,6 +70926,7 @@
 ||otonpc.vigoshop.de^$ctag=user_child
 ||otoshiana.com^$ctag=user_child
 ||otoyueuprumok.icu^$ctag=user_child
+||otp2bptz85hntw1hcktr4oobw3.cfd^$ctag=user_child
 ||otpftzljmqtsc.space^$ctag=user_child
 ||otphgpujdjxws.space^$ctag=user_child
 ||otpljoausqoif.website^$ctag=user_child
@@ -70983,6 +71159,7 @@
 ||overavesofefineg.org^$ctag=user_child
 ||overbidsettingunderfeed.com^$ctag=user_child
 ||overboardbilingual.com^$ctag=user_child
+||overcoat55.top^$ctag=user_child
 ||overconfidentfood.com^$ctag=user_child
 ||overcooked-calendar.com^$ctag=user_child
 ||overcooked-construction.com^$ctag=user_child
@@ -72449,6 +72626,7 @@
 ||patrick.stratelabs.ca^$ctag=user_child
 ||patriot.cs.pp.cn^$ctag=user_child
 ||patriotic66.top^$ctag=user_child
+||patrolsodium.com^$ctag=user_child
 ||patronagemaestroforestall.com^$ctag=user_child
 ||patsiesnoblify.rest^$ctag=user_child
 ||patsincerelyswing.com^$ctag=user_child
@@ -72505,6 +72683,7 @@
 ||paydemic.com^$ctag=user_child
 ||paydotcom.com^$ctag=user_child
 ||payenlore.cyou^$ctag=user_child
+||payingtore.com^$ctag=user_child
 ||paylienquan.club^$ctag=user_child
 ||payload.adadapted.com^$ctag=user_child
 ||paymentperiodiciceberg.com^$ctag=user_child
@@ -72591,6 +72770,7 @@
 ||pbxvcx.heidiklein.com^$ctag=user_child
 ||pbymzmwwopnlm.site^$ctag=user_child
 ||pbyndmkdyxmes.space^$ctag=user_child
+||pbysxyvtrfut.com^$ctag=user_child
 ||pbzgcofnurhyz.website^$ctag=user_child
 ||pbzsf.snagtights.de^$ctag=user_child
 ||pc-ads.com^$ctag=user_child
@@ -72729,6 +72909,7 @@
 ||peanbowfin.life^$ctag=user_child
 ||pear.youzful-by-ca.fr^$ctag=user_child
 ||pearldiver.io^$ctag=user_child
+||pearlstarlike.help^$ctag=user_child
 ||pearlysweepoverface.com^$ctag=user_child
 ||peartengrousy.top^$ctag=user_child
 ||peasacknowledged.com^$ctag=user_child
@@ -73042,6 +73223,7 @@
 ||pexqqziozvnjy.site^$ctag=user_child
 ||pexuvais.net^$ctag=user_child
 ||peyvandha.ir^$ctag=user_child
+||pezpjhmpwqksw.online^$ctag=user_child
 ||peztd.eastperry.com^$ctag=user_child
 ||peztnnvhihziq.online^$ctag=user_child
 ||pezvbz.99flower.co.kr^$ctag=user_child
@@ -73395,6 +73577,7 @@
 ||pic2host.icu^$ctag=user_child
 ||pic50.pingguolv.com^$ctag=user_child
 ||picareltapa.cfd^$ctag=user_child
+||picasguisian.shop^$ctag=user_child
 ||picdixwap.com^$ctag=user_child
 ||picfbb.golfshop.de^$ctag=user_child
 ||pichost.pics^$ctag=user_child
@@ -74195,6 +74378,7 @@
 ||plodparticularly.com^$ctag=user_child
 ||plorexdry.com^$ctag=user_child
 ||plorvexmoon13.online^$ctag=user_child
+||plotejataco.cfd^$ctag=user_child
 ||plotparent.com^$ctag=user_child
 ||plotrabbit.com^$ctag=user_child
 ||plottedjewless.click^$ctag=user_child
@@ -74674,6 +74858,7 @@
 ||poqup.com^$ctag=user_child
 ||porbzpfmverzb.today^$ctag=user_child
 ||porcatesorbet.cyou^$ctag=user_child
+||porchadvertise.com^$ctag=user_child
 ||porchmy.com^$ctag=user_child
 ||porculaworkman.cfd^$ctag=user_child
 ||porcupine.dvresolve.com^$ctag=user_child
@@ -75034,6 +75219,7 @@
 ||prairiedog.xview.us^$ctag=user_child
 ||praluent-e.regeneron.com^$ctag=user_child
 ||pramrowanslang.com^$ctag=user_child
+||prancestangy.com^$ctag=user_child
 ||prawn.inchperfect.com^$ctag=user_child
 ||prawn.lionsmouth.digital^$ctag=user_child
 ||prayedbodeful.shop^$ctag=user_child
@@ -75409,6 +75595,7 @@
 ||proadscdn.com^$ctag=user_child
 ||proapkcrack.com^$ctag=user_child
 ||probabilidades.net^$ctag=user_child
+||probable-war.pro^$ctag=user_child
 ||probablepartner.com^$ctag=user_child
 ||probableregret.com^$ctag=user_child
 ||probablyusualcontraction.com^$ctag=user_child
@@ -75658,6 +75845,7 @@
 ||prosecutorremarkablegodforsaken.com^$ctag=user_child
 ||prosedglisten.cfd^$ctag=user_child
 ||proselyaltars.com^$ctag=user_child
+||prosiermercian.qpon^$ctag=user_child
 ||prosishcoining.cfd^$ctag=user_child
 ||prospecteye.com^$ctag=user_child
 ||prospectsirresistible.com^$ctag=user_child
@@ -75998,6 +76186,7 @@
 ||ptengine.com^$ctag=user_child
 ||ptephatauss.net^$ctag=user_child
 ||pterinhestern.world^$ctag=user_child
+||pterinsnenta.help^$ctag=user_child
 ||pteromaexterns.qpon^$ctag=user_child
 ||ptestofooltouts.net^$ctag=user_child
 ||ptetsoaversaphi.com^$ctag=user_child
@@ -76450,6 +76639,7 @@
 ||puuush.me^$ctag=user_child
 ||puvj-qvbjol.vip^$ctag=user_child
 ||puwuczvlsundk.site^$ctag=user_child
+||puxoqzask.com^$ctag=user_child
 ||puxyharmful.cfd^$ctag=user_child
 ||puygfxuru.com^$ctag=user_child
 ||puysis.com^$ctag=user_child
@@ -76697,6 +76887,7 @@
 ||pznri.crocs.de^$ctag=user_child
 ||pzotgljc.com^$ctag=user_child
 ||pzq7ilwvv.com^$ctag=user_child
+||pzqpbvl7627zbr2v.cfd^$ctag=user_child
 ||pzqrhgqndswqn.store^$ctag=user_child
 ||pzqro.thewatermachine.com^$ctag=user_child
 ||pzscee.fation.co.kr^$ctag=user_child
@@ -76770,6 +76961,7 @@
 ||qaili.kennyflowers.com^$ctag=user_child
 ||qainfcnvfensl.site^$ctag=user_child
 ||qaixhtzsjyipb.store^$ctag=user_child
+||qajkvcdzxcqvn.space^$ctag=user_child
 ||qakdki.com^$ctag=user_child
 ||qaklbrqyzyeyw.top^$ctag=user_child
 ||qakqvajmhdpzd.store^$ctag=user_child
@@ -76818,6 +77010,7 @@
 ||qbixxhbamudnt.space^$ctag=user_child
 ||qbjctubapshxf.website^$ctag=user_child
 ||qbjit.circalasvegas.com^$ctag=user_child
+||qbkfbftlgrlsa.com^$ctag=user_child
 ||qbkraweaoeqbb.top^$ctag=user_child
 ||qbkraweaoezqr.top^$ctag=user_child
 ||qbkustbkzoheu.site^$ctag=user_child
@@ -77285,6 +77478,7 @@
 ||qlheptjsvwnrr.space^$ctag=user_child
 ||qlhkdwkhst.com^$ctag=user_child
 ||qlhsbddkyapyf.space^$ctag=user_child
+||qlibjfuprhqmebn.com^$ctag=user_child
 ||qlitics.com^$ctag=user_child
 ||qlixifytxlakqv.com^$ctag=user_child
 ||qljiop.allabout.co.jp^$ctag=user_child
@@ -77556,6 +77750,7 @@
 ||qrgbia.unlimitedbiking.com^$ctag=user_child
 ||qrgzm.topnutritionandfitness.com^$ctag=user_child
 ||qri2r94eeajr.innovationcast.com^$ctag=user_child
+||qrihfonz.com^$ctag=user_child
 ||qrjedntkemps.com^$ctag=user_child
 ||qrjhbgrrqic.xyz^$ctag=user_child
 ||qrjiyastbajim.store^$ctag=user_child
@@ -77981,6 +78176,7 @@
 ||quyiucbigjgng.site^$ctag=user_child
 ||quyr.cn^$ctag=user_child
 ||quytiente.com^$ctag=user_child
+||quyxwohgpxsue.online^$ctag=user_child
 ||quziao.xyz^$ctag=user_child
 ||qv6xqe6pxvxvjyrg178pjp.cfd^$ctag=user_child
 ||qvafkzqojrhbl.online^$ctag=user_child
@@ -78000,6 +78196,7 @@
 ||qvgfmbuxxbkhl.online^$ctag=user_child
 ||qvglxrsojnyaz.site^$ctag=user_child
 ||qvgmgjysbwpgb.website^$ctag=user_child
+||qvhpekykxvzdx.site^$ctag=user_child
 ||qvhwedkmacmgp.space^$ctag=user_child
 ||qvhwzubuzbcvj.site^$ctag=user_child
 ||qvie2jqtezi86cu2xc3we5x5fyz.cfd^$ctag=user_child
@@ -78133,6 +78330,7 @@
 ||qylkhwawxhomr.site^$ctag=user_child
 ||qylmbeojmzyzv.top^$ctag=user_child
 ||qymbjstqmpwow.site^$ctag=user_child
+||qymdagqeorsol.space^$ctag=user_child
 ||qymswdusycdvz.space^$ctag=user_child
 ||qynnhclbfutm.com^$ctag=user_child
 ||qyoddqlbvzjvn.site^$ctag=user_child
@@ -78141,6 +78339,7 @@
 ||qypvnb.24mx.it^$ctag=user_child
 ||qyqvxtufskevk.site^$ctag=user_child
 ||qyromjlyvzlaz.top^$ctag=user_child
+||qyromjlyvzlov.top^$ctag=user_child
 ||qyromjlyvzwoj.top^$ctag=user_child
 ||qyronj.trademax.dk^$ctag=user_child
 ||qysknb.fukuishimbun.co.jp^$ctag=user_child
@@ -78412,6 +78611,7 @@
 ||rakutenadvertising.io^$ctag=user_child
 ||rakwkm.leefiori.com^$ctag=user_child
 ||ralhkgibukxcw.online^$ctag=user_child
+||ralishgue.click^$ctag=user_child
 ||rallyegabbles.qpon^$ctag=user_child
 ||ralyxv.icu^$ctag=user_child
 ||ramanasprespur.help^$ctag=user_child
@@ -78587,6 +78787,7 @@
 ||rawbeautifully.com^$ctag=user_child
 ||rawbonechamise.qpon^$ctag=user_child
 ||raxxkxvipsusz.site^$ctag=user_child
+||rayjump.com^$ctag=user_child
 ||raymondtoaster.com^$ctag=user_child
 ||rayoncarvist.cfd^$ctag=user_child
 ||rays-counter.com^$ctag=user_child
@@ -78746,6 +78947,7 @@
 ||rd3.geardiscover.com^$ctag=user_child
 ||rdbd.xsread.com^$ctag=user_child
 ||rdbgxi.top^$ctag=user_child
+||rdblieez7.com^$ctag=user_child
 ||rdbzasvjgmnk.com^$ctag=user_child
 ||rdc.rachatdecredit.net^$ctag=user_child
 ||rdcfdsgvjxxqs.xyz^$ctag=user_child
@@ -79101,6 +79303,7 @@
 ||redbackcoacted.cfd^$ctag=user_child
 ||redbasketball.com^$ctag=user_child
 ||redbricksoap.com^$ctag=user_child
+||redbuckzincate.com^$ctag=user_child
 ||redbugevictee.cyou^$ctag=user_child
 ||redbugslettic.rest^$ctag=user_child
 ||redclick.ru^$ctag=user_child
@@ -79542,7 +79745,9 @@
 ||reorganizeache.com^$ctag=user_child
 ||reorganizeglaze.com^$ctag=user_child
 ||reorganizes64.com^$ctag=user_child
+||reorpzo49wt6vwon72q.rest^$ctag=user_child
 ||reoxwrcawzaeo.website^$ctag=user_child
+||reoyxtulfpbamci.com^$ctag=user_child
 ||rep.lebes.com.br^$ctag=user_child
 ||rep0pkgr.com^$ctag=user_child
 ||repantalsedighters.com^$ctag=user_child
@@ -79676,6 +79881,7 @@
 ||resistcorrectly.com^$ctag=user_child
 ||resistpajamas.com^$ctag=user_child
 ||resistsupplieslank.com^$ctag=user_child
+||resnapbovid.cyou^$ctag=user_child
 ||resnubdreich.com^$ctag=user_child
 ||resolutionoversleepinmate.com^$ctag=user_child
 ||resolvedinsaneox.com^$ctag=user_child
@@ -79974,6 +80180,7 @@
 ||rexpush.club^$ctag=user_child
 ||rexpush.info^$ctag=user_child
 ||rexsrv.com^$ctag=user_child
+||rexvxrnpkswce.space^$ctag=user_child
 ||reyden-x.com^$ctag=user_child
 ||reydrj.kozaczek.pl^$ctag=user_child
 ||reymvmqqyawjq.top^$ctag=user_child
@@ -80421,6 +80628,7 @@
 ||rjxczvecqiipf.site^$ctag=user_child
 ||rjxvff.icu^$ctag=user_child
 ||rjykjiitsaoyw.space^$ctag=user_child
+||rjzbvmbybvkwq.top^$ctag=user_child
 ||rjzbvmbybvlzv.top^$ctag=user_child
 ||rjzbvmbybvokw.top^$ctag=user_child
 ||rjzkulworyqil.space^$ctag=user_child
@@ -80459,6 +80667,7 @@
 ||rktu.com^$ctag=user_child
 ||rkvhqhkztzlxk.website^$ctag=user_child
 ||rkwlup.le-noble.com^$ctag=user_child
+||rkwvcicqkupid.website^$ctag=user_child
 ||rkxmow.novasol-vacaciones.es^$ctag=user_child
 ||rl1u0wknm1onstp8395too.xyz^$ctag=user_child
 ||rl1vypwyd2.com^$ctag=user_child
@@ -80469,6 +80678,7 @@
 ||rlcdn.com^$ctag=user_child
 ||rlcoou.reskin.co.kr^$ctag=user_child
 ||rldcr.madeincookware.com^$ctag=user_child
+||rldpantile.com^$ctag=user_child
 ||rldwideorgan.org^$ctag=user_child
 ||rlebg.ugears.us^$ctag=user_child
 ||rlemd.assistivepower.com^$ctag=user_child
@@ -80686,6 +80896,7 @@
 ||rockstarwriter.com^$ctag=user_child
 ||rocktrustbank.com^$ctag=user_child
 ||rockwound.site^$ctag=user_child
+||rockyspoons.com^$ctag=user_child
 ||rocoads.com^$ctag=user_child
 ||rocorhwbprzlu.space^$ctag=user_child
 ||rocslungyi.help^$ctag=user_child
@@ -80839,6 +81050,7 @@
 ||rotatejavgg124.fun^$ctag=user_child
 ||rotateme.ru^$ctag=user_child
 ||rotating-split.pro^$ctag=user_child
+||rotatingadult.com^$ctag=user_child
 ||rotator.riedta.com^$ctag=user_child
 ||rotator.tradetracker.net^$ctag=user_child
 ||rotbnllkqenrw.store^$ctag=user_child
@@ -80887,6 +81099,7 @@
 ||routenex.xyz^$ctag=user_child
 ||routes.name^$ctag=user_child
 ||routeserve.info^$ctag=user_child
+||routinelutherreemits.cyou^$ctag=user_child
 ||rouvoute.net^$ctag=user_child
 ||rouwhapt.com^$ctag=user_child
 ||rouzauglaizo.net^$ctag=user_child
@@ -80974,6 +81187,7 @@
 ||rqbdyk.evo.com^$ctag=user_child
 ||rqbvgm.aleupominek.pl^$ctag=user_child
 ||rqejawwjloqlk.top^$ctag=user_child
+||rqerokcafoadv.space^$ctag=user_child
 ||rqgiwrjyicatp.site^$ctag=user_child
 ||rqgmu.lakepajamas.com^$ctag=user_child
 ||rqguhbkulkbwa.site^$ctag=user_child
@@ -81304,6 +81518,8 @@
 ||rtb-eu.wxadserve.xyz^$ctag=user_child
 ||rtb-media.me^$ctag=user_child
 ||rtb-media.ru^$ctag=user_child
+||rtb-trk4.linkedin.com^$ctag=user_child
+||rtb-us-east.linkedin.com^$ctag=user_child
 ||rtb-useast-v4.admnrtb.com^$ctag=user_child
 ||rtb-useast-v4.admozartexchange.com^$ctag=user_child
 ||rtb-useast-v4.adportonic.com^$ctag=user_child
@@ -81773,6 +81989,7 @@
 ||rugcookingintersection.com^$ctag=user_child
 ||rugfrfji.win^$ctag=user_child
 ||rugiomyh2vmr.com^$ctag=user_child
+||rugpowerfully.com^$ctag=user_child
 ||rugtranslating.com^$ctag=user_child
 ||rugttt.robinson.com^$ctag=user_child
 ||rugyhrjawkmln.site^$ctag=user_child
@@ -81878,6 +82095,7 @@
 ||rutarget.ru^$ctag=user_child
 ||rutbepkzazcvr.site^$ctag=user_child
 ||ruthairbags.cyou^$ctag=user_child
+||ruthclovepuberty.com^$ctag=user_child
 ||ruthlessdegree.com^$ctag=user_child
 ||rutientuthetindung.com^$ctag=user_child
 ||rutientuthetindung5s.com^$ctag=user_child
@@ -83595,6 +83813,7 @@
 ||sdkconfig.pulse.schibsted.io^$ctag=user_child
 ||sdkl.info^$ctag=user_child
 ||sdks.stats-locations.com^$ctag=user_child
+||sdksaxnhxdzos.site^$ctag=user_child
 ||sdkv2.imaginationunwired.com^$ctag=user_child
 ||sdlnra.molders.be^$ctag=user_child
 ||sdmegj.zucchibassetti.com^$ctag=user_child
@@ -83956,6 +84175,7 @@
 ||sejuncthellen.shop^$ctag=user_child
 ||sekaopi.nocre.jp^$ctag=user_child
 ||sekindo.com^$ctag=user_child
+||sekorsoucku.net^$ctag=user_child
 ||sel-sel-fie.com^$ctag=user_child
 ||selagotoison.shop^$ctag=user_child
 ||selaris.com^$ctag=user_child
@@ -83987,6 +84207,7 @@
 ||sellhealth.com^$ctag=user_child
 ||sellinglitcedar.com^$ctag=user_child
 ||sellioronoco.help^$ctag=user_child
+||sellmisbill.help^$ctag=user_child
 ||sellpoints.com^$ctag=user_child
 ||sellrashmm.com^$ctag=user_child
 ||sellvisited.com^$ctag=user_child
@@ -84110,6 +84331,7 @@
 ||sensationthigh.com^$ctag=user_child
 ||sensationtwigpresumptuous.com^$ctag=user_child
 ||senscirrascul.co.in^$ctag=user_child
+||senselesssouvenir.com^$ctag=user_child
 ||sensesluckilyobey.com^$ctag=user_child
 ||sensesmathematical.com^$ctag=user_child
 ||sensible-ads.com^$ctag=user_child
@@ -85210,7 +85432,6 @@
 ||setoinc.com^$ctag=user_child
 ||setokanna.online^$ctag=user_child
 ||setravieso.com^$ctag=user_child
-||setting.rayjump.com^$ctag=user_child
 ||settle1266.fun^$ctag=user_child
 ||settledchagrinpass.com^$ctag=user_child
 ||settlementlaying.com^$ctag=user_child
@@ -85318,6 +85539,7 @@
 ||sftwmc.asyura2.com^$ctag=user_child
 ||sftz4zyqd.com^$ctag=user_child
 ||sfulylydeveloped.org^$ctag=user_child
+||sfupiqqwhxoxl.website^$ctag=user_child
 ||sfvauwpjcdgfo.xyz^$ctag=user_child
 ||sfvbbf.trendhim.pt^$ctag=user_child
 ||sfvtk.tooturnttony.com^$ctag=user_child
@@ -85329,7 +85551,6 @@
 ||sg.log.ulivetv.net^$ctag=user_child
 ||sg.ospreypolyclinic.com^$ctag=user_child
 ||sg.xclick24.com^$ctag=user_child
-||sg01.rayjump.com^$ctag=user_child
 ||sg7.pw^$ctag=user_child
 ||sgaijlnojrrok.site^$ctag=user_child
 ||sgajop.hififnk.kr^$ctag=user_child
@@ -85355,6 +85576,7 @@
 ||sgmpl.avery.com^$ctag=user_child
 ||sgnetwork.co^$ctag=user_child
 ||sgood.ru^$ctag=user_child
+||sgpniarijjbzt.online^$ctag=user_child
 ||sgpoo.greavessports.com^$ctag=user_child
 ||sgpsz.cbdamericanshaman.com^$ctag=user_child
 ||sgqjj.bitsandpiecescanada.ca^$ctag=user_child
@@ -86669,6 +86891,7 @@
 ||shwfxrbsrifhx.online^$ctag=user_child
 ||shwque.twinavi.jp^$ctag=user_child
 ||shxpnomtimwdb.online^$ctag=user_child
+||shxubwa.xyz^$ctag=user_child
 ||shy-clothes.com^$ctag=user_child
 ||shydastidu.com^$ctag=user_child
 ||shydinosaurs.com^$ctag=user_child
@@ -86809,6 +87032,7 @@
 ||silly-resist.com^$ctag=user_child
 ||sillyscrew.com^$ctag=user_child
 ||siluricidotea.shop^$ctag=user_child
+||silver-mobile.pro^$ctag=user_child
 ||silver-recommendation.pro^$ctag=user_child
 ||silverangleshookup.com^$ctag=user_child
 ||silverfish.djordjevanjek.com^$ctag=user_child
@@ -87124,6 +87348,7 @@
 ||skhf11.com^$ctag=user_child
 ||skhf66.com^$ctag=user_child
 ||skhhuhhualfxf.space^$ctag=user_child
+||skhtgdwpqqbrp.online^$ctag=user_child
 ||ski1.skiset.com^$ctag=user_child
 ||skibbytutin.rest^$ctag=user_child
 ||skibidi.clash.gg^$ctag=user_child
@@ -87272,6 +87497,7 @@
 ||sleepyrowan.com^$ctag=user_child
 ||sleetssile.cyou^$ctag=user_child
 ||sleevegrope.com^$ctag=user_child
+||sleeybknlwlcv.online^$ctag=user_child
 ||slefle.tvoydom.ru^$ctag=user_child
 ||sleighssecalin.cfd^$ctag=user_child
 ||slerbssivissp.site^$ctag=user_child
@@ -87281,6 +87507,7 @@
 ||slfmlh.ostsee-jobanzeiger.de^$ctag=user_child
 ||slfpu.com^$ctag=user_child
 ||slfsmf.com^$ctag=user_child
+||slfsrdds.com^$ctag=user_child
 ||slfxgbhlleuvg.xyz^$ctag=user_child
 ||slgnt.us^$ctag=user_child
 ||slgvvqttcjcgp.store^$ctag=user_child
@@ -89275,6 +89502,7 @@
 ||smhuqk.youngexplorers.com^$ctag=user_child
 ||smi.today^$ctag=user_child
 ||smi24.kz^$ctag=user_child
+||smiddyjoropo.click^$ctag=user_child
 ||smigid.ru^$ctag=user_child
 ||smigro.info^$ctag=user_child
 ||smileesidesuk.com^$ctag=user_child
@@ -89336,6 +89564,7 @@
 ||smooth33.com^$ctag=user_child
 ||smoothbestowednegligence.com^$ctag=user_child
 ||smoothdeclarationoperative.com^$ctag=user_child
+||smoothlystep.com^$ctag=user_child
 ||smopy.com^$ctag=user_child
 ||smorecomdr.com^$ctag=user_child
 ||smoremewling.cyou^$ctag=user_child
@@ -89495,6 +89724,7 @@
 ||snipe.mfaber.at^$ctag=user_child
 ||snipe.mizzuu.co^$ctag=user_child
 ||sniperiffian.shop^$ctag=user_child
+||sniperkenmark.qpon^$ctag=user_child
 ||sniperlog.ru^$ctag=user_child
 ||snipersex.com^$ctag=user_child
 ||sniphub.com^$ctag=user_child
@@ -89948,6 +90178,7 @@
 ||sooncongestloving.com^$ctag=user_child
 ||soonpubplatform.online^$ctag=user_child
 ||soontow.com^$ctag=user_child
+||soopostagrauda.net^$ctag=user_child
 ||soorbka.cn^$ctag=user_child
 ||soorkylarixin.com^$ctag=user_child
 ||soosooka.com^$ctag=user_child
@@ -89965,6 +90196,7 @@
 ||sopho.kozow.com^$ctag=user_child
 ||sophomorelink.com^$ctag=user_child
 ||sophus3.com^$ctag=user_child
+||sophwelsher.help^$ctag=user_child
 ||sopital.com^$ctag=user_child
 ||soppe68.com^$ctag=user_child
 ||soppe68.shop^$ctag=user_child
@@ -90716,6 +90948,7 @@
 ||sqhlta.rockdenim.no^$ctag=user_child
 ||sqhqtvnvfzfne.store^$ctag=user_child
 ||sqif.cn^$ctag=user_child
+||sqiorli2w.com^$ctag=user_child
 ||sqipzeebqmina.online^$ctag=user_child
 ||sql.onlyslq.lol^$ctag=user_child
 ||sqlaikkurihuc.website^$ctag=user_child
@@ -91688,6 +91921,7 @@
 ||sspkbf.ragtag.jp^$ctag=user_child
 ||sspnm.emol.com^$ctag=user_child
 ||sspxhnhaigrdb.site^$ctag=user_child
+||sspzvqhsqywbq.site^$ctag=user_child
 ||ssqilo.bodytimero.com^$ctag=user_child
 ||ssqundfpfuwgy.store^$ctag=user_child
 ||ssqwkl.belabef.com^$ctag=user_child
@@ -95395,6 +95629,7 @@
 ||stattooz.com^$ctag=user_child
 ||stattrack.0catch.com^$ctag=user_child
 ||stattrax.com^$ctag=user_child
+||statuapettles.rest^$ctag=user_child
 ||statuesqueship.com^$ctag=user_child
 ||statun.com^$ctag=user_child
 ||statuncore.com^$ctag=user_child
@@ -95691,6 +95926,7 @@
 ||stoogreeft.net^$ctag=user_child
 ||stoolsymphony.com^$ctag=user_child
 ||stoomawy.net^$ctag=user_child
+||stoopedbedaub.cfd^$ctag=user_child
 ||stoopeddiscourse.com^$ctag=user_child
 ||stoopsellers.com^$ctag=user_child
 ||stoorturtun.net^$ctag=user_child
@@ -95987,6 +96223,7 @@
 ||strokesystem.com^$ctag=user_child
 ||strolldownstairstelegram.com^$ctag=user_child
 ||strollthrillingmeltdown.com^$ctag=user_child
+||stroneavalent.cyou^$ctag=user_child
 ||strong.solevibe.xyz^$ctag=user_child
 ||strongbarnacleenemy.com^$ctag=user_child
 ||strongercity.com^$ctag=user_child
@@ -96601,6 +96838,7 @@
 ||survivetumult.com^$ctag=user_child
 ||susannefine.cyou^$ctag=user_child
 ||susianulidia.com^$ctag=user_child
+||suspectinventory.com^$ctag=user_child
 ||suspectlensemphasis.com^$ctag=user_child
 ||suspectplainrevulsion.com^$ctag=user_child
 ||suspendsymptom.com^$ctag=user_child
@@ -96608,6 +96846,7 @@
 ||suspicionsepisode.com^$ctag=user_child
 ||suspicionshutnutshell.com^$ctag=user_child
 ||suspiciousfootprintschaise.com^$ctag=user_child
+||sustoordougn.net^$ctag=user_child
 ||susumufrits.com^$ctag=user_child
 ||susurrmucific.qpon^$ctag=user_child
 ||sut.iggroup.com^$ctag=user_child
@@ -96953,6 +97192,7 @@
 ||swixrosccrgyf.online^$ctag=user_child
 ||swjefkfuavnwt.site^$ctag=user_child
 ||swjglvhacucvi.space^$ctag=user_child
+||swjobsvvucure.website^$ctag=user_child
 ||swkism.moon-trade.ru^$ctag=user_child
 ||swlbivsjzgxri.rocks^$ctag=user_child
 ||swm.zwartecross.nl^$ctag=user_child
@@ -97058,6 +97298,7 @@
 ||sxjvnyieakqua.website^$ctag=user_child
 ||sxknohdvtxwur.site^$ctag=user_child
 ||sxlflt.com^$ctag=user_child
+||sxmikprbybfyg.com^$ctag=user_child
 ||sxmxpm.nectarsleep.com^$ctag=user_child
 ||sxnknknfjjupi.online^$ctag=user_child
 ||sxobqwbiiknjp.website^$ctag=user_child
@@ -98514,6 +98755,7 @@
 ||tangyamount.com^$ctag=user_child
 ||tangycover.com^$ctag=user_child
 ||tanidigital.com^$ctag=user_child
+||tanjibclatter.com^$ctag=user_child
 ||tankerscentrer.shop^$ctag=user_child
 ||tankfangspain.com^$ctag=user_child
 ||tanothingfruiti.com^$ctag=user_child
@@ -98869,6 +99111,7 @@
 ||tatehj.nylaarp.com^$ctag=user_child
 ||tatersbilobed.com^$ctag=user_child
 ||tatersthiefly.qpon^$ctag=user_child
+||tatfuneyuwbqk.site^$ctag=user_child
 ||tatianapyrous.life^$ctag=user_child
 ||tationseleauks.com^$ctag=user_child
 ||tatrack.thinkyeah.com^$ctag=user_child
@@ -99065,6 +99308,7 @@
 ||tccd.niche-beauty.com^$ctag=user_child
 ||tccd.nocibe.fr^$ctag=user_child
 ||tccd.parfumdreams.de^$ctag=user_child
+||tccdwjcf.com^$ctag=user_child
 ||tccefl.fabletics.se^$ctag=user_child
 ||tcdata.fnac.com^$ctag=user_child
 ||tcdkjy.top^$ctag=user_child
@@ -99538,6 +99782,7 @@
 ||tendertest.com^$ctag=user_child
 ||tengbt.healthhelper.kr^$ctag=user_child
 ||tenhourweek.com^$ctag=user_child
+||teniaeacpt.cyou^$ctag=user_child
 ||tenilstats.turner.com^$ctag=user_child
 ||tenis.antolie.com.br^$ctag=user_child
 ||tenkninghoder.com^$ctag=user_child
@@ -99676,6 +99921,7 @@
 ||tetlienquan2023.website^$ctag=user_child
 ||tetoolbox.com^$ctag=user_child
 ||tetquatang.vn^$ctag=user_child
+||tetrousfiz.cyou^$ctag=user_child
 ||tetteruroodal.click^$ctag=user_child
 ||tetyerecently.com^$ctag=user_child
 ||teuchitreality.cyou^$ctag=user_child
@@ -99756,6 +100002,7 @@
 ||tfwwxizsfbmvw.space^$ctag=user_child
 ||tfxswxtxcickc.space^$ctag=user_child
 ||tfyam4np2y.com^$ctag=user_child
+||tfythnlvyefxrm.com^$ctag=user_child
 ||tfzfvrvsmczvl.website^$ctag=user_child
 ||tg.meitu.com^$ctag=user_child
 ||tg.mybb.ru^$ctag=user_child
@@ -99954,6 +100201,7 @@
 ||theroswaf.com^$ctag=user_child
 ||therplungestrang.org^$ctag=user_child
 ||thesauchusaucos.net^$ctag=user_child
+||thesaurusdefrostwoodlands.com^$ctag=user_child
 ||thesearchagency.net^$ctag=user_child
 ||theseeast.pro^$ctag=user_child
 ||theseushymn.help^$ctag=user_child
@@ -100090,6 +100338,7 @@
 ||thornybeach.pro^$ctag=user_child
 ||thornyqueen.pro^$ctag=user_child
 ||thoroughloweromission.com^$ctag=user_child
+||thoroughlyblisterpelt.com^$ctag=user_child
 ||thoroughlyripepedigree.com^$ctag=user_child
 ||thorpdetract.rest^$ctag=user_child
 ||thorperandomaccounts.com^$ctag=user_child
@@ -100128,6 +100377,7 @@
 ||thricroiw.com^$ctag=user_child
 ||thricrulnf.com^$ctag=user_child
 ||thrifty-race.pro^$ctag=user_child
+||thrifty-rough.pro^$ctag=user_child
 ||thrillasoft.com^$ctag=user_child
 ||thriseds.com^$ctag=user_child
 ||thrivingmarketplace.com^$ctag=user_child
@@ -100199,6 +100449,7 @@
 ||tibacta.com^$ctag=user_child
 ||tibbhihjuvgrj.space^$ctag=user_child
 ||tibiaeedgiest.help^$ctag=user_child
+||tibialelegist.cfd^$ctag=user_child
 ||tibiasingoted.shop^$ctag=user_child
 ||tiboha.top^$ctag=user_child
 ||tic-tic-bam.com^$ctag=user_child
@@ -100476,6 +100727,7 @@
 ||tingiaitrian.com^$ctag=user_child
 ||tingiovang777.com^$ctag=user_child
 ||tingiovangvn.com^$ctag=user_child
+||tingledthraws.qpon^$ctag=user_child
 ||tingrinter.com^$ctag=user_child
 ||tinhay24h.pro^$ctag=user_child
 ||tinhot24h.pro^$ctag=user_child
@@ -100628,6 +100880,7 @@
 ||tjekscores.dk^$ctag=user_child
 ||tjemb.southlandorganics.com^$ctag=user_child
 ||tjepekenkccqi.online^$ctag=user_child
+||tjetwqtpcvwnl.com^$ctag=user_child
 ||tjfavx.icu^$ctag=user_child
 ||tjfot.com^$ctag=user_child
 ||tjgpo.hurraheroes.com^$ctag=user_child
@@ -100901,7 +101154,6 @@
 ||tkmedia.aotter.net^$ctag=user_child
 ||tkmftc.aotter.net^$ctag=user_child
 ||tkmwl.com^$ctag=user_child
-||tknet.rayjump.com^$ctag=user_child
 ||tkngeviglxsti.store^$ctag=user_child
 ||tkoaurrdcktnp.vip^$ctag=user_child
 ||tkoxiczqjjteg.website^$ctag=user_child
@@ -101002,6 +101254,7 @@
 ||tm1.hoiplay.com^$ctag=user_child
 ||tm5kpprikka.com^$ctag=user_child
 ||tmb5trk.com^$ctag=user_child
+||tmbhsooxjskfc.site^$ctag=user_child
 ||tmbiounhsqufo.online^$ctag=user_child
 ||tmbsttvrgwmnc.space^$ctag=user_child
 ||tmbsxx.oxybul.com^$ctag=user_child
@@ -101792,6 +102045,7 @@
 ||tr.apac.legal.moethennessy.com^$ctag=user_child
 ||tr.api.fanbyte.com^$ctag=user_child
 ||tr.apsisforms.com^$ctag=user_child
+||tr.attribuly.com^$ctag=user_child
 ||tr.audi-fs-email.fr^$ctag=user_child
 ||tr.avisecheance.maaf.fr^$ctag=user_child
 ||tr.bati-partner.be^$ctag=user_child
@@ -106269,6 +106523,7 @@
 ||tt.ubs.com^$ctag=user_child
 ||tt.ulsterbank.ie^$ctag=user_child
 ||tt123.eastday.com^$ctag=user_child
+||tt8v88cuxryuu3w941n1r3hozgujmn.rest^$ctag=user_child
 ||ttaqa.taylorrobinsonmusic.com^$ctag=user_child
 ||ttarget.eastwestbank.com^$ctag=user_child
 ||ttarget.ru^$ctag=user_child
@@ -106446,6 +106701,7 @@
 ||tulsmcvbuzvsk.website^$ctag=user_child
 ||tumabeni.com^$ctag=user_child
 ||tumblebit.com^$ctag=user_child
+||tumbleddear.com^$ctag=user_child
 ||tumbledemploymentcollapse.com^$ctag=user_child
 ||tumbleicicle.com^$ctag=user_child
 ||tumblepoet.com^$ctag=user_child
@@ -107062,6 +107318,7 @@
 ||ubyyxdgvfvhutsp.com^$ctag=user_child
 ||ubzbr.spanx.ca^$ctag=user_child
 ||ubzdk.opopop.com^$ctag=user_child
+||ubzmzxtdosgdh.online^$ctag=user_child
 ||uc.ucweb.com^$ctag=user_child
 ||uc.xddi.ru^$ctag=user_child
 ||uc9.suinidai.com.cn^$ctag=user_child
@@ -107246,6 +107503,7 @@
 ||ufsykt.muensteraner-jobanzeiger.de^$ctag=user_child
 ||uftis.vitaminshoppe.com^$ctag=user_child
 ||uftoxnxd.net^$ctag=user_child
+||ufuaaejrupvow.space^$ctag=user_child
 ||ufulsorsodroubs.com^$ctag=user_child
 ||ufuspv.nucific.com^$ctag=user_child
 ||ufvwviscjkake.space^$ctag=user_child
@@ -107290,6 +107548,7 @@
 ||ugmarketing.smu.edu.sg^$ctag=user_child
 ||ugmhqqlicdaqg.online^$ctag=user_child
 ||ugnnrfdqweah.com^$ctag=user_child
+||ugodicwouwa.com^$ctag=user_child
 ||ugopkl.com^$ctag=user_child
 ||ugox.cn^$ctag=user_child
 ||ugqaxpmhdveiv.website^$ctag=user_child
@@ -107397,6 +107656,7 @@
 ||uipseknc.com^$ctag=user_child
 ||uiqca.swimoutlet.com^$ctag=user_child
 ||uiqdvkqzx.com^$ctag=user_child
+||uiqnrkwunajpgtx.com^$ctag=user_child
 ||uiqoqdlewwvggs.com^$ctag=user_child
 ||uiqouw.icu^$ctag=user_child
 ||uirmuudwa.com^$ctag=user_child
@@ -107434,6 +107694,7 @@
 ||ujlxkxgfl3.creativelandings.xyz^$ctag=user_child
 ||ujm.hansel.io^$ctag=user_child
 ||ujmz.cn^$ctag=user_child
+||ujn9i3q8lvk3kkunttptpn7j.rest^$ctag=user_child
 ||ujnfkyefpvheo.site^$ctag=user_child
 ||ujnsh.discovericl.com^$ctag=user_child
 ||ujof.cn^$ctag=user_child
@@ -107506,6 +107767,7 @@
 ||ukvnr.glamrdip.com^$ctag=user_child
 ||ukwjzdxwgoogb.store^$ctag=user_child
 ||ukwnqz.flyflot.it^$ctag=user_child
+||ukwwcstydteaq.website^$ctag=user_child
 ||ukx6umuvu.com^$ctag=user_child
 ||ukxefa.bonkids.ru^$ctag=user_child
 ||ukzdcnzp.bdtrjklaz.de^$ctag=user_child
@@ -107706,6 +107968,7 @@
 ||unbiasbiog.cfd^$ctag=user_child
 ||unblimans.cfd^$ctag=user_child
 ||unblockia.com^$ctag=user_child
+||unbrokewaiver.com^$ctag=user_child
 ||unbrownunflat.com^$ctag=user_child
 ||unburstmaunch.help^$ctag=user_child
 ||unbuttonexcellentsubway.com^$ctag=user_child
@@ -107713,6 +107976,7 @@
 ||uncanny.marvel.com^$ctag=user_child
 ||uncannydaytime.com^$ctag=user_child
 ||uncannyhick.com^$ctag=user_child
+||uncasestoneme.rest^$ctag=user_child
 ||uncastvallum.cfd^$ctag=user_child
 ||uncchl.mylene.eu^$ctag=user_child
 ||uncernedasesiumw.org^$ctag=user_child
@@ -107721,6 +107985,7 @@
 ||uncertainencouragement.com^$ctag=user_child
 ||uncertainfollow.com^$ctag=user_child
 ||uncgeisllkmtn.website^$ctag=user_child
+||unchairclawing.help^$ctag=user_child
 ||unchealthcare.hrm.healthgrades.com^$ctag=user_child
 ||unciatoi.com^$ctag=user_child
 ||unclampescribe.qpon^$ctag=user_child
@@ -107918,6 +108183,7 @@
 ||unmanyatter.com^$ctag=user_child
 ||unmeantlatuka.click^$ctag=user_child
 ||unmectappic.com^$ctag=user_child
+||unmeedyironer.click^$ctag=user_child
 ||unmeetbookies.com^$ctag=user_child
 ||unmefwsycamtq.space^$ctag=user_child
 ||unmergesquire.life^$ctag=user_child
@@ -107925,6 +108191,7 @@
 ||unmistspeeded.shop^$ctag=user_child
 ||unmoraldisband.cfd^$ctag=user_child
 ||unnaturalcontradictblossom.com^$ctag=user_child
+||unnaturalindulgencerenown.com^$ctag=user_child
 ||unnaturallead.com^$ctag=user_child
 ||unnaturalred.pro^$ctag=user_child
 ||unnervesuede.cyou^$ctag=user_child
@@ -108099,6 +108366,7 @@
 ||uogzih.profinfo.pl^$ctag=user_child
 ||uohdu.venus.com^$ctag=user_child
 ||uohqrf.manfieldschuhe.de^$ctag=user_child
+||uohsqzovikvyr.online^$ctag=user_child
 ||uohygjhhmwcco.site^$ctag=user_child
 ||uoird.jiujitsu.com^$ctag=user_child
 ||uojcu.dimebeautyco.com^$ctag=user_child
@@ -108227,6 +108495,7 @@
 ||upscore.com^$ctag=user_child
 ||upsell.alphwidget.com^$ctag=user_child
 ||upsellit.com^$ctag=user_child
+||upset-comparison.pro^$ctag=user_child
 ||upset-rent.com^$ctag=user_child
 ||upsight.com^$ctag=user_child
 ||upskittyan.com^$ctag=user_child
@@ -109013,6 +109282,7 @@
 ||utjwjp.untilgone.com^$ctag=user_child
 ||utklhk.kojima.net^$ctag=user_child
 ||utkoh.nuudcare.us^$ctag=user_child
+||utkry63oljlxtpx.rest^$ctag=user_child
 ||utl-1.com^$ctag=user_child
 ||utlbs.stoffwechsel-gesund.de^$ctag=user_child
 ||utlkjjdnjcbqx.website^$ctag=user_child
@@ -109157,6 +109427,7 @@
 ||uwcnmtt.top^$ctag=user_child
 ||uwerpyh.cn^$ctag=user_child
 ||uwfsrubjqlibq.store^$ctag=user_child
+||uwgkkegilvrnqwu.com^$ctag=user_child
 ||uwhevailoo.net^$ctag=user_child
 ||uwhothoofaci.net^$ctag=user_child
 ||uwi34.rvs-products.nl^$ctag=user_child
@@ -109970,6 +110241,7 @@
 ||velvet.eliteelegance.xyz^$ctag=user_child
 ||velvetdock.com^$ctag=user_child
 ||velvetquasar.com^$ctag=user_child
+||velvetyambition.pro^$ctag=user_child
 ||velvetybowtie.rest^$ctag=user_child
 ||velvetymaximum.pro^$ctag=user_child
 ||vemaybaynhatviet.com^$ctag=user_child
@@ -109977,6 +110249,7 @@
 ||vemqkbaqyjzaw.top^$ctag=user_child
 ||vemtoutcheeg.com^$ctag=user_child
 ||venatusmedia.com^$ctag=user_child
+||vendedlayup.com^$ctag=user_child
 ||vendexo.com^$ctag=user_child
 ||vendigamus.com^$ctag=user_child
 ||vendimob.pl^$ctag=user_child
@@ -110080,6 +110353,7 @@
 ||versionspactpeeks.com^$ctag=user_child
 ||versionsphysicaldropper.com^$ctag=user_child
 ||versionsprobabilitydeposit.com^$ctag=user_child
+||versolevelsthulr.cyou^$ctag=user_child
 ||verspicary.top^$ctag=user_child
 ||versteether.cfd^$ctag=user_child
 ||vertelka.ru^$ctag=user_child
@@ -111937,6 +112211,7 @@
 ||vu-kgxwyxpr.online^$ctag=user_child
 ||vuabem.com^$ctag=user_child
 ||vuacltxmomo.net^$ctag=user_child
+||vuaffntpd.com^$ctag=user_child
 ||vuainqkmjdiqp.site^$ctag=user_child
 ||vuamomo.com^$ctag=user_child
 ||vubao.elliemax-perth.com^$ctag=user_child
@@ -112384,6 +112659,7 @@
 ||waifzoism.help^$ctag=user_child
 ||waigaumaphips.net^$ctag=user_child
 ||wailakihipping.cyou^$ctag=user_child
+||wailedshave.com^$ctag=user_child
 ||wailinghassle.com^$ctag=user_child
 ||waimooweepi.net^$ctag=user_child
 ||wainfulcaspian.com^$ctag=user_child
@@ -112786,6 +113062,7 @@
 ||wduwzaqhftslc.website^$ctag=user_child
 ||wdvefopvkkomvz.com^$ctag=user_child
 ||wdwadkgqylntz.space^$ctag=user_child
+||wdwdjwodpqjzm.site^$ctag=user_child
 ||wdxkvzttydxog.space^$ctag=user_child
 ||wdxuugjqeavzv.space^$ctag=user_child
 ||wdxxx.top^$ctag=user_child
@@ -112799,6 +113076,7 @@
 ||wealth.informabi.com^$ctag=user_child
 ||wealthn.com^$ctag=user_child
 ||wealthstage.cyou^$ctag=user_child
+||wealthy-long.pro^$ctag=user_child
 ||wealthy-mixture.pro^$ctag=user_child
 ||weanerssouls.com^$ctag=user_child
 ||weaponschemicalenglish.com^$ctag=user_child
@@ -113577,6 +113855,7 @@
 ||wfwjybergdbg.com^$ctag=user_child
 ||wfwnihvjcsddw.website^$ctag=user_child
 ||wfwrbo.fascar.com.br^$ctag=user_child
+||wfyjuwcfodyzil.com^$ctag=user_child
 ||wfzoskvfbdwot.site^$ctag=user_child
 ||wg-aff.com^$ctag=user_child
 ||wg.zaloapp.com^$ctag=user_child
@@ -113597,6 +113876,7 @@
 ||wghaqpnupaxmj.space^$ctag=user_child
 ||wghfllccxhpnf.com^$ctag=user_child
 ||wghoubdaxpsik.site^$ctag=user_child
+||wghvvdmdqgdzz.space^$ctag=user_child
 ||wgmenxpvnxnbs.space^$ctag=user_child
 ||wgnrrd.culturekings.com^$ctag=user_child
 ||wgogmr.lisamayo.pl^$ctag=user_child
@@ -114049,6 +114329,7 @@
 ||winterbedroomauction.com^$ctag=user_child
 ||winterdistortkey.com^$ctag=user_child
 ||winterpraised.com^$ctag=user_child
+||winteryvapored.help^$ctag=user_child
 ||wintlesdeiced.cfd^$ctag=user_child
 ||wintrck.com^$ctag=user_child
 ||wintrifleromantic.com^$ctag=user_child
@@ -114200,6 +114481,7 @@
 ||wkdquomvnpnmq.website^$ctag=user_child
 ||wkerjleoderlg.online^$ctag=user_child
 ||wkfjbrmbkdiqa.online^$ctag=user_child
+||wkghcdvjmgspm.website^$ctag=user_child
 ||wkjvzljmxdzni.top^$ctag=user_child
 ||wkkug.vcbnw.de^$ctag=user_child
 ||wkmnkcfciiqjygv.com^$ctag=user_child
@@ -114705,6 +114987,7 @@
 ||wqvwqxstgqjyk.fun^$ctag=user_child
 ||wqwkta.casadopapel.com.br^$ctag=user_child
 ||wqwoynnxgujac.online^$ctag=user_child
+||wqxvfzvqcqmcs.website^$ctag=user_child
 ||wr.yiyouliao.com^$ctag=user_child
 ||wraataikep.com^$ctag=user_child
 ||wrangleagarum.help^$ctag=user_child
@@ -114952,6 +115235,7 @@
 ||wuporg.com^$ctag=user_child
 ||wurfl.io^$ctag=user_child
 ||wurflcloud.com^$ctag=user_child
+||wurl.com^$ctag=user_child
 ||wurqaz.com^$ctag=user_child
 ||wurst.hausschlachtebedarf.de^$ctag=user_child
 ||wurst.leffis.de^$ctag=user_child
@@ -115516,6 +115800,7 @@
 ||wyverncitralslosings.cyou^$ctag=user_child
 ||wyvgwkupgpdrd.website^$ctag=user_child
 ||wyvlllooaljlv.top^$ctag=user_child
+||wyvlllooallok.top^$ctag=user_child
 ||wyvlllooalwlj.top^$ctag=user_child
 ||wyvtoicgngifo.website^$ctag=user_child
 ||wyvw.cn^$ctag=user_child
@@ -115671,6 +115956,7 @@
 ||xaxoro.com^$ctag=user_child
 ||xay5o.toscane-boutique.fr^$ctag=user_child
 ||xaybbkzhceysr.website^$ctag=user_child
+||xayywzcbeudmh.website^$ctag=user_child
 ||xazafvbmicmi.com^$ctag=user_child
 ||xazextepdkarx.store^$ctag=user_child
 ||xazmshwtsxkne.online^$ctag=user_child
@@ -115744,6 +116030,7 @@
 ||xcvfqnxr.net^$ctag=user_child
 ||xcvqlmvxltmde.website^$ctag=user_child
 ||xcxmfcqehr.net^$ctag=user_child
+||xcxmpiysijwjr.website^$ctag=user_child
 ||xcyklkqqzildy.space^$ctag=user_child
 ||xd152.com^$ctag=user_child
 ||xd51vd1y.xyz^$ctag=user_child
@@ -115967,6 +116254,7 @@
 ||xjfhvjcsviyrg.site^$ctag=user_child
 ||xjhmuyvufdesh.space^$ctag=user_child
 ||xjihzwnozmgyu.site^$ctag=user_child
+||xjixhyvesogtx.site^$ctag=user_child
 ||xjixxfwwheoch.online^$ctag=user_child
 ||xjjjeoythaboi.website^$ctag=user_child
 ||xjkokekq.com^$ctag=user_child
@@ -116720,6 +117008,7 @@
 ||xmwkjf.joya.ca^$ctag=user_child
 ||xmwkvzvmoariv.site^$ctag=user_child
 ||xmxhyz.markenbaumarkt24.de^$ctag=user_child
+||xmyblxrfy.com^$ctag=user_child
 ||xmyvhu.soxo.pl^$ctag=user_child
 ||xmzobmxrvemuh.fun^$ctag=user_child
 ||xmzycassdgraf.online^$ctag=user_child
@@ -116806,6 +117095,7 @@
 ||xovzgcoovh.club^$ctag=user_child
 ||xownbkkhgzywg.website^$ctag=user_child
 ||xoxbxd.opus-fashion.com^$ctag=user_child
+||xoxdxaxzcczof.site^$ctag=user_child
 ||xoxnetwork.com^$ctag=user_child
 ||xoxyxaxtgkryj.club^$ctag=user_child
 ||xoymkdgsafcdh.site^$ctag=user_child
@@ -116860,6 +117150,7 @@
 ||xqaosfdbhff.today^$ctag=user_child
 ||xqcxufkredlqg.site^$ctag=user_child
 ||xqdwwj.medpeer.jp^$ctag=user_child
+||xqedtqzjdjheh.space^$ctag=user_child
 ||xqeoitqw.site^$ctag=user_child
 ||xqfpgwarzkecj.website^$ctag=user_child
 ||xqiitw.brasty.ro^$ctag=user_child
@@ -117045,6 +117336,7 @@
 ||xtydrmtywznhs.website^$ctag=user_child
 ||xtyxcc.provitamin.hu^$ctag=user_child
 ||xu6.icu^$ctag=user_child
+||xuajhybskerxo.space^$ctag=user_child
 ||xuanlienquan.com^$ctag=user_child
 ||xuawdz.xn--b1aedqiqb.xn--p1ai^$ctag=user_child
 ||xubbublumamr.com^$ctag=user_child
@@ -117369,6 +117661,7 @@
 ||yaifijaifjxhuc.com^$ctag=user_child
 ||yaizkr.168cm.kr^$ctag=user_child
 ||yajeindieselvamosed.cyou^$ctag=user_child
+||yajeninengulf.com^$ctag=user_child
 ||yajjppbbzrxfk.space^$ctag=user_child
 ||yajkhd.supersports.com^$ctag=user_child
 ||yak.auclantis.com^$ctag=user_child
@@ -117522,6 +117815,7 @@
 ||ydbeuq.superpharm.pl^$ctag=user_child
 ||ydcbng.yadah.co.kr^$ctag=user_child
 ||ydccky.direnc.net^$ctag=user_child
+||ydcimdgvglu.com^$ctag=user_child
 ||ydcksa.certideal.com^$ctag=user_child
 ||yddtah.takingshape.com^$ctag=user_child
 ||ydeyivh.xyz^$ctag=user_child
@@ -117566,6 +117860,7 @@
 ||yeah1publishing.com^$ctag=user_child
 ||yeahmobi.com^$ctag=user_child
 ||yeandriethzm.com^$ctag=user_child
+||yearly-training.pro^$ctag=user_child
 ||yeastexisting.com^$ctag=user_child
 ||yeastfeukufund.org^$ctag=user_child
 ||yebvpc.gardengoodsdirect.com^$ctag=user_child
@@ -117656,11 +117951,13 @@
 ||yfrnkmcdeurmk.top^$ctag=user_child
 ||yfsdrosphjdyh.online^$ctag=user_child
 ||yfshutispht.com^$ctag=user_child
+||yfsisdewaeush.site^$ctag=user_child
 ||yfswcwcrmslwb.website^$ctag=user_child
 ||yftkzg.thisisfutbol.com^$ctag=user_child
 ||yfuciawgeyptp.space^$ctag=user_child
 ||yfueuktureukwo.org^$ctag=user_child
 ||yfveranuqguoc.love^$ctag=user_child
+||yfwfmvofiyemc.space^$ctag=user_child
 ||yfwwfbxkteuwp.site^$ctag=user_child
 ||yfxfasbecsqsb.site^$ctag=user_child
 ||yfxkedinghbze.space^$ctag=user_child
@@ -117716,6 +118013,7 @@
 ||yhirnltair.net^$ctag=user_child
 ||yhjgjk.wemakeup.it^$ctag=user_child
 ||yhkbdmvhlndm.com^$ctag=user_child
+||yhkdroyeucl.com^$ctag=user_child
 ||yhmgbtyiidqwp.today^$ctag=user_child
 ||yhmqcuzbgzuix.space^$ctag=user_child
 ||yhmqrdsuznxmo.online^$ctag=user_child
@@ -118370,6 +118668,7 @@
 ||yupfiles.net^$ctag=user_child
 ||yuppads.com^$ctag=user_child
 ||yuppyads.com^$ctag=user_child
+||yupqtvngbuy.com^$ctag=user_child
 ||yuqafbvyvdy.com^$ctag=user_child
 ||yuqnyudug.com^$ctag=user_child
 ||yur09111og.com^$ctag=user_child
@@ -118422,6 +118721,7 @@
 ||yvpswmiipjhni.life^$ctag=user_child
 ||yvqmxqzkurpim.website^$ctag=user_child
 ||yvrileid.com^$ctag=user_child
+||yvshjwqvannfc.space^$ctag=user_child
 ||yvsofs.tropeaka.com.au^$ctag=user_child
 ||yvtgva.casa.it^$ctag=user_child
 ||yvyquupzfhqkxg.com^$ctag=user_child
@@ -118667,6 +118967,7 @@
 ||zaiqnethl.com^$ctag=user_child
 ||zairaikauhaur.net^$ctag=user_child
 ||zaiteegraity.net^$ctag=user_child
+||zaitounofeeta.net^$ctag=user_child
 ||zaiuhu.vacatia.com^$ctag=user_child
 ||zaiwaiphaipah.net^$ctag=user_child
 ||zaiwaithauhaupi.net^$ctag=user_child
@@ -118751,6 +119052,7 @@
 ||zbfszb.calpis-shop.jp^$ctag=user_child
 ||zbhfbgoskxqmz.online^$ctag=user_child
 ||zbhxbpkoqbysc.website^$ctag=user_child
+||zbifzcbcwsuuu.space^$ctag=user_child
 ||zbislaernv.com^$ctag=user_child
 ||zbkimwyrhzhas.store^$ctag=user_child
 ||zbl40hvzzy.com^$ctag=user_child
@@ -118862,6 +119164,7 @@
 ||zdh11070lo.com^$ctag=user_child
 ||zdh11071lo.com^$ctag=user_child
 ||zdi0.destinia.cr^$ctag=user_child
+||zdiykdcxbwsvn.site^$ctag=user_child
 ||zdjff.rootsbyga.com^$ctag=user_child
 ||zdmxehlpvvtta.site^$ctag=user_child
 ||zdnnue.clubllondon.com^$ctag=user_child
@@ -118994,6 +119297,7 @@
 ||zfaito.banarasee.in^$ctag=user_child
 ||zfarth.amoma.jp^$ctag=user_child
 ||zfbpgxpdahjqf.online^$ctag=user_child
+||zfc2ul88s.top^$ctag=user_child
 ||zfcbuhkbpmbwy.space^$ctag=user_child
 ||zfccd.mylifeforce.com^$ctag=user_child
 ||zfctbjmrmondr.site^$ctag=user_child
@@ -119354,6 +119658,7 @@
 ||zmetrics.msn.com^$ctag=user_child
 ||zmewqybrjlblp.com^$ctag=user_child
 ||zmfdxt.megastudy.net^$ctag=user_child
+||zmgkzryddts.com^$ctag=user_child
 ||zmhgvuxeohjhl.space^$ctag=user_child
 ||zminer.zaloapp.com^$ctag=user_child
 ||zmiqg.eccouncil.org^$ctag=user_child
@@ -119514,6 +119819,7 @@
 ||zoubpogaessse.website^$ctag=user_child
 ||zouloafi.net^$ctag=user_child
 ||zouptauphuglish.net^$ctag=user_child
+||zov2et5kitcqeq1b.cfd^$ctag=user_child
 ||zoveeromseboo.net^$ctag=user_child
 ||zovidree.com^$ctag=user_child
 ||zovymjxylvknp.website^$ctag=user_child
@@ -119677,6 +119983,7 @@
 ||zsy10230yok.com^$ctag=user_child
 ||zsy10231yok.com^$ctag=user_child
 ||zsy10240yok.com^$ctag=user_child
+||zsz8xljo8y.top^$ctag=user_child
 ||zszhfffyd.ru^$ctag=user_child
 ||zt.me.zing.vn^$ctag=user_child
 ||zt1.me.zing.vn^$ctag=user_child
@@ -119914,6 +120221,7 @@
 ||zyavhhgzkdjfu.space^$ctag=user_child
 ||zybdgyliyrhum.website^$ctag=user_child
 ||zybkrv.icu^$ctag=user_child
+||zyblzreyykazw.top^$ctag=user_child
 ||zyblzreyykqrj.top^$ctag=user_child
 ||zyblzreyykyjw.top^$ctag=user_child
 ||zybnqcnikmpqu.life^$ctag=user_child
