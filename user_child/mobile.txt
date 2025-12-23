@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1766380507 (Epoch)
+! Version: 1766466907 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -844,7 +844,6 @@
 ||widespace.com^$ctag=user_child
 ||wordego.com^$ctag=user_child
 ||wtraff.com^$ctag=user_child
-||wurl.com^$ctag=user_child
 ||www.adbert.com.tw^$ctag=user_child
 ||xdrig.com^$ctag=user_child
 ||ximad.com^$ctag=user_child
