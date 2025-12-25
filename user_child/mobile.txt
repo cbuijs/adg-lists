@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1766553308 (Epoch)
+! Version: 1766639709 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -421,7 +421,6 @@
 ||exe.bid^$ctag=user_child
 ||exelbid.com^$ctag=user_child
 ||exponential.com^$ctag=user_child
-||external-api.impression-neo.naver.com^$ctag=user_child
 ||featured.perfectionholic.com^$ctag=user_child
 ||fiksu.com^$ctag=user_child
 ||fluentmobile.com^$ctag=user_child
