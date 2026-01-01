@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1767158108 (Epoch)
+! Version: 1767244508 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -618,6 +618,7 @@
 ||octillion.tv^$ctag=user_child
 ||offerwall-adnative.com^$ctag=user_child
 ||offerwall.yandex.net^$ctag=user_child
+||ogads-pa.clients6.google.com^$ctag=user_child
 ||okloib88.com^$ctag=user_child
 ||onlineapi.youappi.com^$ctag=user_child
 ||open.e.kuaishou.cn^$ctag=user_child
