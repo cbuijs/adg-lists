@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1767503710 (Epoch)
+! Version: 1767590107 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -263,7 +263,6 @@
 ||appgift.sinaapp.com^$ctag=user_child
 ||appgiftwall.oss-us-west-1.aliyuncs.com^$ctag=user_child
 ||applifier.com^$ctag=user_child
-||applovin.com^$ctag=user_child
 ||appnext-a.akamaihd.net^$ctag=user_child
 ||appnext.hs.llnwd.net^$ctag=user_child
 ||appodeal.com^$ctag=user_child
