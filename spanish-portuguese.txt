@@ -1,5 +1,5 @@
 ! Title: SPANISH-PORTUGUESE for CTAG "user_child".
-! Version: 1767590108 (Epoch)
+! Version: 1767676508 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
@@ -39,6 +39,7 @@
 ||bowedcounty.com^$ctag=user_child
 ||bserver.gp-guia.net^$ctag=user_child
 ||byfoongusor.com^$ctag=user_child
+||cdn-4k-webp.site^$ctag=user_child
 ||ceremonyjogglecling.com^$ctag=user_child
 ||classic-bonus.com^$ctag=user_child
 ||clicks.abril.com.br^$ctag=user_child
