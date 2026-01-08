@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1767762910 (Epoch)
+! Version: 1767849309 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -58,6 +58,7 @@
 ||ads.digitalcaramel.com^$ctag=user_child
 ||ads.go2net.com.ua^$ctag=user_child
 ||ads.interfax.ru^$ctag=user_child
+||ads.kingads.digital^$ctag=user_child
 ||ads.livetvcdn.net^$ctag=user_child
 ||ads.people-group.net^$ctag=user_child
 ||ads2.pbxware.ru^$ctag=user_child
@@ -383,6 +384,7 @@
 ||servetraff.com^$ctag=user_child
 ||servw.bid^$ctag=user_child
 ||setka.media^$ctag=user_child
+||sghb.hbmp.ops.co^$ctag=user_child
 ||showsclick.com^$ctag=user_child
 ||showsclicka.com^$ctag=user_child
 ||shvhse.com^$ctag=user_child
@@ -411,6 +413,9 @@
 ||sur.auto43.srv43.ru^$ctag=user_child
 ||sur.gorodkirov.ru^$ctag=user_child
 ||svc.kartinka.com.ua^$ctag=user_child
+||sync.ads.oveeo.com^$ctag=user_child
+||sync.platform.lightad.com^$ctag=user_child
+||sync.spotim.market^$ctag=user_child
 ||t.fileplaneta.com^$ctag=user_child
 ||t.nude-moon.com^$ctag=user_child
 ||t.sur.new.gorodkirov.ru^$ctag=user_child
@@ -441,6 +446,7 @@
 ||umyeon.com^$ctag=user_child
 ||undere.com^$ctag=user_child
 ||unisound.cdnvideo.ru^$ctag=user_child
+||unoadsrv.com^$ctag=user_child
 ||untily.com^$ctag=user_child
 ||uredy.top^$ctag=user_child
 ||us.a1.yimg.com^$ctag=user_child
@@ -459,6 +465,7 @@
 ||videotouch88.info^$ctag=user_child
 ||vidigital.ru^$ctag=user_child
 ||vidustal.com^$ctag=user_child
+||viewdeos.com^$ctag=user_child
 ||virnews.club^$ctag=user_child
 ||vjdciu.com^$ctag=user_child
 ||vk-ads.ru^$ctag=user_child
