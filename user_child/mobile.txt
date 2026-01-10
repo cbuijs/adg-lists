@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1767935708 (Epoch)
+! Version: 1768022109 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -647,6 +647,7 @@
 ||pixel.admobclick.com^$ctag=user_child
 ||playgap.b-cdn.net^$ctag=user_child
 ||playhaven.com^$ctag=user_child
+||playwire.com^$ctag=user_child
 ||plugin.mobopay.baidu.com^$ctag=user_child
 ||pn.ybp.yahoo.com^$ctag=user_child
 ||polymorphicads.jp^$ctag=user_child
