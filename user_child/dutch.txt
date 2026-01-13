@@ -1,5 +1,5 @@
 ! Title: DUTCH for CTAG "user_child".
-! Version: 1768194907 (Epoch)
+! Version: 1768281307 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
@@ -33,6 +33,7 @@
 ||mt67.net^$ctag=user_child
 ||nextdaymedia-ads.s3.amazonaws.com^$ctag=user_child
 ||nojazz.eu^$ctag=user_child
+||preroll.omroepvenlo.nl^$ctag=user_child
 ||proxy.optoutadserving.com^$ctag=user_child
 ||publize.net^$ctag=user_child
 ||traffic.12flirt.com^$ctag=user_child
