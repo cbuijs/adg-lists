@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1768540510 (Epoch)
+! Version: 1768626911 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -548,6 +548,7 @@
 ||mcoreads.com^$ctag=user_child
 ||med-api.admost.com^$ctag=user_child
 ||medialand.ru^$ctag=user_child
+||mediation.goog^$ctag=user_child
 ||mediation.unity3d.com^$ctag=user_child
 ||meendocash.com^$ctag=user_child
 ||metamx.com^$ctag=user_child
