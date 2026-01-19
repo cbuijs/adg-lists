@@ -1,5 +1,5 @@
 ! Title: TURKISH for CTAG "user_child".
-! Version: 1768713313 (Epoch)
+! Version: 1768799710 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
@@ -81,6 +81,7 @@
 ||mdznads.com^$ctag=user_child
 ||mdznads.pages.dev^$ctag=user_child
 ||movturs.click^$ctag=user_child
+||opgg.beer^$ctag=user_child
 ||partnerad.l.google.com^$ctag=user_child
 ||partners.betbooaffiliates.com^$ctag=user_child
 ||partnerx.bethub.io^$ctag=user_child
