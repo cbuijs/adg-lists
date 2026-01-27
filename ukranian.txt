@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1769404511 (Epoch)
+! Version: 1769490912 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -270,6 +270,7 @@
 ||servetraff.com^$ctag=user_child
 ||servw.bid^$ctag=user_child
 ||setka.media^$ctag=user_child
+||sexgramm.ru^$ctag=user_child
 ||sghb.hbmp.ops.co^$ctag=user_child
 ||showsclick.com^$ctag=user_child
 ||showsclicka.com^$ctag=user_child
