@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1769490912 (Epoch)
+! Version: 1769577312 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -265,6 +265,7 @@
 ||s.cummerata.link^$ctag=user_child
 ||s.holder.com.ua^$ctag=user_child
 ||s2517.com^$ctag=user_child
+||safeview.ukr.net^$ctag=user_child
 ||sarafan.fun^$ctag=user_child
 ||serl.mooo.com^$ctag=user_child
 ||servetraff.com^$ctag=user_child

@@ -1,5 +1,5 @@
 ! Title: CHINESE for CTAG "user_child".
-! Version: 1769490903 (Epoch)
+! Version: 1769577303 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
@@ -14,6 +14,7 @@
 ||01240sop.xyz^$ctag=user_child
 ||01anf08rf.com^$ctag=user_child
 ||02exl1ql2l.com^$ctag=user_child
+||03in08p3r1.com^$ctag=user_child
 ||03t441b8w.com^$ctag=user_child
 ||04o.fun^$ctag=user_child
 ||0592.mobi^$ctag=user_child
@@ -211,6 +212,7 @@
 ||2u1h56851n.top^$ctag=user_child
 ||2ueb.cn^$ctag=user_child
 ||2wq9u06jq.com^$ctag=user_child
+||2xx63f0bfy.com^$ctag=user_child
 ||2za.fun^$ctag=user_child
 ||2zjftxgl5s.com^$ctag=user_child
 ||3.5646.cn^$ctag=user_child
@@ -243,6 +245,7 @@
 ||3j1fiw14n9.com^$ctag=user_child
 ||3k2frl8r79.com^$ctag=user_child
 ||3kfvgobkw.com^$ctag=user_child
+||3lxk4afsb.com^$ctag=user_child
 ||3ml8v.cn^$ctag=user_child
 ||3nopvvhju5.com^$ctag=user_child
 ||3p8801.co^$ctag=user_child
@@ -352,6 +355,7 @@
 ||5uazcu2o1.com^$ctag=user_child
 ||5x17591y3b.com^$ctag=user_child
 ||5y9nfpes.52pk.com^$ctag=user_child
+||5yahh8v3.xyz^$ctag=user_child
 ||5yqi3kg1g.com^$ctag=user_child
 ||5zxkdat6t8.com^$ctag=user_child
 ||600g3yf2p.com^$ctag=user_child
@@ -374,6 +378,7 @@
 ||68s4eyiru.com^$ctag=user_child
 ||68td4yete.com^$ctag=user_child
 ||68tkaiaji.com^$ctag=user_child
+||6acupxubky.com^$ctag=user_child
 ||6c641lgikp.top^$ctag=user_child
 ||6cjdya3djn.com^$ctag=user_child
 ||6cmxoje5k.com^$ctag=user_child
@@ -419,6 +424,7 @@
 ||777bb111ww.com^$ctag=user_child
 ||7791.com.cn^$ctag=user_child
 ||77v6jk9itk.com^$ctag=user_child
+||77zdmt8yq.com^$ctag=user_child
 ||79181531227.com^$ctag=user_child
 ||7awf4fi9k7.com^$ctag=user_child
 ||7bfst8xxtc.com^$ctag=user_child
@@ -725,6 +731,7 @@
 ||ad.u-car.com.tw^$ctag=user_child
 ||ad.v3mh.com^$ctag=user_child
 ||ad.walkgame.com^$ctag=user_child
+||ad.weibo.com^$ctag=user_child
 ||ad.winrar.com.cn^$ctag=user_child
 ||ad.wurangxian.top^$ctag=user_child
 ||ad.ximalaya.com^$ctag=user_child
@@ -760,6 +767,7 @@
 ||adfsda005.xyz^$ctag=user_child
 ||adguanggao.eee114.com^$ctag=user_child
 ||adimg.liba.com^$ctag=user_child
+||adimg.uve.weibo.com^$ctag=user_child
 ||adintl.cn^$ctag=user_child
 ||adjb.5nd.com^$ctag=user_child
 ||adjust.cn^$ctag=user_child
@@ -792,6 +800,7 @@
 ||ads-video-al.xhscdn.com^$ctag=user_child
 ||ads-video-qc.xhscdn.com^$ctag=user_child
 ||ads.95516.com^$ctag=user_child
+||ads.auctions.yahoo.com^$ctag=user_child
 ||ads.cup.com.cn^$ctag=user_child
 ||ads.google.cn^$ctag=user_child
 ||ads.huan.tv^$ctag=user_child
@@ -853,6 +862,7 @@
 ||adtago.s3.amazonaws.com^$ctag=user_child
 ||adtech.yahooinc.com^$ctag=user_child
 ||adtrack.quark.cn^$ctag=user_child
+||adui.tg.meitu.com^$ctag=user_child
 ||adv-api.shenshiads.com^$ctag=user_child
 ||adv-sv-show.focus.cn^$ctag=user_child
 ||adv.sec.intl.miui.com^$ctag=user_child
@@ -874,6 +884,7 @@
 ||adx-open-service.youku.com^$ctag=user_child
 ||adx-os.anythinktech.com^$ctag=user_child
 ||adx-saas.advlion.com^$ctag=user_child
+||adx-strategy-api-cn.statisticslinks.com^$ctag=user_child
 ||adx.36kr.com^$ctag=user_child
 ||adx.ads.heytapmobi.com^$ctag=user_child
 ||adx.ads.oppomobile.com^$ctag=user_child
@@ -1060,7 +1071,6 @@
 ||applog.zijieapi.com^$ctag=user_child
 ||applovin.com^$ctag=user_child
 ||appoint38.com^$ctag=user_child
-||appversion.115.com^$ctag=user_child
 ||aqc.gucheng.com^$ctag=user_child
 ||aqftgalqig.com^$ctag=user_child
 ||aqgjqy.icu^$ctag=user_child
@@ -2332,7 +2342,6 @@
 ||g.lznews.cn^$ctag=user_child
 ||g.mnw.cn^$ctag=user_child
 ||g1.pptair.com^$ctag=user_child
-||g1.tagtic.cn^$ctag=user_child
 ||g1.taijuba.com^$ctag=user_child
 ||g12tm6xl3.com^$ctag=user_child
 ||g15wt3ci68.com^$ctag=user_child
@@ -2546,6 +2555,8 @@
 ||gsk801260hh.com^$ctag=user_child
 ||gsk801261hh.com^$ctag=user_child
 ||gsk801270hh.com^$ctag=user_child
+||gsk801271hh.com^$ctag=user_child
+||gsk801280hh.com^$ctag=user_child
 ||gslb.hpplay.cn^$ctag=user_child
 ||gsweum.icu^$ctag=user_child
 ||gt.duowan.com^$ctag=user_child
@@ -3414,7 +3425,6 @@
 ||log.pinterest.com^$ctag=user_child
 ||log.popin.cc^$ctag=user_child
 ||log.stat.kugou.com^$ctag=user_child
-||log.tagtic.cn^$ctag=user_child
 ||log.tbs.qq.com^$ctag=user_child
 ||log.vcgame.cn^$ctag=user_child
 ||log.web.kugou.com^$ctag=user_child
@@ -3430,6 +3440,7 @@
 ||logupdate.avlyun.sec.miui.com^$ctag=user_child
 ||logwebs.kugou.com^$ctag=user_child
 ||loleteal.com^$ctag=user_child
+||lonarzelq.com^$ctag=user_child
 ||lorzelofd.com^$ctag=user_child
 ||love.furenkeji.com^$ctag=user_child
 ||lp340p7czf.com^$ctag=user_child
@@ -3513,7 +3524,9 @@
 ||m1vvvv1k2.com^$ctag=user_child
 ||m2.lelemh.com^$ctag=user_child
 ||m3cqjc3og6.com^$ctag=user_child
+||m3ks1o8jz.com^$ctag=user_child
 ||m43ocq1uoj.com^$ctag=user_child
+||m485oq2gym.top^$ctag=user_child
 ||m4fxreb5s.com^$ctag=user_child
 ||m4r.fun^$ctag=user_child
 ||m5.66077.cn^$ctag=user_child
@@ -3614,6 +3627,7 @@
 ||mjufus.icu^$ctag=user_child
 ||mjvr.cn^$ctag=user_child
 ||mk10ow7zoi.com^$ctag=user_child
+||mkff.cn^$ctag=user_child
 ||mkue.cn^$ctag=user_child
 ||ml4xbwg73.top^$ctag=user_child
 ||mlog.bigda.com^$ctag=user_child
@@ -3662,6 +3676,7 @@
 ||monopoly36.top^$ctag=user_child
 ||monsetting.toutiao.com^$ctag=user_child
 ||moon.ibytecdn.cn^$ctag=user_child
+||mores.toponad.com^$ctag=user_child
 ||mos05110o9i.com^$ctag=user_child
 ||mos05111o9i.com^$ctag=user_child
 ||mos05120o9i.com^$ctag=user_child
@@ -3910,6 +3925,7 @@
 ||nxu3l4c8u.com^$ctag=user_child
 ||nxwm44neo.com^$ctag=user_child
 ||nyokruzoir.com^$ctag=user_child
+||nyv388w6lc.com^$ctag=user_child
 ||nyzrbx.icu^$ctag=user_child
 ||nzeikrar.com^$ctag=user_child
 ||nzl09250oa.com^$ctag=user_child
@@ -3990,6 +4006,7 @@
 ||oiscuy.icu^$ctag=user_child
 ||oiu132jhz.com^$ctag=user_child
 ||oizs.cn^$ctag=user_child
+||oj2c0dkk4.com^$ctag=user_child
 ||ojizau.icu^$ctag=user_child
 ||ojmv.cn^$ctag=user_child
 ||ojrgbc6kfz.com^$ctag=user_child
@@ -4703,6 +4720,7 @@
 ||sdk.hzsanjiaomao.com^$ctag=user_child
 ||sdk.markmedia.com.cn^$ctag=user_child
 ||sdk.mobads.adwangmai.com^$ctag=user_child
+||sdkapp.uve.weibo.com^$ctag=user_child
 ||sdkauth.hpplay.cn^$ctag=user_child
 ||sdkconf.avlyun.com^$ctag=user_child
 ||sdkconfig.ad.intl.xiaomi.com^$ctag=user_child
@@ -4942,6 +4960,7 @@
 ||t8t8jyxsr.com^$ctag=user_child
 ||tableland06.top^$ctag=user_child
 ||tad.suning.com^$ctag=user_child
+||tagtic.cn^$ctag=user_child
 ||taiverturena.com^$ctag=user_child
 ||tangram.e.qq.com^$ctag=user_child
 ||target.ads.jihuoniao.com^$ctag=user_child
@@ -4969,6 +4988,7 @@
 ||tejr.cn^$ctag=user_child
 ||telecome.cn^$ctag=user_child
 ||telemetry.sdk.inmobi.com^$ctag=user_child
+||tempest33.com^$ctag=user_child
 ||tencent-dtv.m.cn.miaozhen.com^$ctag=user_child
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^$ctag=user_child
 ||test.ad.xiaomi.com^$ctag=user_child
@@ -5151,6 +5171,7 @@
 ||tucnmti.top^$ctag=user_child
 ||tucnwti.top^$ctag=user_child
 ||tuhmkjce.icu^$ctag=user_child
+||tuiguang.meitu.com^$ctag=user_child
 ||turcailnt.com^$ctag=user_child
 ||tuvrutsnf.com^$ctag=user_child
 ||tux76afo5.com^$ctag=user_child
@@ -5560,6 +5581,7 @@
 ||vocabulary83.com^$ctag=user_child
 ||vogue99.top^$ctag=user_child
 ||vojolj.icu^$ctag=user_child
+||volcano93.top^$ctag=user_child
 ||volcano98.com^$ctag=user_child
 ||volume68.top^$ctag=user_child
 ||vophiptv.com^$ctag=user_child
@@ -5808,6 +5830,7 @@
 ||wv.inner-active.mobi^$ctag=user_child
 ||wvcnmte.top^$ctag=user_child
 ||wvepppysvo.com^$ctag=user_child
+||wvrp.cn^$ctag=user_child
 ||wvzd.cn^$ctag=user_child
 ||wwads.cn^$ctag=user_child
 ||wwcnmte.top^$ctag=user_child

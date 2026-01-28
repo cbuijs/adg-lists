@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1769490909 (Epoch)
+! Version: 1769577310 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -130,6 +130,7 @@
 ||ads-sdk.nianticlabs.com^$ctag=user_child
 ||ads-segment-profile-noneu.truecaller.com^$ctag=user_child
 ||ads-server.mxplay.com^$ctag=user_child
+||ads-static.phonepe.com^$ctag=user_child
 ||ads.ad2iction.com^$ctag=user_child
 ||ads.adadapted.com^$ctag=user_child
 ||ads.adinmotech.com^$ctag=user_child
@@ -151,6 +152,7 @@
 ||ads.mopub.com^$ctag=user_child
 ||ads.oppomobile.com^$ctag=user_child
 ||ads.pdbarea.com^$ctag=user_child
+||ads.phonepe.com^$ctag=user_child
 ||ads.pinger.com^$ctag=user_child
 ||ads.rmbl.ws^$ctag=user_child
 ||ads.smrtbid.com^$ctag=user_child
@@ -316,6 +318,7 @@
 ||boostads.net^$ctag=user_child
 ||brealtime.com^$ctag=user_child
 ||bstgms4y.com^$ctag=user_child
+||bstream.channelcom.tech^$ctag=user_child
 ||bu1.duba.com^$ctag=user_child
 ||bubblesmedia.ru^$ctag=user_child
 ||burstnet.com^$ctag=user_child
@@ -379,6 +382,7 @@
 ||ctv-ads.api.leiniao.com^$ctag=user_child
 ||d.kugou.com^$ctag=user_child
 ||d19xf4taj229i8.cloudfront.net^$ctag=user_child
+||d1tru86qrby720.cloudfront.net^$ctag=user_child
 ||d239g0z67jcted.cloudfront.net^$ctag=user_child
 ||d2nrdy2pg3k168.cloudfront.net^$ctag=user_child
 ||d32z5ni8t5127x.cloudfront.net^$ctag=user_child
@@ -446,6 +450,7 @@
 ||gdn.bigfishgames.com^$ctag=user_child
 ||geede.info^$ctag=user_child
 ||geoloc.yospace.com^$ctag=user_child
+||ggbond.peaksite.tech^$ctag=user_child
 ||glance.inmobi.com^$ctag=user_child
 ||global.appnext.com^$ctag=user_child
 ||go.admost.com^$ctag=user_child
@@ -850,6 +855,7 @@
 ||wordego.com^$ctag=user_child
 ||wtraff.com^$ctag=user_child
 ||www.adbert.com.tw^$ctag=user_child
+||x3m.biz^$ctag=user_child
 ||xdrig.com^$ctag=user_child
 ||ximad.com^$ctag=user_child
 ||yandexadexchange.net^$ctag=user_child
