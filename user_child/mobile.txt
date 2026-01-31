@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1769750111 (Epoch)
+! Version: 1769836510 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -690,6 +690,7 @@
 ||r0.mradx.net^$ctag=user_child
 ||r2d2.aotter.net^$ctag=user_child
 ||rainmaker.production-public.tubi.io^$ctag=user_child
+||rainmaker4.production-public.tubi.io^$ctag=user_child
 ||rayjump.com^$ctag=user_child
 ||redtram.com^$ctag=user_child
 ||reqde.sooplive.co.kr^$ctag=user_child
