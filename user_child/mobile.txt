@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1770182110 (Epoch)
+! Version: 1770268509 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -18,6 +18,7 @@
 ||abtest.swrve.com^$ctag=user_child
 ||activity.browser.intl.miui.com^$ctag=user_child
 ||ad-api.ehawk.com^$ctag=user_child
+||ad-api.maxnapps.com^$ctag=user_child
 ||ad-brix.com^$ctag=user_child
 ||ad-channel.wikawika.xyz^$ctag=user_child
 ||ad-creatives-public.commondatastorage.googleapis.com^$ctag=user_child
@@ -387,6 +388,7 @@
 ||d2nrdy2pg3k168.cloudfront.net^$ctag=user_child
 ||d32z5ni8t5127x.cloudfront.net^$ctag=user_child
 ||d3hdbjtb1686tn.cloudfront.net^$ctag=user_child
+||d3vgkjyuhp91nc.cloudfront.net^$ctag=user_child
 ||d830x8j3o1b2k.cloudfront.net^$ctag=user_child
 ||dad-api.dcard.tw^$ctag=user_child
 ||data-optout-service.uca.cloud.unity3d.com^$ctag=user_child
