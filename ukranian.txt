@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1770700511 (Epoch)
+! Version: 1770786913 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -123,6 +123,7 @@
 ||dpjrba.com^$ctag=user_child
 ||dqwzhseasq.com^$ctag=user_child
 ||dr5.biz^$ctag=user_child
+||drunkwinter.com^$ctag=user_child
 ||dyaconiconelino.com^$ctag=user_child
 ||ec2-44-233-143-239.us-west-2.compute.amazonaws.com^$ctag=user_child
 ||ehmqlr.com^$ctag=user_child
@@ -336,6 +337,7 @@
 ||vjdciu.com^$ctag=user_child
 ||vk-ads.ru^$ctag=user_child
 ||vkwaeo.com^$ctag=user_child
+||vn12345.mvapspdmpg.com^$ctag=user_child
 ||vnrvss.com^$ctag=user_child
 ||voidnetwork.cloud^$ctag=user_child
 ||vqhrqt.com^$ctag=user_child
