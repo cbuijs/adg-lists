@@ -1,5 +1,5 @@
 ! Title: TURKISH for CTAG "user_child".
-! Version: 1770786913 (Epoch)
+! Version: 1770873313 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
@@ -114,6 +114,7 @@
 ||trkwinaff13.com^$ctag=user_child
 ||ttauri.livescience.com^$ctag=user_child
 ||url.isimsepeti.net^$ctag=user_child
+||viiukuhe.com^$ctag=user_child
 ||x.creedimages.cfd^$ctag=user_child
 ||yelads2.life^$ctag=user_child
 ||youtubesave.org^$ctag=user_child
