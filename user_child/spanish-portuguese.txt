@@ -1,5 +1,5 @@
 ! Title: SPANISH-PORTUGUESE for CTAG "user_child".
-! Version: 1771737314 (Epoch)
+! Version: 1771823711 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
@@ -11,6 +11,7 @@
 ||adclient-uol.lp.uol.com.br^$ctag=user_child
 ||adme2.click^$ctag=user_child
 ||ads-redis.ecn.cl^$ctag=user_child
+||ads.comunidades.net^$ctag=user_child
 ||ads.elpais.com.uy^$ctag=user_child
 ||ads.enrt.eu^$ctag=user_child
 ||ads.gamavirtual.com^$ctag=user_child
