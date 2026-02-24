@@ -1,5 +1,5 @@
 ! Title: GERMAN for CTAG "user_child".
-! Version: 1771823709 (Epoch)
+! Version: 1771910111 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
@@ -76,6 +76,7 @@
 ||saas.valuetech.de^$ctag=user_child
 ||securecnd.com^$ctag=user_child
 ||servote.de^$ctag=user_child
+||sqrt-5041.de^$ctag=user_child
 ||start.amateurcommunity.com^$ctag=user_child
 ||start.sexpartnercommunity.com^$ctag=user_child
 ||static.wlct-one.de^$ctag=user_child
