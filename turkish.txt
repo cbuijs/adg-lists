@@ -1,5 +1,5 @@
 ! Title: TURKISH for CTAG "user_child".
-! Version: 1771996514 (Epoch)
+! Version: 1772082916 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
@@ -71,6 +71,7 @@
 ||hepsiads-gw.hepsiburada.com^$ctag=user_child
 ||hepsiads-ui.hepsiburada.com^$ctag=user_child
 ||https-filtering-check.adtidy.org^$ctag=user_child
+||impseeineclots.com^$ctag=user_child
 ||keskin-pop.vip^$ctag=user_child
 ||keskin.vip^$ctag=user_child
 ||kingads2.org^$ctag=user_child
