@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1772601311 (Epoch)
+! Version: 1772687713 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -216,6 +216,7 @@
 ||adzerk.net^$ctag=user_child
 ||adzmobi.com^$ctag=user_child
 ||afafb.com^$ctag=user_child
+||afs.googlesyndication.com^$ctag=user_child
 ||agent.tamedia.com.tw^$ctag=user_child
 ||ahoy-internal-ads-hv.b-cdn.net^$ctag=user_child
 ||ajdivotdelbloab24.jio.com^$ctag=user_child
@@ -662,6 +663,7 @@
 ||playwire.com^$ctag=user_child
 ||plugin.mobopay.baidu.com^$ctag=user_child
 ||pn.ybp.yahoo.com^$ctag=user_child
+||pob-mob2.websearchbrowser.com^$ctag=user_child
 ||polymorphicads.jp^$ctag=user_child
 ||pontiflex.com^$ctag=user_child
 ||powerlinks.com^$ctag=user_child
