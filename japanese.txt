@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1773292512 (Epoch)
+! Version: 1773378911 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -113,6 +113,7 @@
 ||indexad.net^$ctag=user_child
 ||infohimatalk77.net^$ctag=user_child
 ||japans-offers.com^$ctag=user_child
+||jobbox-front.mamastar.jp^$ctag=user_child
 ||js.click-plus.net^$ctag=user_child
 ||js.kabutocho-dsp.net^$ctag=user_child
 ||js.medi-8.net^$ctag=user_child
