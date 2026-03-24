@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1774242911 (Epoch)
+! Version: 1774329311 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -29,6 +29,7 @@
 ||ad-x.co.uk^$ctag=user_child
 ||ad.apps.fm^$ctag=user_child
 ||ad.apsalar.com^$ctag=user_child
+||ad.bestools.group^$ctag=user_child
 ||ad.buzzvil.com^$ctag=user_child
 ||ad.cauly.co.kr^$ctag=user_child
 ||ad.daum.net^$ctag=user_child
@@ -60,10 +61,11 @@
 ||ad.weplayer.cc^$ctag=user_child
 ||ad.wynk.in^$ctag=user_child
 ||ad.youku.com^$ctag=user_child
+||ad.zankhana.ltd^$ctag=user_child
 ||ad.zijieapi.com^$ctag=user_child
 ||ad6media.fr^$ctag=user_child
 ||adadvisor.net^$ctag=user_child
-||adballoon.sooplive.co.kr^$ctag=user_child
+||adballoon.sooplive.com^$ctag=user_child
 ||adblade.com^$ctag=user_child
 ||adcamp.ru^$ctag=user_child
 ||adcel.co^$ctag=user_child
@@ -397,7 +399,7 @@
 ||datafinder-beacon.starii-rover.com^$ctag=user_child
 ||dataflow.biliapi.com^$ctag=user_child
 ||datk.bridgeoos.com^$ctag=user_child
-||deapi.sooplive.co.kr^$ctag=user_child
+||deapi.sooplive.com^$ctag=user_child
 ||debojuagug1sf.cloudfront.net^$ctag=user_child
 ||delivery-cdn-cf.adswizz.com^$ctag=user_child
 ||dev.appboy.com^$ctag=user_child
@@ -697,7 +699,7 @@
 ||rainmaker4.production-public.tubi.io^$ctag=user_child
 ||rayjump.com^$ctag=user_child
 ||redtram.com^$ctag=user_child
-||reqde.sooplive.co.kr^$ctag=user_child
+||reqde.sooplive.com^$ctag=user_child
 ||restartad.com^$ctag=user_child
 ||reward-api.csjplatform.com^$ctag=user_child
 ||richlifeads.ru^$ctag=user_child
@@ -850,7 +852,7 @@
 ||vm5apis.com^$ctag=user_child
 ||vmap.v.ad-generation.jp^$ctag=user_child
 ||vniddlg.xyz^$ctag=user_child
-||vod-mplayer.sooplive.co.kr^$ctag=user_child
+||vod-mplayer.sooplive.com^$ctag=user_child
 ||vserv.mobi^$ctag=user_child
 ||vungle.com^$ctag=user_child
 ||waiads.com^$ctag=user_child
