@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1774502118 (Epoch)
+! Version: 1774588513 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -151,6 +151,7 @@
 ||getnodejs.com^$ctag=user_child
 ||gimnsr.com^$ctag=user_child
 ||givemelink.cc^$ctag=user_child
+||gjv7fg.ru^$ctag=user_child
 ||go.media-x.ru^$ctag=user_child
 ||go.ukrleads.com^$ctag=user_child
 ||go.xl.ua^$ctag=user_child
