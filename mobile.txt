@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1774930514 (Epoch)
+! Version: 1775016913 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -454,6 +454,7 @@
 ||gdl.i9dhjx.ru^$ctag=user_child
 ||gdn.bigfishgames.com^$ctag=user_child
 ||geede.info^$ctag=user_child
+||geegad.com^$ctag=user_child
 ||geoloc.yospace.com^$ctag=user_child
 ||ggbond.peaksite.tech^$ctag=user_child
 ||glance.inmobi.com^$ctag=user_child
@@ -594,6 +595,7 @@
 ||mtburn.jp^$ctag=user_child
 ||mtgglobals.com^$ctag=user_child
 ||mtrcss.com^$ctag=user_child
+||multiww.com^$ctag=user_child
 ||mxaserver.mxplay.com^$ctag=user_child
 ||mxvp-ad-config-prod-1.zenmxapps.com^$ctag=user_child
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^$ctag=user_child
