@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1775016913 (Epoch)
+! Version: 1775103313 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -338,6 +338,7 @@
 ||cafe-latte.myshoplus.com^$ctag=user_child
 ||cashprom.ru^$ctag=user_child
 ||casino-ad-mediation.me2zengame.com^$ctag=user_child
+||catsonictp.com^$ctag=user_child
 ||cdn-ad.wtzw.com^$ctag=user_child
 ||cdn-api.admost.com^$ctag=user_child
 ||cdn-cf.postitial.com^$ctag=user_child
