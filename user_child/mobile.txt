@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1775103313 (Epoch)
+! Version: 1775189711 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -236,6 +236,7 @@
 ||api-a.op-mobile.opera.com^$ctag=user_child
 ||api-ad-adapter.wps.com^$ctag=user_child
 ||api-ad-callback.falconnet.app^$ctag=user_child
+||api-v2.shareitgames.com^$ctag=user_child
 ||api.ad-locus.com^$ctag=user_child
 ||api.adaether.com^$ctag=user_child
 ||api.ads.newsdigest.jp^$ctag=user_child
@@ -257,6 +258,7 @@
 ||api.sve.cc^$ctag=user_child
 ||api.usebutton.com^$ctag=user_child
 ||api.youngle.tech^$ctag=user_child
+||api2.wshareit.com^$ctag=user_child
 ||apis.appnxt.net^$ctag=user_child
 ||apishow.babybus.com^$ctag=user_child
 ||app-ads-services.com^$ctag=user_child
@@ -439,6 +441,7 @@
 ||flurry.cachefly.net^$ctag=user_child
 ||flurry.com^$ctag=user_child
 ||flygo.ru^$ctag=user_child
+||fnyfeds.com^$ctag=user_child
 ||focas.jp^$ctag=user_child
 ||freewheel-jitt.sanoma.fi^$ctag=user_child
 ||friendlyduck.com^$ctag=user_child
@@ -558,6 +561,7 @@
 ||maxesads.ru^$ctag=user_child
 ||mblapi.ssl2.duapps.com^$ctag=user_child
 ||mbn.com.ua^$ctag=user_child
+||mcds.dalyfeds.com^$ctag=user_child
 ||mcoreads.com^$ctag=user_child
 ||med-api.admost.com^$ctag=user_child
 ||medialand.ru^$ctag=user_child
@@ -691,6 +695,7 @@
 ||pub1.co^$ctag=user_child
 ||pubnative.info^$ctag=user_child
 ||pubnative.net^$ctag=user_child
+||pullcf.com^$ctag=user_child
 ||pushad.metajoy.services^$ctag=user_child
 ||px.adhigh.net^$ctag=user_child
 ||qist.me^$ctag=user_child
