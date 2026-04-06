@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1775362509 (Epoch)
+! Version: 1775448909 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -183,4 +183,5 @@
 ||yads.c.yimg.jp^$ctag=user_child
 ||yads.yahoo.co.jp^$ctag=user_child
 ||yads.yjtag.yahoo.co.jp^$ctag=user_child
+||yariman.online^$ctag=user_child
 ||zxcvbnmasdfghjklqwertyuiop.work^$ctag=user_child
