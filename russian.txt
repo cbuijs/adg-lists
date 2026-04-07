@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1775448910 (Epoch)
+! Version: 1775535312 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -372,6 +372,7 @@
 ||retharitus.com^$ctag=user_child
 ||riamiavid.com^$ctag=user_child
 ||riseup-t-code.com^$ctag=user_child
+||roomgome.com^$ctag=user_child
 ||rot.rusoul.ru^$ctag=user_child
 ||rqnvci.com^$ctag=user_child
 ||rtb.wedeo.ru^$ctag=user_child
