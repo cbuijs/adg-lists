@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1775535312 (Epoch)
+! Version: 1775621711 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -574,6 +574,7 @@
 ||mimicromax.com^$ctag=user_child
 ||mintegral.com^$ctag=user_child
 ||mixadvert.com^$ctag=user_child
+||mmp-api.itpub.cloud^$ctag=user_child
 ||mmp001.scalemonk.com^$ctag=user_child
 ||mo.freeindoapp.com^$ctag=user_child
 ||moatads.com.edgekey.net^$ctag=user_child
@@ -596,6 +597,7 @@
 ||mopub-win-us-east.bksn.se^$ctag=user_child
 ||mossru.com^$ctag=user_child
 ||msg.ettoday.net^$ctag=user_child
+||mt-api.itpub.cloud^$ctag=user_child
 ||mtag.mman.kr^$ctag=user_child
 ||mtburn.jp^$ctag=user_child
 ||mtgglobals.com^$ctag=user_child
@@ -850,6 +852,7 @@
 ||upsight.com^$ctag=user_child
 ||usekahuna.com^$ctag=user_child
 ||usp1.baidu.com^$ctag=user_child
+||uydeqs9.xyz^$ctag=user_child
 ||v.kidoz.net^$ctag=user_child
 ||v16-ad.byteoversea.com^$ctag=user_child
 ||v8b9c0x1z2.sai7348.xyz^$ctag=user_child
