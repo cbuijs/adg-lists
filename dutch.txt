@@ -1,5 +1,5 @@
 ! Title: DUTCH for CTAG "user_child".
-! Version: 1775794509 (Epoch)
+! Version: 1775880909 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
@@ -40,4 +40,6 @@
 ||trickyrock.com^$ctag=user_child
 ||viadata.store^$ctag=user_child
 ||x9t7g4m2qk2.azurewebsites.net^$ctag=user_child
+||zsp1.ah.be^$ctag=user_child
+||zsp1.ah.nl^$ctag=user_child
 ! <EOF>

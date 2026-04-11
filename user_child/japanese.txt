@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1775794510 (Epoch)
+! Version: 1775880910 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -157,6 +157,7 @@
 ||recruitbox.media.iid.jp^$ctag=user_child
 ||redirectvoluum.com^$ctag=user_child
 ||s-ad.rmp.rakuten.co.jp^$ctag=user_child
+||sankei.click^$ctag=user_child
 ||sb-hip-happy.ourservice.jp^$ctag=user_child
 ||sda.seesaa.jp^$ctag=user_child
 ||seedapp-creative.s3.amazonaws.com^$ctag=user_child
