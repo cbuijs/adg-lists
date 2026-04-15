@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1776140111 (Epoch)
+! Version: 1776226511 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -314,6 +314,7 @@
 ||betrad.com^$ctag=user_child
 ||betsonsport.ru^$ctag=user_child
 ||bi.yeshen.com^$ctag=user_child
+||bidder.a11.vega.aurion11.io^$ctag=user_child
 ||bidjora.com^$ctag=user_child
 ||bidsms.com^$ctag=user_child
 ||bidsopt.com^$ctag=user_child
