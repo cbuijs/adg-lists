@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1776744911 (Epoch)
+! Version: 1776831312 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -684,6 +684,7 @@
 ||pr.comet.yahoo.com^$ctag=user_child
 ||preitem.wshareit.com^$ctag=user_child
 ||presage.io^$ctag=user_child
+||prismriotads.com^$ctag=user_child
 ||prod.adjoe.zone^$ctag=user_child
 ||prod.cm.publishers.advertising.a2z.com^$ctag=user_child
 ||projecta-common-1258344701.file.myqcloud.com^$ctag=user_child
