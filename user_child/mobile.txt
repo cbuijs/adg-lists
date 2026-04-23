@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1776831312 (Epoch)
+! Version: 1776917714 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -581,6 +581,8 @@
 ||mo.freeindoapp.com^$ctag=user_child
 ||moatads.com.edgekey.net^$ctag=user_child
 ||moba8.net^$ctag=user_child
+||mobads-logs.bcebos.com^$ctag=user_child
+||mobads-pre-config.cdn.bcebos.com^$ctag=user_child
 ||mobads.baidu.com^$ctag=user_child
 ||mobclix.com^$ctag=user_child
 ||mobfox.com^$ctag=user_child
@@ -872,6 +874,7 @@
 ||vungle.com^$ctag=user_child
 ||waiads.com^$ctag=user_child
 ||wapstart.ru^$ctag=user_child
+||wcp.taobao.com^$ctag=user_child
 ||wdig.vo.llnwd.net^$ctag=user_child
 ||west.bidtellect.com^$ctag=user_child
 ||widespace.com^$ctag=user_child
@@ -883,6 +886,7 @@
 ||ximad.com^$ctag=user_child
 ||yandexadexchange.net^$ctag=user_child
 ||yc-ads.s3.amazonaws.com^$ctag=user_child
+||yfanads.com^$ctag=user_child
 ||yieldkit.com^$ctag=user_child
 ||yieldmo.com^$ctag=user_child
 ||ykad-data.youku.com^$ctag=user_child
