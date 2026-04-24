@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1776917714 (Epoch)
+! Version: 1777004112 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -468,6 +468,7 @@
 ||go.admost.com^$ctag=user_child
 ||go.mobstitialtag.com^$ctag=user_child
 ||go.vrvm.com^$ctag=user_child
+||goads2023.com^$ctag=user_child
 ||goi08150kh.com^$ctag=user_child
 ||googleadservices.com^$ctag=user_child
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^$ctag=user_child
