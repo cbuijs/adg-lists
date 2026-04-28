@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1777263320 (Epoch)
+! Version: 1777349720 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -476,6 +476,7 @@
 ||gumgum.com^$ctag=user_child
 ||gwrtdp-tn690bfadt.tclclouds.com^$ctag=user_child
 ||gynax.com^$ctag=user_child
+||h-adashx.ut.taobao.com^$ctag=user_child
 ||h5.isnssdk.com^$ctag=user_child
 ||ha-api.pushwoosh.com^$ctag=user_child
 ||hellay.net^$ctag=user_child
@@ -661,6 +662,8 @@
 ||p-behacdn.ksmobile.net^$ctag=user_child
 ||p1-lm.adukwai.com^$ctag=user_child
 ||p16-ad.byteoversea.com^$ctag=user_child
+||p3-ad-sign.byteimg.com^$ctag=user_child
+||p3-ad-sign.byteimg.com.queniusy.com^$ctag=user_child
 ||pangle.io^$ctag=user_child
 ||pangolin16.isnssdk.com^$ctag=user_child
 ||pangolin16.sgsnssdk.com^$ctag=user_child
