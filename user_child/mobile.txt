@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1777522520 (Epoch)
+! Version: 1777608912 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -895,6 +895,7 @@
 ||yieldmo.com^$ctag=user_child
 ||ykad-data.youku.com^$ctag=user_child
 ||yllix.com^$ctag=user_child
+||yodo1.com^$ctag=user_child
 ||youmi.net^$ctag=user_child
 ||yovoads.com^$ctag=user_child
 ||zedo.com^$ctag=user_child
