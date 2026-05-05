@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1777868118 (Epoch)
+! Version: 1777954522 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -417,7 +417,6 @@
 ||dotomi.com^$ctag=user_child
 ||downloadshi.b-cdn.net^$ctag=user_child
 ||drbbzzs.xyz^$ctag=user_child
-||dsp-api.moloco.com^$ctag=user_child
 ||dspunion.com^$ctag=user_child
 ||dumedia.ru^$ctag=user_child
 ||dzpu6za66svjl.cloudfront.net^$ctag=user_child
@@ -592,6 +591,7 @@
 ||mobiads.ru^$ctag=user_child
 ||mobidriven.com^$ctag=user_child
 ||mobile-campaigns.avast.com^$ctag=user_child
+||mobileadvertiser.yanosik.pl^$ctag=user_child
 ||mobilecore.com^$ctag=user_child
 ||mobiledl.adboe.com^$ctag=user_child
 ||mobilefuse.com^$ctag=user_child
