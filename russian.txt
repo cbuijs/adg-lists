@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1778127321 (Epoch)
+! Version: 1778213723 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -271,6 +271,7 @@
 ||kasfas.com^$ctag=user_child
 ||kejasosy.com^$ctag=user_child
 ||kertzmann.com^$ctag=user_child
+||kinogo-may.vipapi.org^$ctag=user_child
 ||kinogo.r.worldssl.net^$ctag=user_child
 ||klonedaset.org^$ctag=user_child
 ||knowens.com^$ctag=user_child
