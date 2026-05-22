@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1779336911 (Epoch)
+! Version: 1779423322 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -59,7 +59,6 @@
 ||aimg.fc2.com^$ctag=user_child
 ||ala.durasite.net^$ctag=user_child
 ||amawidget.yutbr.com^$ctag=user_child
-||andhub.jp^$ctag=user_child
 ||api.ad-platform.jmty.jp^$ctag=user_child
 ||api.ada-cloud.com^$ctag=user_child
 ||api.primecaster.net^$ctag=user_child
@@ -84,6 +83,7 @@
 ||click-count.info^$ctag=user_child
 ||cnt.affiliate.fc2.com^$ctag=user_child
 ||creative-klepon-3f0ecb.netlify.app^$ctag=user_child
+||creative.5ch.fun^$ctag=user_child
 ||creative.live.tktube.com^$ctag=user_child
 ||d1yt8zt4633tzi.cloudfront.net^$ctag=user_child
 ||d2swpuhpwp3khd.cloudfront.net^$ctag=user_child

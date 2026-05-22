@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1779336912 (Epoch)
+! Version: 1779423322 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -146,6 +146,7 @@
 ||ads.cocomobi.com^$ctag=user_child
 ||ads.edadeal.ru^$ctag=user_child
 ||ads.feelingtouch.com^$ctag=user_child
+||ads.heytapmobi.com^$ctag=user_child
 ||ads.imbc.com^$ctag=user_child
 ||ads.imovideo.ru^$ctag=user_child
 ||ads.inmobi.com^$ctag=user_child
@@ -176,6 +177,7 @@
 ||adserver.pandora.com^$ctag=user_child
 ||adserver.shadow.snapads.com^$ctag=user_child
 ||adservice.tohsoft.com^$ctag=user_child
+||adsfs.heytapimage.com^$ctag=user_child
 ||adsfs.oppomobile.com^$ctag=user_child
 ||adsgard.aprod.scopely.io^$ctag=user_child
 ||adshost2.com^$ctag=user_child
@@ -759,6 +761,7 @@
 ||shareasale.com^$ctag=user_child
 ||sharethrough.com^$ctag=user_child
 ||sheilaqeb.com^$ctag=user_child
+||shiyifacaisalzc.com^$ctag=user_child
 ||silvermob.com^$ctag=user_child
 ||sitemaji.com^$ctag=user_child
 ||sitescout.com^$ctag=user_child
