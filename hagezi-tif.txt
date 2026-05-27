@@ -1,5 +1,5 @@
 ! Title: HAGEZI-TIF for CTAG "user_child|user_regurlar".
-! Version: 1779768919 (Epoch)
+! Version: 1779855322 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/tif/domains.top-n
@@ -7,6 +7,7 @@
 ||0-800-email.com^$ctag=user_child|user_regurlar
 ||0-cl.com^$ctag=user_child|user_regurlar
 ||0-vip.com^$ctag=user_child|user_regurlar
+||0.kkohls.com^$ctag=user_child|user_regurlar
 ||00-dns.com^$ctag=user_child|user_regurlar
 ||000-sex.com^$ctag=user_child|user_regurlar
 ||00000.kro.kr^$ctag=user_child|user_regurlar
@@ -23,9 +24,10 @@
 ||00653941-apple.com^$ctag=user_child|user_regurlar
 ||0066-google.com^$ctag=user_child|user_regurlar
 ||006l5.mjt.lu^$ctag=user_child|user_regurlar
+||006zhibo-live.com^$ctag=user_child|user_regurlar
 ||007a5701-5600-455b-84dc-c684b82e196b.s3.ap-northeast-2.amazonaws.com^$ctag=user_child|user_regurlar
+||007zhibo-live.com^$ctag=user_child|user_regurlar
 ||00892784-apple.com^$ctag=user_child|user_regurlar
-||009423af623840eb89fb1759543879431.1851946.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||00irq.mjt.lu^$ctag=user_child|user_regurlar
 ||00vov.za.com^$ctag=user_child|user_regurlar
 ||01-dashboard-stripe.com^$ctag=user_child|user_regurlar
@@ -47,6 +49,7 @@
 ||02-ledger.com^$ctag=user_child|user_regurlar
 ||021office.cn^$ctag=user_child|user_regurlar
 ||02468-app.com^$ctag=user_child|user_regurlar
+||0280245.misitiohostgator.com^$ctag=user_child|user_regurlar
 ||028152-coinbase.com^$ctag=user_child|user_regurlar
 ||02827-coinbase.com^$ctag=user_child|user_regurlar
 ||029183-gmail.com^$ctag=user_child|user_regurlar
@@ -104,18 +107,17 @@
 ||0a0kkrgg.slt.sched.tdnsv8.com^$ctag=user_child|user_regurlar
 ||0a7f5fa230764283a248cae2bd35f121-cn-hangzhou.alicloudapi.com^$ctag=user_child|user_regurlar
 ||0a9hvlvwhy.s3.af-south-1.amazonaws.com^$ctag=user_child|user_regurlar
+||0aa0cf0637d66c0d.com^$ctag=user_child|user_regurlar
+||0be7953b6183453bc6ba182bf6b8ba79.loophole.site^$ctag=user_child|user_regurlar
 ||0bot.qzz.io^$ctag=user_child|user_regurlar
 ||0c7k29.co.cc^$ctag=user_child|user_regurlar
 ||0ce40dce93c67c486c5849d5083006b3.s3-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||0ce40dce93c67c486c5849d5083006b3.s3.amazonaws.com^$ctag=user_child|user_regurlar
-||0cfijurk6.localto.net^$ctag=user_child|user_regurlar
-||0dgwn.bemobtrcks.com^$ctag=user_child|user_regurlar
 ||0dian8-live.com^$ctag=user_child|user_regurlar
 ||0e-mail.com^$ctag=user_child|user_regurlar
 ||0e0.jp.eu.org^$ctag=user_child|user_regurlar
 ||0e3h6cnbu9.s3.us-south.objectstorage.softlayer.net^$ctag=user_child|user_regurlar
 ||0e87ci-1777-ppp.s3.ap-east-1.amazonaws.com^$ctag=user_child|user_regurlar
-||0epwnuz1oy.localto.net^$ctag=user_child|user_regurlar
 ||0erfjd.s3.ap-south-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||0ewoifdk.s3.ap-south-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||0f324e7d2881.6b3632c8.us-east-1.token.awswaf.com^$ctag=user_child|user_regurlar
@@ -124,19 +126,14 @@
 ||0ffice3655.cabanova.com^$ctag=user_child|user_regurlar
 ||0h9zplrskg.site^$ctag=user_child|user_regurlar
 ||0hyzxx-rc.myshopify.com^$ctag=user_child|user_regurlar
-||0kkp6fidn.localto.net^$ctag=user_child|user_regurlar
-||0kydwb3k6.localto.net^$ctag=user_child|user_regurlar
 ||0nline-aws-microsoft-s.s3.eu-west-3.amazonaws.com^$ctag=user_child|user_regurlar
 ||0nline-microsoft-docs.s3.eu-west-3.amazonaws.com^$ctag=user_child|user_regurlar
-||0p7wfcoia.localto.net^$ctag=user_child|user_regurlar
 ||0pnh7.mjt.lu^$ctag=user_child|user_regurlar
 ||0q00vc-bq.myshopify.com^$ctag=user_child|user_regurlar
-||0qbwh6hprn.localto.net^$ctag=user_child|user_regurlar
 ||0r23b.uhabq9.com^$ctag=user_child|user_regurlar
 ||0rder4534-ebay.com^$ctag=user_child|user_regurlar
 ||0rder72827-ebay.com^$ctag=user_child|user_regurlar
 ||0rs-binance.com^$ctag=user_child|user_regurlar
-||0rz.tw^$ctag=user_child|user_regurlar
 ||0smqg.mjt.lu^$ctag=user_child|user_regurlar
 ||0snd.cc^$ctag=user_child|user_regurlar
 ||0tdsgov.co.cc^$ctag=user_child|user_regurlar
@@ -159,7 +156,6 @@
 ||0xqtt57e.sched.vip-dk.tdnsvod1.cn^$ctag=user_child|user_regurlar
 ||0xx6x17vnzwkwp2.s3-website-us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||0xysq.mjt.lu^$ctag=user_child|user_regurlar
-||0z2fyyf.localto.net^$ctag=user_child|user_regurlar
 ||0zpt4.za.com^$ctag=user_child|user_regurlar
 ||1-1-0.oss-eu-central-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||1-apple.cn^$ctag=user_child|user_regurlar
@@ -179,6 +175,7 @@
 ||1-www-lcloud.com^$ctag=user_child|user_regurlar
 ||1.cramssdeleviesor.co.cc^$ctag=user_child|user_regurlar
 ||1.inch.it.com^$ctag=user_child|user_regurlar
+||1.kkohls.com^$ctag=user_child|user_regurlar
 ||1.mini.nyc.mn^$ctag=user_child|user_regurlar
 ||1.shortstack.com^$ctag=user_child|user_regurlar
 ||10-google.com^$ctag=user_child|user_regurlar
@@ -202,7 +199,7 @@
 ||10272-apple.com^$ctag=user_child|user_regurlar
 ||102931-coinbase.com^$ctag=user_child|user_regurlar
 ||102bd03.r9.cpolar.top^$ctag=user_child|user_regurlar
-||103.254.acesskenya.net^$ctag=user_child|user_regurlar
+||103.psbl.surriel.com^$ctag=user_child|user_regurlar
 ||104392-coinbase.com^$ctag=user_child|user_regurlar
 ||10592.eu.cc^$ctag=user_child|user_regurlar
 ||105996-ledger.com^$ctag=user_child|user_regurlar
@@ -220,9 +217,7 @@
 ||10hpk.systeme.io^$ctag=user_child|user_regurlar
 ||10x.co.com^$ctag=user_child|user_regurlar
 ||11-ledger.com^$ctag=user_child|user_regurlar
-||11.213.acesskenya.net^$ctag=user_child|user_regurlar
 ||1103039-coinbase.com^$ctag=user_child|user_regurlar
-||112.252.acesskenya.net^$ctag=user_child|user_regurlar
 ||112125-apple.com^$ctag=user_child|user_regurlar
 ||1123002915.cn.com^$ctag=user_child|user_regurlar
 ||112999.xyz^$ctag=user_child|user_regurlar
@@ -230,8 +225,6 @@
 ||114557-kraken.com^$ctag=user_child|user_regurlar
 ||115224-crypto.com^$ctag=user_child|user_regurlar
 ||115888.eu.cc^$ctag=user_child|user_regurlar
-||117.158.acesskenya.net^$ctag=user_child|user_regurlar
-||117.9.acesskenya.net^$ctag=user_child|user_regurlar
 ||1170.api.swrve.com^$ctag=user_child|user_regurlar
 ||1171d0064a74584203182055db3c950d.s3-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||117372-coinbase.com^$ctag=user_child|user_regurlar
@@ -242,7 +235,6 @@
 ||12-ledger.com^$ctag=user_child|user_regurlar
 ||12-m.com^$ctag=user_child|user_regurlar
 ||12-trip.biz^$ctag=user_child|user_regurlar
-||120.242.acesskenya.net^$ctag=user_child|user_regurlar
 ||1204.check.cy-email.com^$ctag=user_child|user_regurlar
 ||121298189-242237494434886978.preview.editmysite.com^$ctag=user_child|user_regurlar
 ||122jahre-adac.de^$ctag=user_child|user_regurlar
@@ -257,6 +249,7 @@
 ||123bv1.it.com^$ctag=user_child|user_regurlar
 ||123bv2.it.com^$ctag=user_child|user_regurlar
 ||123ewqasdcxz.xicp.net^$ctag=user_child|user_regurlar
+||123hdtv.com^$ctag=user_child|user_regurlar
 ||123roadsafety.clan.su^$ctag=user_child|user_regurlar
 ||123sabuy-lucky-box.com^$ctag=user_child|user_regurlar
 ||123win.co.com^$ctag=user_child|user_regurlar
@@ -276,7 +269,6 @@
 ||12842-coinbase.com^$ctag=user_child|user_regurlar
 ||12848148-coinbase.com^$ctag=user_child|user_regurlar
 ||128747-recovery.com^$ctag=user_child|user_regurlar
-||129.acesskenya.net^$ctag=user_child|user_regurlar
 ||12941283-ledger.com^$ctag=user_child|user_regurlar
 ||12941289-coinbase.com^$ctag=user_child|user_regurlar
 ||12948314-coinbase.com^$ctag=user_child|user_regurlar
@@ -293,7 +285,6 @@
 ||13244-coinbase.com^$ctag=user_child|user_regurlar
 ||132493-gemini.com^$ctag=user_child|user_regurlar
 ||1325432765-lz9556bjjl-gz.scf.tencentcs.com^$ctag=user_child|user_regurlar
-||1349874791.gnway.cc^$ctag=user_child|user_regurlar
 ||13512-coinbase.com^$ctag=user_child|user_regurlar
 ||135344-trezor.io^$ctag=user_child|user_regurlar
 ||136-google.com^$ctag=user_child|user_regurlar
@@ -311,7 +302,6 @@
 ||14-ledger.com^$ctag=user_child|user_regurlar
 ||140064-coinbase.com^$ctag=user_child|user_regurlar
 ||140518-google.com^$ctag=user_child|user_regurlar
-||142.acesskenya.net^$ctag=user_child|user_regurlar
 ||143-34a.oss-cn-beijing.aliyuncs.com^$ctag=user_child|user_regurlar
 ||1435823-coinbase.com^$ctag=user_child|user_regurlar
 ||1438.eu.org^$ctag=user_child|user_regurlar
@@ -355,6 +345,7 @@
 ||15bro2719u.125mb.com^$ctag=user_child|user_regurlar
 ||16-ledger.com^$ctag=user_child|user_regurlar
 ||16-plus.com^$ctag=user_child|user_regurlar
+||1600-gifts.com^$ctag=user_child|user_regurlar
 ||161-google.com^$ctag=user_child|user_regurlar
 ||16244.l.rasa.io^$ctag=user_child|user_regurlar
 ||162574-ledger.com^$ctag=user_child|user_regurlar
@@ -376,7 +367,6 @@
 ||169385-coinbase.com^$ctag=user_child|user_regurlar
 ||16cvjsqa83q9trz.s3-website-us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||17-ledger.com^$ctag=user_child|user_regurlar
-||17.8.acesskenya.net^$ctag=user_child|user_regurlar
 ||1704172.ds.had.pm^$ctag=user_child|user_regurlar
 ||17075surv.igennos.store^$ctag=user_child|user_regurlar
 ||170w-duo.com^$ctag=user_child|user_regurlar
@@ -414,11 +404,11 @@
 ||178582-kraken.com^$ctag=user_child|user_regurlar
 ||178924-coinbase.com^$ctag=user_child|user_regurlar
 ||1789503-coinbase.com^$ctag=user_child|user_regurlar
+||178larasbatix.xyz^$ctag=user_child|user_regurlar
 ||178r60769688579.3dcartstores.com^$ctag=user_child|user_regurlar
 ||178sports-live.com^$ctag=user_child|user_regurlar
 ||1794060.hubspotpreview-na1.com^$ctag=user_child|user_regurlar
 ||179583c-coinbase.com^$ctag=user_child|user_regurlar
-||17ce57fe70.com^$ctag=user_child|user_regurlar
 ||17prosnowmeprona.za.com^$ctag=user_child|user_regurlar
 ||18-h.com^$ctag=user_child|user_regurlar
 ||1800-server.com^$ctag=user_child|user_regurlar
@@ -446,7 +436,6 @@
 ||1837049-coinbase.com^$ctag=user_child|user_regurlar
 ||18381932-trezor.io^$ctag=user_child|user_regurlar
 ||18391929-ledger.com^$ctag=user_child|user_regurlar
-||184.acesskenya.net^$ctag=user_child|user_regurlar
 ||184123-coinbase.com^$ctag=user_child|user_regurlar
 ||184299-icloud.com^$ctag=user_child|user_regurlar
 ||1847579-coinbase.com^$ctag=user_child|user_regurlar
@@ -473,11 +462,9 @@
 ||18comic-cn.com^$ctag=user_child|user_regurlar
 ||18plus-xnxx.com^$ctag=user_child|user_regurlar
 ||19-wgdvxb-xbneiu-zbvxgg.oss-ap-northeast-2.aliyuncs.com^$ctag=user_child|user_regurlar
-||190.acesskenya.net^$ctag=user_child|user_regurlar
 ||19093042555-coinbase.com^$ctag=user_child|user_regurlar
 ||1911202406kadsuennjnadsjhuyubdgadsfasdds.s3.eu-west-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||191852-coinbase.com^$ctag=user_child|user_regurlar
-||192.acesskenya.net^$ctag=user_child|user_regurlar
 ||19216801.usite.pro^$ctag=user_child|user_regurlar
 ||192183-coinbase.com^$ctag=user_child|user_regurlar
 ||19233-coinbase.com^$ctag=user_child|user_regurlar
@@ -513,7 +500,6 @@
 ||197829-coinbase.com^$ctag=user_child|user_regurlar
 ||197laststop.it.com^$ctag=user_child|user_regurlar
 ||198-live-tv.com^$ctag=user_child|user_regurlar
-||198.acesskenya.net^$ctag=user_child|user_regurlar
 ||198239-coinbase.com^$ctag=user_child|user_regurlar
 ||198240-coinbase.com^$ctag=user_child|user_regurlar
 ||198241-coinbase.com^$ctag=user_child|user_regurlar
@@ -532,6 +518,7 @@
 ||1afjvibhekojbeobj.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||1aghghgjhkjlj.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||1awesome.net^$ctag=user_child|user_regurlar
+||1b0y8tocaz24.com^$ctag=user_child|user_regurlar
 ||1b5cd569f5e97345.s3.ap-southeast-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||1bjlnkbjiojnbmkbjknji.s3-sa-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||1bkjhcbdjchsnj.s3-sa-east-1.amazonaws.com^$ctag=user_child|user_regurlar
@@ -541,6 +528,7 @@
 ||1clickz.sa.com^$ctag=user_child|user_regurlar
 ||1com.de.com^$ctag=user_child|user_regurlar
 ||1connectscotia-security.com^$ctag=user_child|user_regurlar
+||1cooldns.com^$ctag=user_child|user_regurlar
 ||1creyiub1.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||1creyiub3.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||1cy.za.com^$ctag=user_child|user_regurlar
@@ -559,7 +547,6 @@
 ||1f6seh-tk.myshopify.com^$ctag=user_child|user_regurlar
 ||1first-plus.com^$ctag=user_child|user_regurlar
 ||1goldenstar-casino.com^$ctag=user_child|user_regurlar
-||1haldmdpz.localto.net^$ctag=user_child|user_regurlar
 ||1hitclub.eu.com^$ctag=user_child|user_regurlar
 ||1inch-io-stage-app-euc1.s3-website.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||1inch.eu.cc^$ctag=user_child|user_regurlar
@@ -572,22 +559,19 @@
 ||1max-register.com^$ctag=user_child|user_regurlar
 ||1mcousuhu6.s3.ap-northeast-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||1na1-web.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
-||1odhwfyicv.localto.net^$ctag=user_child|user_regurlar
 ||1og.oss-cn-hangzhou.aliyuncs.com^$ctag=user_child|user_regurlar
 ||1onebigshop.it.com^$ctag=user_child|user_regurlar
 ||1panel.freflow.eu.org^$ctag=user_child|user_regurlar
 ||1password-login-account.readthedocs.io^$ctag=user_child|user_regurlar
 ||1password-login-on-android.readthedocs.io^$ctag=user_child|user_regurlar
 ||1password-login-online.readthedocs.io^$ctag=user_child|user_regurlar
-||1po56mdxc.localto.net^$ctag=user_child|user_regurlar
+||1phoac1lh72pxlrs.theknownfacts.com^$ctag=user_child|user_regurlar
 ||1polkadot-5x1e.js.org^$ctag=user_child|user_regurlar
 ||1q2j.builder.hemsida24.se^$ctag=user_child|user_regurlar
 ||1qtyuiokhbdge678ueyehe89364649hfgb.s3.us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||1qw.us^$ctag=user_child|user_regurlar
-||1ri7zwh3k.localto.net^$ctag=user_child|user_regurlar
 ||1run.in.net^$ctag=user_child|user_regurlar
 ||1s-vesta.ru^$ctag=user_child|user_regurlar
-||1s5h1ego2yj2u993eq250bpn9los16n2iwgxl55q.rm-radiator.com^$ctag=user_child|user_regurlar
 ||1sell-poshmark.com^$ctag=user_child|user_regurlar
 ||1st-lg-credit.com^$ctag=user_child|user_regurlar
 ||1st-racing.com^$ctag=user_child|user_regurlar
@@ -595,7 +579,6 @@
 ||1st-support.com^$ctag=user_child|user_regurlar
 ||1stcitizen-online.com^$ctag=user_child|user_regurlar
 ||1sw9x.mjt.lu^$ctag=user_child|user_regurlar
-||1t7qbrm9t.localto.net^$ctag=user_child|user_regurlar
 ||1tdsgov.co.cc^$ctag=user_child|user_regurlar
 ||1topteam.eu.cc^$ctag=user_child|user_regurlar
 ||1udhgoped.s3-website.ap-northeast-2.amazonaws.com^$ctag=user_child|user_regurlar
@@ -621,22 +604,19 @@
 ||1xslot-ua.com^$ctag=user_child|user_regurlar
 ||1xslots-1x-ru.ru^$ctag=user_child|user_regurlar
 ||1xslots-de.de^$ctag=user_child|user_regurlar
+||1xslots-online-casino.com^$ctag=user_child|user_regurlar
 ||1xslots-rf.ru^$ctag=user_child|user_regurlar
 ||1yufuiguiohiokjl.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
-||1yyx5olkch.localto.net^$ctag=user_child|user_regurlar
 ||2-inc.com^$ctag=user_child|user_regurlar
 ||2-okta.com^$ctag=user_child|user_regurlar
 ||2-tiktok.com^$ctag=user_child|user_regurlar
 ||2-www-lcloud.com^$ctag=user_child|user_regurlar
-||2.acesskenya.net^$ctag=user_child|user_regurlar
 ||2000-mclaughlin-rentals.com^$ctag=user_child|user_regurlar
 ||200412-coinbase.com^$ctag=user_child|user_regurlar
 ||2006bestbb.kro.kr^$ctag=user_child|user_regurlar
-||200fs.million.ro^$ctag=user_child|user_regurlar
 ||201437-google.com^$ctag=user_child|user_regurlar
 ||2018microsoft0utlook.editor.multiscreensite.com^$ctag=user_child|user_regurlar
 ||2019.ip138.com^$ctag=user_child|user_regurlar
-||202.acesskenya.net^$ctag=user_child|user_regurlar
 ||2020nordeytaya2021eieejddjddkxxxjx.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||202319.oss-eu-central-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||2023qdchatgai-apk.oss-accelerate.aliyuncs.com^$ctag=user_child|user_regurlar
@@ -670,8 +650,6 @@
 ||2114.eu.cc^$ctag=user_child|user_regurlar
 ||212156dnfgdn.co.cc^$ctag=user_child|user_regurlar
 ||212951jh19.iok.la^$ctag=user_child|user_regurlar
-||215.acesskenya.net^$ctag=user_child|user_regurlar
-||216.acesskenya.net^$ctag=user_child|user_regurlar
 ||21750.tctm.co^$ctag=user_child|user_regurlar
 ||217651.8b.io^$ctag=user_child|user_regurlar
 ||217822-crypto.com^$ctag=user_child|user_regurlar
@@ -680,13 +658,10 @@
 ||21875206.hs-sites.com^$ctag=user_child|user_regurlar
 ||218753-google.com^$ctag=user_child|user_regurlar
 ||2188194-coinbase.com^$ctag=user_child|user_regurlar
-||219.acesskenya.net^$ctag=user_child|user_regurlar
 ||21934237.hubspotpagebuilder.com^$ctag=user_child|user_regurlar
 ||21food.cn.com^$ctag=user_child|user_regurlar
-||21sstosb2vc327zb6awz1cis5xuxnievi.rm-radiator.com^$ctag=user_child|user_regurlar
 ||21tb-file3.21tb.com.w.kunlunca.com^$ctag=user_child|user_regurlar
 ||22-412-test.com^$ctag=user_child|user_regurlar
-||220.acesskenya.net^$ctag=user_child|user_regurlar
 ||220582-coinbase.com^$ctag=user_child|user_regurlar
 ||221146-crypto.com^$ctag=user_child|user_regurlar
 ||2211843-ledger.com^$ctag=user_child|user_regurlar
@@ -724,8 +699,8 @@
 ||2352360-ledger.com^$ctag=user_child|user_regurlar
 ||2355432-coinbase.com^$ctag=user_child|user_regurlar
 ||23562-google.com^$ctag=user_child|user_regurlar
-||236.acesskenya.net^$ctag=user_child|user_regurlar
 ||23686-google.com^$ctag=user_child|user_regurlar
+||2370245.misitiohostgator.com^$ctag=user_child|user_regurlar
 ||237195-google.com^$ctag=user_child|user_regurlar
 ||23784a47df.com^$ctag=user_child|user_regurlar
 ||238747-recovery.com^$ctag=user_child|user_regurlar
@@ -735,8 +710,6 @@
 ||23tdsgov.co.cc^$ctag=user_child|user_regurlar
 ||23vb.oss-me-east-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||24-kan-live.com^$ctag=user_child|user_regurlar
-||24.62.acesskenya.net^$ctag=user_child|user_regurlar
-||24.mrb-bd.com^$ctag=user_child|user_regurlar
 ||244491744.hs-sites-na2.com^$ctag=user_child|user_regurlar
 ||2473-x.com^$ctag=user_child|user_regurlar
 ||24848299-coinbase.com^$ctag=user_child|user_regurlar
@@ -760,10 +733,6 @@
 ||25.vl.fra.de.actmobile.com^$ctag=user_child|user_regurlar
 ||250160.8b.io^$ctag=user_child|user_regurlar
 ||251849-crypto.com^$ctag=user_child|user_regurlar
-||254.15.6.acesskenya.net^$ctag=user_child|user_regurlar
-||254.32.214.acesskenya.net^$ctag=user_child|user_regurlar
-||254.35.130.acesskenya.net^$ctag=user_child|user_regurlar
-||254.57.1.acesskenya.net^$ctag=user_child|user_regurlar
 ||254615-coinbase.com^$ctag=user_child|user_regurlar
 ||25488-coinbase.com^$ctag=user_child|user_regurlar
 ||255815-coinbase.com^$ctag=user_child|user_regurlar
@@ -785,8 +754,6 @@
 ||264614-coinbase.com^$ctag=user_child|user_regurlar
 ||26qewsdz.oss-accelerate.aliyuncs.com^$ctag=user_child|user_regurlar
 ||26sg42oqx.co.cc^$ctag=user_child|user_regurlar
-||27.177.acesskenya.net^$ctag=user_child|user_regurlar
-||27.9.acesskenya.net^$ctag=user_child|user_regurlar
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^$ctag=user_child|user_regurlar
 ||27062619672b9ec0a1aa077e.crazedns.ru^$ctag=user_child|user_regurlar
 ||27188-coinbase.com^$ctag=user_child|user_regurlar
@@ -847,6 +814,7 @@
 ||29betterlife-offers.com^$ctag=user_child|user_regurlar
 ||29dsasprosnowmeprona.za.com^$ctag=user_child|user_regurlar
 ||29eb04-7a.myshopify.com^$ctag=user_child|user_regurlar
+||29fe3231ed6d135d6d587276a82a4c9a.loophole.site^$ctag=user_child|user_regurlar
 ||29senior-us-offers.com^$ctag=user_child|user_regurlar
 ||2adc9m0bc70noboyvgt357r5gwmnady2.oastify.com^$ctag=user_child|user_regurlar
 ||2aeea663.ithemeshosting.com.php73-40.lan3-1.websitetestlink.com^$ctag=user_child|user_regurlar
@@ -862,6 +830,7 @@
 ||2dsfcvbjblhgb.s3.ca-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||2dspoek.s3-ap-southeast-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||2e-global.com^$ctag=user_child|user_regurlar
+||2e328acc085e5f3cbf95eb7dbc14335d.loophole.site^$ctag=user_child|user_regurlar
 ||2ecb9f.elianalovely.eu.org^$ctag=user_child|user_regurlar
 ||2eil9jmg.sibpages.com^$ctag=user_child|user_regurlar
 ||2f87y.s3.eu-north-1.amazonaws.com^$ctag=user_child|user_regurlar
@@ -905,13 +874,9 @@
 ||2ze92.s3.eu-north-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||3-6-5-9-b.com^$ctag=user_child|user_regurlar
 ||3-acc-domain.ru^$ctag=user_child|user_regurlar
-||3.acesskenya.net^$ctag=user_child|user_regurlar
 ||3.emailfake.com^$ctag=user_child|user_regurlar
 ||3.heier.eu.org^$ctag=user_child|user_regurlar
-||3000-i2x72dho6j3jo9au0kn7y-887c48ac.us2.manus.computer^$ctag=user_child|user_regurlar
-||3000-ilggnxllhkfr1l6qouw7h-19c00ae0.us2.manus.computer^$ctag=user_child|user_regurlar
 ||301-google.com^$ctag=user_child|user_regurlar
-||30120d14d98c40139b49de86edd4663e.eai-adobe.com^$ctag=user_child|user_regurlar
 ||303-london-uk.com^$ctag=user_child|user_regurlar
 ||303.ru.com^$ctag=user_child|user_regurlar
 ||30ht.com.w.kunlunpi.com^$ctag=user_child|user_regurlar
@@ -932,6 +897,7 @@
 ||3194199-ledger.com^$ctag=user_child|user_regurlar
 ||31949129-ledger.com^$ctag=user_child|user_regurlar
 ||3195-coinbase.com^$ctag=user_child|user_regurlar
+||31fbe614036d5694823299355aed8481.loophole.site^$ctag=user_child|user_regurlar
 ||32.0.4t.com^$ctag=user_child|user_regurlar
 ||320467-coinbase.com^$ctag=user_child|user_regurlar
 ||321-email.com^$ctag=user_child|user_regurlar
@@ -984,7 +950,6 @@
 ||348672-shakepay.com^$ctag=user_child|user_regurlar
 ||34985-coinbase.com^$ctag=user_child|user_regurlar
 ||34qf42y.eu.org^$ctag=user_child|user_regurlar
-||35.12.acesskenya.net^$ctag=user_child|user_regurlar
 ||350291-coinbase.com^$ctag=user_child|user_regurlar
 ||350yeezy.us.com^$ctag=user_child|user_regurlar
 ||352124-coinbase.com^$ctag=user_child|user_regurlar
@@ -1009,6 +974,7 @@
 ||360photo.oss-cn-hongkong.aliyuncs.com^$ctag=user_child|user_regurlar
 ||360sec-dns.com^$ctag=user_child|user_regurlar
 ||360weishi-360.cn^$ctag=user_child|user_regurlar
+||360zb-yahoo.com^$ctag=user_child|user_regurlar
 ||361935-coinbase.com^$ctag=user_child|user_regurlar
 ||36261-coinbase.com^$ctag=user_child|user_regurlar
 ||36262-coinbase.com^$ctag=user_child|user_regurlar
@@ -1031,7 +997,6 @@
 ||3759s94c4iyd3lg9.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||378446-ledger.com^$ctag=user_child|user_regurlar
 ||37be4d7f4c7b5e.s3.ap-northeast-1.amazonaws.com^$ctag=user_child|user_regurlar
-||38.6.acesskenya.net^$ctag=user_child|user_regurlar
 ||381487-kraken.com^$ctag=user_child|user_regurlar
 ||381884-coinbase.com^$ctag=user_child|user_regurlar
 ||38191-coinbase.com^$ctag=user_child|user_regurlar
@@ -1064,6 +1029,7 @@
 ||3932351-coinbase.com^$ctag=user_child|user_regurlar
 ||393917-coinbase.com^$ctag=user_child|user_regurlar
 ||394182-coinbase.com^$ctag=user_child|user_regurlar
+||394823-ledger.com^$ctag=user_child|user_regurlar
 ||3949131-trezor.io^$ctag=user_child|user_regurlar
 ||395022-google.com^$ctag=user_child|user_regurlar
 ||395123-coinbase.com^$ctag=user_child|user_regurlar
@@ -1090,6 +1056,7 @@
 ||3dsecure-sca.com^$ctag=user_child|user_regurlar
 ||3ed5lh-ip-178-214-244-87.tunnelmole.net^$ctag=user_child|user_regurlar
 ||3f-wifi.com^$ctag=user_child|user_regurlar
+||3f092954af9a481e9f8ad58611d29620.loophole.site^$ctag=user_child|user_regurlar
 ||3ftendenze.ru.com^$ctag=user_child|user_regurlar
 ||3ftendenze.sa.com^$ctag=user_child|user_regurlar
 ||3g3qwuly37.s3.ap-east-1.amazonaws.com^$ctag=user_child|user_regurlar
@@ -1101,7 +1068,6 @@
 ||3pl-ledger.com^$ctag=user_child|user_regurlar
 ||3s-russia.ru^$ctag=user_child|user_regurlar
 ||3s3mtopgs-x.com^$ctag=user_child|user_regurlar
-||3stbnor9x.localto.net^$ctag=user_child|user_regurlar
 ||3syd1z.oss-cn-beijing.aliyuncs.com^$ctag=user_child|user_regurlar
 ||3t254q3120.wicp.vip^$ctag=user_child|user_regurlar
 ||3tydftfuknbnmlm.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
@@ -1114,14 +1080,12 @@
 ||4-asterdex.com^$ctag=user_child|user_regurlar
 ||4-jin-microsoft.com^$ctag=user_child|user_regurlar
 ||4-t.net^$ctag=user_child|user_regurlar
-||4.acesskenya.net^$ctag=user_child|user_regurlar
 ||402755-google.com^$ctag=user_child|user_regurlar
 ||4031-gmail.com^$ctag=user_child|user_regurlar
 ||404-teleguard.com^$ctag=user_child|user_regurlar
 ||404.pp.ua^$ctag=user_child|user_regurlar
 ||40mphbmwbldhpq9pvj1vya.on.drv.tw^$ctag=user_child|user_regurlar
 ||40wia6je1e.s3.eu-north-1.amazonaws.com^$ctag=user_child|user_regurlar
-||41.1.acesskenya.net^$ctag=user_child|user_regurlar
 ||410-ahsabd.oss-us-east-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||411308-coinbase.com^$ctag=user_child|user_regurlar
 ||413356-crypto.com^$ctag=user_child|user_regurlar
@@ -1140,7 +1104,6 @@
 ||429281-coinbase.com^$ctag=user_child|user_regurlar
 ||42934912-coinbase.com^$ctag=user_child|user_regurlar
 ||429que-corona84180-242482442r-535352.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
-||43.94.acesskenya.net^$ctag=user_child|user_regurlar
 ||4312-coinbase.com^$ctag=user_child|user_regurlar
 ||432213-coinbase.com^$ctag=user_child|user_regurlar
 ||43223-coinbase.com^$ctag=user_child|user_regurlar
@@ -1164,6 +1127,7 @@
 ||44086-coinbase.com^$ctag=user_child|user_regurlar
 ||441o23fg.slt.sched.intlscdn.com^$ctag=user_child|user_regurlar
 ||442873-coinbase.com^$ctag=user_child|user_regurlar
+||442fe7151fb1e9b5.com^$ctag=user_child|user_regurlar
 ||44471.jp.net^$ctag=user_child|user_regurlar
 ||4448268-coinbase.com^$ctag=user_child|user_regurlar
 ||4492004-coinbase.com^$ctag=user_child|user_regurlar
@@ -1215,6 +1179,7 @@
 ||4828581-coinbase.com^$ctag=user_child|user_regurlar
 ||482928-coinbase.com^$ctag=user_child|user_regurlar
 ||4829391-coinbase.com^$ctag=user_child|user_regurlar
+||482949-ledger.com^$ctag=user_child|user_regurlar
 ||4829852-coinbase.com^$ctag=user_child|user_regurlar
 ||4829952-coinbase.com^$ctag=user_child|user_regurlar
 ||482e6192z0.goho.co^$ctag=user_child|user_regurlar
@@ -1228,11 +1193,11 @@
 ||4852d6546f.com^$ctag=user_child|user_regurlar
 ||48727e9a60.com^$ctag=user_child|user_regurlar
 ||48732-coinbase.com^$ctag=user_child|user_regurlar
+||4879283.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||488253-ledger.com^$ctag=user_child|user_regurlar
-||4895750.c1.biz^$ctag=user_child|user_regurlar
+||488c65e6d7175f5e696ece9711c0ec37.loophole.site^$ctag=user_child|user_regurlar
 ||48d83469-d0c6-4ade-8f82-e383fff094b8.webhook.site^$ctag=user_child|user_regurlar
 ||48o7as4fn2.ucarecd.net^$ctag=user_child|user_regurlar
-||49.45.acesskenya.net^$ctag=user_child|user_regurlar
 ||491005-coinbase.com^$ctag=user_child|user_regurlar
 ||491217-coinbase.com^$ctag=user_child|user_regurlar
 ||4913941-ledger.com^$ctag=user_child|user_regurlar
@@ -1253,9 +1218,8 @@
 ||498755-coinbase.com^$ctag=user_child|user_regurlar
 ||4991496-coinbase.com^$ctag=user_child|user_regurlar
 ||499295-ledger.com^$ctag=user_child|user_regurlar
-||49lwbineu.localto.net^$ctag=user_child|user_regurlar
 ||4a1dcfa305.com^$ctag=user_child|user_regurlar
-||4a537f8276704fe3b6b61761570858560.2141976.meusitehostgator.com.br^$ctag=user_child|user_regurlar
+||4a8737deb4057bbee1a3c8524cd4fed6.loophole.site^$ctag=user_child|user_regurlar
 ||4ac38e317e.com^$ctag=user_child|user_regurlar
 ||4c92j5.cz.cc^$ctag=user_child|user_regurlar
 ||4d5280c6-8a92-4665-a114-bb6fe41a9fdf.s3.ap-northeast-2.amazonaws.com^$ctag=user_child|user_regurlar
@@ -1267,13 +1231,10 @@
 ||4infall.zzz.com.ua^$ctag=user_child|user_regurlar
 ||4k-weilai-live.com^$ctag=user_child|user_regurlar
 ||4kctwop.uk.com^$ctag=user_child|user_regurlar
-||4lgx4.bemobtrcks.com^$ctag=user_child|user_regurlar
 ||4more.in.net^$ctag=user_child|user_regurlar
-||4mxlrhcab.localto.net^$ctag=user_child|user_regurlar
 ||4r272ptd8p.ufs.sh^$ctag=user_child|user_regurlar
 ||4re.oss-me-east-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||4riuskm.s3-ap-northeast-1.amazonaws.com^$ctag=user_child|user_regurlar
-||4tqikdkjp.localto.net^$ctag=user_child|user_regurlar
 ||4vps.co.cc^$ctag=user_child|user_regurlar
 ||4vps.su^$ctag=user_child|user_regurlar
 ||4yyf.co.cc^$ctag=user_child|user_regurlar
@@ -1282,10 +1243,8 @@
 ||5-123.com^$ctag=user_child|user_regurlar
 ||5-binance.com^$ctag=user_child|user_regurlar
 ||5-g.cn^$ctag=user_child|user_regurlar
-||5.1.acesskenya.net^$ctag=user_child|user_regurlar
 ||50-freispiele-ohne-einzahlung.com.de^$ctag=user_child|user_regurlar
 ||50-freispieleohneeinzahlung.com.de^$ctag=user_child|user_regurlar
-||50.acesskenya.net^$ctag=user_child|user_regurlar
 ||500konutprojesi.it.com^$ctag=user_child|user_regurlar
 ||502-vip.com^$ctag=user_child|user_regurlar
 ||505-google.com^$ctag=user_child|user_regurlar
@@ -1353,7 +1312,6 @@
 ||54asharp-reviews.sa.com^$ctag=user_child|user_regurlar
 ||54hj.fr.gd^$ctag=user_child|user_regurlar
 ||54xr.cn.com^$ctag=user_child|user_regurlar
-||55.128.acesskenya.net^$ctag=user_child|user_regurlar
 ||5500-google.com^$ctag=user_child|user_regurlar
 ||552321-coinbase.com^$ctag=user_child|user_regurlar
 ||552814-coinbase.com^$ctag=user_child|user_regurlar
@@ -1369,7 +1327,6 @@
 ||56131227.mediafireo.za.com^$ctag=user_child|user_regurlar
 ||562104-coinbase.com^$ctag=user_child|user_regurlar
 ||562910-google.com^$ctag=user_child|user_regurlar
-||5645780.c1.biz^$ctag=user_child|user_regurlar
 ||566504ef249d9ce8.lolipop.jp^$ctag=user_child|user_regurlar
 ||567-live.com^$ctag=user_child|user_regurlar
 ||567-live.net^$ctag=user_child|user_regurlar
@@ -1397,6 +1354,7 @@
 ||582852-binance.com^$ctag=user_child|user_regurlar
 ||582855-ledger.com^$ctag=user_child|user_regurlar
 ||582895-ledger.com^$ctag=user_child|user_regurlar
+||58293-login-coinbase.com^$ctag=user_child|user_regurlar
 ||582945-kraken.com^$ctag=user_child|user_regurlar
 ||582949-ledger.com^$ctag=user_child|user_regurlar
 ||5829942-coinbase.com^$ctag=user_child|user_regurlar
@@ -1426,8 +1384,6 @@
 ||58win0j.cn.com^$ctag=user_child|user_regurlar
 ||58win1.it.com^$ctag=user_child|user_regurlar
 ||58winn.uk.com^$ctag=user_child|user_regurlar
-||5901-i2x72dho6j3jo9au0kn7y-887c48ac.us2.manus.computer^$ctag=user_child|user_regurlar
-||5901-ilggnxllhkfr1l6qouw7h-19c00ae0.us2.manus.computer^$ctag=user_child|user_regurlar
 ||59184721-ledger.com^$ctag=user_child|user_regurlar
 ||59184821-ledger.com^$ctag=user_child|user_regurlar
 ||5919248-ledger.com^$ctag=user_child|user_regurlar
@@ -1456,6 +1412,7 @@
 ||599292-ledger.com^$ctag=user_child|user_regurlar
 ||5992932-coinbase.com^$ctag=user_child|user_regurlar
 ||5998124-ledger.com^$ctag=user_child|user_regurlar
+||5a43e6a45be33b4739fba699782e6c7c.loophole.site^$ctag=user_child|user_regurlar
 ||5ad8c06e8fe1288290c90cf402630d90-911623479.us-east-2.elb.amazonaws.com^$ctag=user_child|user_regurlar
 ||5b4c971817.com^$ctag=user_child|user_regurlar
 ||5b5621-82.myshopify.com^$ctag=user_child|user_regurlar
@@ -1477,24 +1434,20 @@
 ||5l3.it.com^$ctag=user_child|user_regurlar
 ||5ljhfly.eu.cc^$ctag=user_child|user_regurlar
 ||5mp.eu^$ctag=user_child|user_regurlar
-||5mux6rtj8.localto.net^$ctag=user_child|user_regurlar
 ||5oss.oss-cn-hangzhou.aliyuncs.com^$ctag=user_child|user_regurlar
 ||5star-coach.com^$ctag=user_child|user_regurlar
 ||5star-live.com^$ctag=user_child|user_regurlar
 ||5starhdporn.com^$ctag=user_child|user_regurlar
-||5t.guests-info.com^$ctag=user_child|user_regurlar
 ||5tdxu.sa.com^$ctag=user_child|user_regurlar
 ||5u3bsh2.uk.com^$ctag=user_child|user_regurlar
 ||5uehof.s3-website.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||5utidbg.s3.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||5uya98strr77.s3.ap-northeast-3.amazonaws.com^$ctag=user_child|user_regurlar
 ||5vsmeqi2savglvp1.s3-website.ap-southeast-2.amazonaws.com^$ctag=user_child|user_regurlar
-||5z6y8mkfe.localto.net^$ctag=user_child|user_regurlar
 ||5z8xi2rj04jyh302fd.s3.ap-southeast-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||6-a.com^$ctag=user_child|user_regurlar
 ||6-drugs.com^$ctag=user_child|user_regurlar
 ||6.zzz.com.ua^$ctag=user_child|user_regurlar
-||60.9.acesskenya.net^$ctag=user_child|user_regurlar
 ||6001.eu.cc^$ctag=user_child|user_regurlar
 ||6004.eu.cc^$ctag=user_child|user_regurlar
 ||6005.eu.cc^$ctag=user_child|user_regurlar
@@ -1527,6 +1480,7 @@
 ||6183.cn.com^$ctag=user_child|user_regurlar
 ||618742-coinbase.com^$ctag=user_child|user_regurlar
 ||6196109405896.hostingkunde.de^$ctag=user_child|user_regurlar
+||61b4fea9a1f98c0a086eb430d5ff2c63.loophole.site^$ctag=user_child|user_regurlar
 ||61toolll.oss-us-east-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||620715-coinbase.com^$ctag=user_child|user_regurlar
 ||6222.cn.com^$ctag=user_child|user_regurlar
@@ -1535,7 +1489,6 @@
 ||6264832-coinbase.com^$ctag=user_child|user_regurlar
 ||628793-coinbase.com^$ctag=user_child|user_regurlar
 ||628852-coinbase.com^$ctag=user_child|user_regurlar
-||62hold-ups.com^$ctag=user_child|user_regurlar
 ||63-xfinity.com^$ctag=user_child|user_regurlar
 ||6310249-google.com^$ctag=user_child|user_regurlar
 ||631752-celsius.com^$ctag=user_child|user_regurlar
@@ -1548,11 +1501,11 @@
 ||637654.8b.io^$ctag=user_child|user_regurlar
 ||637aio-accountverify-update018383.s3.eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||638911-coinbase.com^$ctag=user_child|user_regurlar
-||63tefarz8.localto.net^$ctag=user_child|user_regurlar
 ||64521411-ledger.com^$ctag=user_child|user_regurlar
 ||6473.taplink.ws^$ctag=user_child|user_regurlar
 ||648358-coinbase.com^$ctag=user_child|user_regurlar
 ||649915.8b.io^$ctag=user_child|user_regurlar
+||6499298d41476bd20587a5b5079f0031.loophole.site^$ctag=user_child|user_regurlar
 ||64ghhffhhgfgfddgdnewomoihustleds1ooshuooooooooooo.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||65-appagent-connect.com^$ctag=user_child|user_regurlar
 ||65-appagent-digital.com^$ctag=user_child|user_regurlar
@@ -1569,7 +1522,6 @@
 ||6626081.hubspotpreview-na1.com^$ctag=user_child|user_regurlar
 ||662772-ledger.com^$ctag=user_child|user_regurlar
 ||667-google.com^$ctag=user_child|user_regurlar
-||667i78978.my-free.website^$ctag=user_child|user_regurlar
 ||66849931.s3.amazonaws.com^$ctag=user_child|user_regurlar
 ||6686sports-zoom.com^$ctag=user_child|user_regurlar
 ||66ghz.com^$ctag=user_child|user_regurlar
@@ -1577,6 +1529,7 @@
 ||6713-icloud.com^$ctag=user_child|user_regurlar
 ||6743023129.s3.us-west-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||674985034.myshoplaza.com^$ctag=user_child|user_regurlar
+||6755aa608c405dbe0e641f4ca32459b4.loophole.site^$ctag=user_child|user_regurlar
 ||678-live.net^$ctag=user_child|user_regurlar
 ||67804.simplo7.net^$ctag=user_child|user_regurlar
 ||6789.jp.net^$ctag=user_child|user_regurlar
@@ -1597,7 +1550,6 @@
 ||68gamebai.gb.net^$ctag=user_child|user_regurlar
 ||68win10.uk.com^$ctag=user_child|user_regurlar
 ||69-drugs.com^$ctag=user_child|user_regurlar
-||69.36.acesskenya.net^$ctag=user_child|user_regurlar
 ||692090-coinbase.com^$ctag=user_child|user_regurlar
 ||6929412-coinbase.com^$ctag=user_child|user_regurlar
 ||6929481-coinbase.com^$ctag=user_child|user_regurlar
@@ -1613,7 +1565,7 @@
 ||6bnw.top^$ctag=user_child|user_regurlar
 ||6c29px1qsjm6l1v7aknofkl82.vip^$ctag=user_child|user_regurlar
 ||6c8843.co.cc^$ctag=user_child|user_regurlar
-||6cye4vtrgb.localto.net^$ctag=user_child|user_regurlar
+||6d15fce9b4793ca2b766a5ea7df67a34.loophole.site^$ctag=user_child|user_regurlar
 ||6dbe0a0f8a0b76db.com^$ctag=user_child|user_regurlar
 ||6ebhaome.s3-website-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||6encpa.s3-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
@@ -1625,13 +1577,9 @@
 ||6l1xl.r.bh.d.sendibt3.com^$ctag=user_child|user_regurlar
 ||6minutesjustforme-ahoyhoysbestporn.kleinanzegien.de^$ctag=user_child|user_regurlar
 ||6mix.in.net^$ctag=user_child|user_regurlar
-||6mzdf1z0w.localto.net^$ctag=user_child|user_regurlar
-||6n2esjp.localto.net^$ctag=user_child|user_regurlar
-||6nuzshlva.localto.net^$ctag=user_child|user_regurlar
 ||6oasik.s3.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||6oiue.oss-accelerate.aliyuncs.com^$ctag=user_child|user_regurlar
 ||6rtyuc.s3.ap-northeast-3.amazonaws.com^$ctag=user_child|user_regurlar
-||6sbh1vn47.localto.net^$ctag=user_child|user_regurlar
 ||6x514937w5.goho.co^$ctag=user_child|user_regurlar
 ||6xh2cwlp.sched.v1lego.tdnsvod1.cn^$ctag=user_child|user_regurlar
 ||6yuyyh.oss-cn-beijing.aliyuncs.com^$ctag=user_child|user_regurlar
@@ -1642,7 +1590,6 @@
 ||7-food.com^$ctag=user_child|user_regurlar
 ||7-zip.net^$ctag=user_child|user_regurlar
 ||7.67-212-42-net.sccoast.net^$ctag=user_child|user_regurlar
-||7.acesskenya.net^$ctag=user_child|user_regurlar
 ||70-google.com^$ctag=user_child|user_regurlar
 ||7000.binary-search.com^$ctag=user_child|user_regurlar
 ||700392-coinbase.com^$ctag=user_child|user_regurlar
@@ -1650,18 +1597,16 @@
 ||70419-coinbase.com^$ctag=user_child|user_regurlar
 ||707-google.com^$ctag=user_child|user_regurlar
 ||70k-free-robux-generator-no-human-verification.statuspage.io^$ctag=user_child|user_regurlar
-||70t0fetezakya3egl.c1.biz^$ctag=user_child|user_regurlar
-||70zv5n4wj.localto.net^$ctag=user_child|user_regurlar
 ||710k.com^$ctag=user_child|user_regurlar
 ||711-ai.com^$ctag=user_child|user_regurlar
 ||712334-coinbase.com^$ctag=user_child|user_regurlar
 ||712429-coinbase.com^$ctag=user_child|user_regurlar
 ||712849-coinbase.com^$ctag=user_child|user_regurlar
 ||713mtauburnctcolumbusoh43085.st^$ctag=user_child|user_regurlar
+||716-express.com^$ctag=user_child|user_regurlar
 ||71811-coinbase.com^$ctag=user_child|user_regurlar
 ||718223-coinbase.com^$ctag=user_child|user_regurlar
 ||71pp.co.cc^$ctag=user_child|user_regurlar
-||72.6.acesskenya.net^$ctag=user_child|user_regurlar
 ||720200-crypto.com^$ctag=user_child|user_regurlar
 ||722374-coinbase.com^$ctag=user_child|user_regurlar
 ||723115-coinbase.com^$ctag=user_child|user_regurlar
@@ -1688,7 +1633,6 @@
 ||73ahgytpvpjfhxq5v.s3.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||73ea13c4fa.com^$ctag=user_child|user_regurlar
 ||74-google.com^$ctag=user_child|user_regurlar
-||74.acesskenya.net^$ctag=user_child|user_regurlar
 ||741973-ftx.com^$ctag=user_child|user_regurlar
 ||74203s040.edusite.ru^$ctag=user_child|user_regurlar
 ||74342972420-42q234-9424-924042420801.s3.amazonaws.com^$ctag=user_child|user_regurlar
@@ -1775,6 +1719,7 @@
 ||79winbet.uk.com^$ctag=user_child|user_regurlar
 ||7ba.info^$ctag=user_child|user_regurlar
 ||7bx4zjh14m.ufs.sh^$ctag=user_child|user_regurlar
+||7ce637a4765d94655c5e90270494197d.loophole.site^$ctag=user_child|user_regurlar
 ||7db8cf0dcd.com^$ctag=user_child|user_regurlar
 ||7dhupt.s3.eu-west-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||7dkigdpb2t9dr9sfdtqt.fvag5gbemtz1f78.ljdvgra5hpn3t7h1x4.co.com^$ctag=user_child|user_regurlar
@@ -1788,17 +1733,13 @@
 ||7i7etry-706900uo0-8tu6.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||7jowo9k5.sibpages.com^$ctag=user_child|user_regurlar
 ||7lrkvy.co.cc^$ctag=user_child|user_regurlar
-||7mgtwzocu.localto.net^$ctag=user_child|user_regurlar
 ||7nwk3b3g4e4nkot.s3-website-us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||7p41a8967.wicp.vip^$ctag=user_child|user_regurlar
 ||7pm-delivery.com^$ctag=user_child|user_regurlar
-||7pzq4w03j.localto.net^$ctag=user_child|user_regurlar
 ||7seas-discovery.com^$ctag=user_child|user_regurlar
-||7sipxslhd.localto.net^$ctag=user_child|user_regurlar
 ||7standby.com^$ctag=user_child|user_regurlar
 ||7taps-delivery.com^$ctag=user_child|user_regurlar
 ||7tup-shop.com^$ctag=user_child|user_regurlar
-||7v4hd5u6r.localto.net^$ctag=user_child|user_regurlar
 ||7xynbs-ledger.com^$ctag=user_child|user_regurlar
 ||7yske.eu.cc^$ctag=user_child|user_regurlar
 ||7yw95el.eu.org^$ctag=user_child|user_regurlar
@@ -1813,7 +1754,6 @@
 ||80ans-leparisien.fr^$ctag=user_child|user_regurlar
 ||80xbdfs.oss-accelerate.aliyuncs.com^$ctag=user_child|user_regurlar
 ||81-google.com^$ctag=user_child|user_regurlar
-||81.33.acesskenya.net^$ctag=user_child|user_regurlar
 ||811426-google.com^$ctag=user_child|user_regurlar
 ||81273-coinbase.com^$ctag=user_child|user_regurlar
 ||81284192-coinbase.com^$ctag=user_child|user_regurlar
@@ -1826,6 +1766,7 @@
 ||817034-icloud.com^$ctag=user_child|user_regurlar
 ||817034-kraken.com^$ctag=user_child|user_regurlar
 ||817034-ledger.com^$ctag=user_child|user_regurlar
+||817034-trezor.io^$ctag=user_child|user_regurlar
 ||817034-yahoo.com^$ctag=user_child|user_regurlar
 ||8172-coinbase.com^$ctag=user_child|user_regurlar
 ||817342-binance.com^$ctag=user_child|user_regurlar
@@ -1874,7 +1815,6 @@
 ||837298-google.com^$ctag=user_child|user_regurlar
 ||837492-coinbase.com^$ctag=user_child|user_regurlar
 ||837531-celsius.com^$ctag=user_child|user_regurlar
-||83aky1z.localto.net^$ctag=user_child|user_regurlar
 ||83cbda598a.com^$ctag=user_child|user_regurlar
 ||83rez940qo.s3.eu-west-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||841932-comcast.com^$ctag=user_child|user_regurlar
@@ -1932,7 +1872,6 @@
 ||879324-google.com^$ctag=user_child|user_regurlar
 ||87985-coinbase.com^$ctag=user_child|user_regurlar
 ||87fc5f7f.ithemeshosting.com.php73-40.lan3-1.websitetestlink.com^$ctag=user_child|user_regurlar
-||88.128.acesskenya.net^$ctag=user_child|user_regurlar
 ||88.asadal.com^$ctag=user_child|user_regurlar
 ||881-google.com^$ctag=user_child|user_regurlar
 ||8819141-coinbase.com^$ctag=user_child|user_regurlar
@@ -1965,6 +1904,7 @@
 ||88kq-live.com^$ctag=user_child|user_regurlar
 ||890632-kraken.com^$ctag=user_child|user_regurlar
 ||890752-coinbase.com^$ctag=user_child|user_regurlar
+||890m.com^$ctag=user_child|user_regurlar
 ||892121-google.com^$ctag=user_child|user_regurlar
 ||892346-coinbase.com^$ctag=user_child|user_regurlar
 ||892784-apple.com^$ctag=user_child|user_regurlar
@@ -1981,7 +1921,6 @@
 ||89764-att.com^$ctag=user_child|user_regurlar
 ||89764-tmobile.com^$ctag=user_child|user_regurlar
 ||89764-verizon.com^$ctag=user_child|user_regurlar
-||897e5b12957c46a691031762700235785.0791991.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||8980g-db.com^$ctag=user_child|user_regurlar
 ||898124-gmail.com^$ctag=user_child|user_regurlar
 ||8989c.cc^$ctag=user_child|user_regurlar
@@ -1992,23 +1931,21 @@
 ||8bb.bnvb8.dpdns.org^$ctag=user_child|user_regurlar
 ||8c4d591d.ithemeshosting.com.php73-39.lan3-1.websitetestlink.com^$ctag=user_child|user_regurlar
 ||8cb060834e.com^$ctag=user_child|user_regurlar
+||8d47114af5f3c9c1051f4c599218bda3.loophole.site^$ctag=user_child|user_regurlar
 ||8df.us^$ctag=user_child|user_regurlar
 ||8egbu57cwe.s3.eu-north-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||8evlcbsuk3cm9agc-49220550809.shopifypreview.com^$ctag=user_child|user_regurlar
 ||8fbian-crypto.com^$ctag=user_child|user_regurlar
 ||8ghgkgui.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||8h33ahoyhoysbestporn.kleinanzegien.de^$ctag=user_child|user_regurlar
-||8i5lypxm6.localto.net^$ctag=user_child|user_regurlar
 ||8k-live-tv.com^$ctag=user_child|user_regurlar
 ||8kbet-link.com^$ctag=user_child|user_regurlar
 ||8kzhibo-live.com^$ctag=user_child|user_regurlar
-||8pdvcbgagm.localto.net^$ctag=user_child|user_regurlar
 ||8s8cyak8emzp3qvvwmgx5qnqjjr17xltp4haci3m.s3.ap-northeast-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||8s8s.it.com^$ctag=user_child|user_regurlar
 ||8scr4zv.uk.com^$ctag=user_child|user_regurlar
 ||8traordinary-popular.com^$ctag=user_child|user_regurlar
 ||8v-us.com^$ctag=user_child|user_regurlar
-||8wddgfqliy.localto.net^$ctag=user_child|user_regurlar
 ||8xbet-casino-live.com^$ctag=user_child|user_regurlar
 ||8xbet.com.de^$ctag=user_child|user_regurlar
 ||8xx.de.com^$ctag=user_child|user_regurlar
@@ -2022,7 +1959,6 @@
 ||8yzu3xhm9f.s3.us-south.objectstorage.softlayer.net^$ctag=user_child|user_regurlar
 ||9-app.com^$ctag=user_child|user_regurlar
 ||9-sns20.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
-||9.1.acesskenya.net^$ctag=user_child|user_regurlar
 ||90-live.com^$ctag=user_child|user_regurlar
 ||900412-coinbase.com^$ctag=user_child|user_regurlar
 ||90164ghhffhhgfgfddgdnewomoihustleds1ooshuooooooooooo.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
@@ -2030,6 +1966,7 @@
 ||903650-kraken.com^$ctag=user_child|user_regurlar
 ||904321-coinbase.com^$ctag=user_child|user_regurlar
 ||90464ghhffhhgfgfddgdnewomoihustleds1ooshuooooooooooo.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
+||9068b4e84c812001ecab3ddc66da29b0.loophole.site^$ctag=user_child|user_regurlar
 ||906ad02f.cdnf.cc^$ctag=user_child|user_regurlar
 ||907-live.com^$ctag=user_child|user_regurlar
 ||9071830.hubspotpagebuilder.com^$ctag=user_child|user_regurlar
@@ -2105,6 +2042,7 @@
 ||94612-icloud.com^$ctag=user_child|user_regurlar
 ||947839-coinbase.com^$ctag=user_child|user_regurlar
 ||948126-coinbase.com^$ctag=user_child|user_regurlar
+||94c37e2e72eeb7f939672573653dee49.loophole.site^$ctag=user_child|user_regurlar
 ||95-art.com^$ctag=user_child|user_regurlar
 ||9502034-coinbase.com^$ctag=user_child|user_regurlar
 ||953113-coinbase.com^$ctag=user_child|user_regurlar
@@ -2128,7 +2066,6 @@
 ||972405-coinbase.com^$ctag=user_child|user_regurlar
 ||97321-coinbase.com^$ctag=user_child|user_regurlar
 ||975397308-5383683-63338uy535.s3-sa-east-1.amazonaws.com^$ctag=user_child|user_regurlar
-||98.5.acesskenya.net^$ctag=user_child|user_regurlar
 ||980493-coinbase.com^$ctag=user_child|user_regurlar
 ||98131-gmail.com^$ctag=user_child|user_regurlar
 ||9823472-coinbase.com^$ctag=user_child|user_regurlar
@@ -2167,10 +2104,8 @@
 ||9ed516d747f70c4ed39a18f7fbb7d4b1.s3-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||9eisofmk.s3.eu-west-3.amazonaws.com^$ctag=user_child|user_regurlar
 ||9enternecera.ru.com^$ctag=user_child|user_regurlar
-||9fzkfyhbtr.localto.net^$ctag=user_child|user_regurlar
 ||9hddformalds.s3.ca-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||9hkhfgfkhgjg.s3-sa-east-1.amazonaws.com^$ctag=user_child|user_regurlar
-||9ju3rdlvz.localto.net^$ctag=user_child|user_regurlar
 ||9mltg07b.slt-dk.sched.tdnsv8.com^$ctag=user_child|user_regurlar
 ||9mm-works.com^$ctag=user_child|user_regurlar
 ||9ns1.com^$ctag=user_child|user_regurlar
@@ -2181,7 +2116,6 @@
 ||9ue7dgf.ctk9akio.eu.org^$ctag=user_child|user_regurlar
 ||9vyzdk8.lvditoys.com^$ctag=user_child|user_regurlar
 ||9x3wet0k5wr70xo5.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
-||9xuj2tcnm.localto.net^$ctag=user_child|user_regurlar
 ||a-appstore.com^$ctag=user_child|user_regurlar
 ||a-atendimento-portal.shop^$ctag=user_child|user_regurlar
 ||a-atomic.co.com^$ctag=user_child|user_regurlar
@@ -2204,6 +2138,7 @@
 ||a.kambistory.ml^$ctag=user_child|user_regurlar
 ||a.magsrv.com^$ctag=user_child|user_regurlar
 ||a.pinggy.io^$ctag=user_child|user_regurlar
+||a.pinggy.link^$ctag=user_child|user_regurlar
 ||a.seven-st.com^$ctag=user_child|user_regurlar
 ||a.tiscali.co.uk^$ctag=user_child|user_regurlar
 ||a.vmlog.dpdns.org^$ctag=user_child|user_regurlar
@@ -2214,11 +2149,12 @@
 ||a0606fd403668c961e9c-2735b9aa10f99e23cb0338f1a0bdc577.ssl.cf2.rackcdn.com^$ctag=user_child|user_regurlar
 ||a081f151sswfw38-s-school.thinkific.com^$ctag=user_child|user_regurlar
 ||a0bbdeccb1a0c5ebe68aa23bd1966ef5.s3.amazonaws.com^$ctag=user_child|user_regurlar
+||a1.pic.aaqyezznsdjhliu.top^$ctag=user_child|user_regurlar
 ||a101-online.sa.com^$ctag=user_child|user_regurlar
 ||a1027663760.eicp.net^$ctag=user_child|user_regurlar
 ||a11-tokoione-ro-jp.net^$ctag=user_child|user_regurlar
 ||a11xxx1.oss-cn-hongkong.aliyuncs.com^$ctag=user_child|user_regurlar
-||a11ybar.a11ybar.com^$ctag=user_child|user_regurlar
+||a11ybar.com^$ctag=user_child|user_regurlar
 ||a12xxx1.oss-cn-hongkong.aliyuncs.com^$ctag=user_child|user_regurlar
 ||a130885.hostde41.fornex.host^$ctag=user_child|user_regurlar
 ||a131958.hostnl03.fornex.host^$ctag=user_child|user_regurlar
@@ -2265,6 +2201,7 @@
 ||aa-okx.com^$ctag=user_child|user_regurlar
 ||aa.soraccff.eu.org^$ctag=user_child|user_regurlar
 ||aa1026.oss-ap-southeast-5.aliyuncs.com^$ctag=user_child|user_regurlar
+||aa86a52a98162b7d.com^$ctag=user_child|user_regurlar
 ||aa888.br.com^$ctag=user_child|user_regurlar
 ||aa999bb777.com^$ctag=user_child|user_regurlar
 ||aaa-telegram.com^$ctag=user_child|user_regurlar
@@ -2282,6 +2219,7 @@
 ||aaec-education.com^$ctag=user_child|user_regurlar
 ||aagmaal.farm^$ctag=user_child|user_regurlar
 ||aaibecom-apple.com^$ctag=user_child|user_regurlar
+||aait-sa.com^$ctag=user_child|user_regurlar
 ||aakskkd-sjdsidsm-sjskdssmm.s3-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||aalberts-sharepoint.com^$ctag=user_child|user_regurlar
 ||aandlrestoration.sa.com^$ctag=user_child|user_regurlar
@@ -2300,6 +2238,7 @@
 ||aasdfgsfgsfg.s3.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||aatcwo.biz^$ctag=user_child|user_regurlar
 ||aave-app.com^$ctag=user_child|user_regurlar
+||aave-coin.it.com^$ctag=user_child|user_regurlar
 ||aave-dashbaord.it.com^$ctag=user_child|user_regurlar
 ||aave-gho.eu.com^$ctag=user_child|user_regurlar
 ||aave-interface.com^$ctag=user_child|user_regurlar
@@ -2308,16 +2247,13 @@
 ||aave-stake.com^$ctag=user_child|user_regurlar
 ||aave-us.com^$ctag=user_child|user_regurlar
 ||aave.3v-gho.it.com^$ctag=user_child|user_regurlar
-||aave.aave-coin.it.com^$ctag=user_child|user_regurlar
 ||aave.com.ghovaults.eu.com^$ctag=user_child|user_regurlar
 ||aave.com.ghv.eu.com^$ctag=user_child|user_regurlar
 ||aave.com.lists.eu.com^$ctag=user_child|user_regurlar
 ||aave.exchain.it.com^$ctag=user_child|user_regurlar
 ||aave.exchan.it.com^$ctag=user_child|user_regurlar
-||aave.gho-v3.it.com^$ctag=user_child|user_regurlar
 ||aave.ghosmart.it.com^$ctag=user_child|user_regurlar
 ||aave.new-gho.it.com^$ctag=user_child|user_regurlar
-||aave.protocol-v3.it.com^$ctag=user_child|user_regurlar
 ||aave.smart-update.it.com^$ctag=user_child|user_regurlar
 ||aave.stake-smart.it.com^$ctag=user_child|user_regurlar
 ||aave.v3-gho.it.com^$ctag=user_child|user_regurlar
@@ -2376,7 +2312,6 @@
 ||abizad.eu.org^$ctag=user_child|user_regurlar
 ||abkhaz-sport.ru^$ctag=user_child|user_regurlar
 ||ablog-whatsapp.com^$ctag=user_child|user_regurlar
-||abmtwphx4.localto.net^$ctag=user_child|user_regurlar
 ||abnamro-hr.4me.com^$ctag=user_child|user_regurlar
 ||abnamro.credit360.com^$ctag=user_child|user_regurlar
 ||abncient.za.com^$ctag=user_child|user_regurlar
@@ -2488,6 +2423,7 @@
 ||access-rev.com^$ctag=user_child|user_regurlar
 ||access-scotiabank.com^$ctag=user_child|user_regurlar
 ||access-secured-doc.s3.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
+||access-strategy.com^$ctag=user_child|user_regurlar
 ||access-uid2455.mixh.jp^$ctag=user_child|user_regurlar
 ||access-uphold.com^$ctag=user_child|user_regurlar
 ||access-verify-x.com^$ctag=user_child|user_regurlar
@@ -2555,7 +2491,6 @@
 ||account-facebook.com^$ctag=user_child|user_regurlar
 ||account-fidelity.com^$ctag=user_child|user_regurlar
 ||account-finder.com^$ctag=user_child|user_regurlar
-||account-for-anything.com^$ctag=user_child|user_regurlar
 ||account-gitlab.com^$ctag=user_child|user_regurlar
 ||account-google.com-user.kro.kr^$ctag=user_child|user_regurlar
 ||account-google.fr^$ctag=user_child|user_regurlar
@@ -2636,6 +2571,7 @@
 ||accountingpaymentportalservicesexcel.s3.us-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||accountlock-coinbase.com^$ctag=user_child|user_regurlar
 ||accountpago-co.com^$ctag=user_child|user_regurlar
+||accountplapdesk-support.com^$ctag=user_child|user_regurlar
 ||accountprotection-google.com^$ctag=user_child|user_regurlar
 ||accountprotection-office.com^$ctag=user_child|user_regurlar
 ||accountprotectoin-microsoft.com^$ctag=user_child|user_regurlar
@@ -2698,6 +2634,7 @@
 ||acervancia-ai.com^$ctag=user_child|user_regurlar
 ||acess1.kro.kr^$ctag=user_child|user_regurlar
 ||acessgood.kro.kr^$ctag=user_child|user_regurlar
+||acesskenya.net^$ctag=user_child|user_regurlar
 ||acesso-principal.com^$ctag=user_child|user_regurlar
 ||acessologin-user.com^$ctag=user_child|user_regurlar
 ||acf-producao.s3.amazonaws.com^$ctag=user_child|user_regurlar
@@ -2826,7 +2763,6 @@
 ||ad-seo.com^$ctag=user_child|user_regurlar
 ||ad.9tv.co.il^$ctag=user_child|user_regurlar
 ||ad.cub.red^$ctag=user_child|user_regurlar
-||ad.datadeliver.net^$ctag=user_child|user_regurlar
 ||ad.empressleak.biz^$ctag=user_child|user_regurlar
 ||ad.insightexpressai.com^$ctag=user_child|user_regurlar
 ||ad.khan.co.kr^$ctag=user_child|user_regurlar
@@ -2838,7 +2774,6 @@
 ||adab-news.com^$ctag=user_child|user_regurlar
 ||adac-reims.fr^$ctag=user_child|user_regurlar
 ||adachi-office.com^$ctag=user_child|user_regurlar
-||adaconfirm.my-free.website^$ctag=user_child|user_regurlar
 ||adagio-ca.com^$ctag=user_child|user_regurlar
 ||adam-mfg.com^$ctag=user_child|user_regurlar
 ||adams-ledger.com^$ctag=user_child|user_regurlar
@@ -2915,7 +2850,6 @@
 ||admin-properties-captcha.com^$ctag=user_child|user_regurlar
 ||admin-property-captcha.com^$ctag=user_child|user_regurlar
 ||admin-ru.ru^$ctag=user_child|user_regurlar
-||admin.a11ybar.com^$ctag=user_child|user_regurlar
 ||admin.conekto.it.com^$ctag=user_child|user_regurlar
 ||admin.dev2.daliajobs.com^$ctag=user_child|user_regurlar
 ||admin.gophish-gv.com^$ctag=user_child|user_regurlar
@@ -2977,7 +2911,6 @@
 ||ads.dir.bg^$ctag=user_child|user_regurlar
 ||ads.epi.es^$ctag=user_child|user_regurlar
 ||ads.freshmeat.net^$ctag=user_child|user_regurlar
-||ads.ipowerweb.com^$ctag=user_child|user_regurlar
 ||ads.kseme.kro.kr^$ctag=user_child|user_regurlar
 ||ads.periodistadigital.com^$ctag=user_child|user_regurlar
 ||ads.ru.com^$ctag=user_child|user_regurlar
@@ -2992,14 +2925,10 @@
 ||adsl-84-227-29-70.adslplus.ch^$ctag=user_child|user_regurlar
 ||adsl.mistral.co.uk^$ctag=user_child|user_regurlar
 ||adspower-ru.com^$ctag=user_child|user_regurlar
-||adstat.moyu88.xyz^$ctag=user_child|user_regurlar
-||adstat.ziyemy.shop^$ctag=user_child|user_regurlar
-||adstat2.ziyemy.shop^$ctag=user_child|user_regurlar
 ||adsys-iq.com^$ctag=user_child|user_regurlar
 ||adtech-group.com^$ctag=user_child|user_regurlar
 ||adult-games-hot.com^$ctag=user_child|user_regurlar
 ||adult-video-chat.ru^$ctag=user_child|user_regurlar
-||adult.entame-navi.com^$ctag=user_child|user_regurlar
 ||adultaffili-kasegu.bishoujo.mixh.jp^$ctag=user_child|user_regurlar
 ||adultdating-au.com^$ctag=user_child|user_regurlar
 ||adultere-messenger.com^$ctag=user_child|user_regurlar
@@ -3018,7 +2947,6 @@
 ||advantaxe-300-ai.com^$ctag=user_child|user_regurlar
 ||advanzia-de.com^$ctag=user_child|user_regurlar
 ||advebikp.beer^$ctag=user_child|user_regurlar
-||advent.million.ro^$ctag=user_child|user_regurlar
 ||adventure-ledger.com^$ctag=user_child|user_regurlar
 ||adventure-phone.com^$ctag=user_child|user_regurlar
 ||adventures-dating.com^$ctag=user_child|user_regurlar
@@ -3031,6 +2959,7 @@
 ||advertisers-gemini.com^$ctag=user_child|user_regurlar
 ||advertisingonline-microsoft.com^$ctag=user_child|user_regurlar
 ||advertprob1emat.in.net^$ctag=user_child|user_regurlar
+||adverttise.com^$ctag=user_child|user_regurlar
 ||advice-office.com^$ctag=user_child|user_regurlar
 ||advisor-binance.com^$ctag=user_child|user_regurlar
 ||advisor-gmail.com^$ctag=user_child|user_regurlar
@@ -3038,7 +2967,6 @@
 ||advisor-microsoft.us^$ctag=user_child|user_regurlar
 ||advisor-rv.com^$ctag=user_child|user_regurlar
 ||advisory-office.com^$ctag=user_child|user_regurlar
-||advkundser1779320747500.2451799.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||advserver.asiantb.com^$ctag=user_child|user_regurlar
 ||advud-teei-tuuf.s3-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||adx-amazon.com^$ctag=user_child|user_regurlar
@@ -3052,7 +2980,6 @@
 ||ae-pg.com^$ctag=user_child|user_regurlar
 ||ae-space.com^$ctag=user_child|user_regurlar
 ||ae-zuma-restaurant.com^$ctag=user_child|user_regurlar
-||ae3t4h2.oops.wtf^$ctag=user_child|user_regurlar
 ||ae5e473975.com^$ctag=user_child|user_regurlar
 ||ae86dr.oss-cn-shenzhen.aliyuncs.com^$ctag=user_child|user_regurlar
 ||aed-international.com^$ctag=user_child|user_regurlar
@@ -3082,7 +3009,6 @@
 ||aesthecc.eu.org^$ctag=user_child|user_regurlar
 ||aestheticclinic-uk.com^$ctag=user_child|user_regurlar
 ||aesthetics-digital-office.com^$ctag=user_child|user_regurlar
-||aet2fkdj7.localto.net^$ctag=user_child|user_regurlar
 ||aether-bridge-vip.com^$ctag=user_child|user_regurlar
 ||aether-capital-ai.com^$ctag=user_child|user_regurlar
 ||aether-nexal-ai.com^$ctag=user_child|user_regurlar
@@ -3154,7 +3080,6 @@
 ||agbisiulokompko.sytes.net^$ctag=user_child|user_regurlar
 ||agcon-ahs.com^$ctag=user_child|user_regurlar
 ||agdsagds.kro.kr^$ctag=user_child|user_regurlar
-||ageillaxnv.a.pinggy.link^$ctag=user_child|user_regurlar
 ||agence-contact-server.com^$ctag=user_child|user_regurlar
 ||agence-google.com^$ctag=user_child|user_regurlar
 ||agence-relais-fr.com^$ctag=user_child|user_regurlar
@@ -3172,6 +3097,7 @@
 ||agency-partner-register.com^$ctag=user_child|user_regurlar
 ||agency-reputation.com^$ctag=user_child|user_regurlar
 ||agency-system-gateway.com^$ctag=user_child|user_regurlar
+||agency-usa.com^$ctag=user_child|user_regurlar
 ||agenfile.oss-ap-southeast-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||agent-assist-coinbase.com^$ctag=user_child|user_regurlar
 ||agent-samolet.ru^$ctag=user_child|user_regurlar
@@ -3186,7 +3112,6 @@
 ||aggressity.gb.net^$ctag=user_child|user_regurlar
 ||agil-valtrix-app.com^$ctag=user_child|user_regurlar
 ||agility-business.com^$ctag=user_child|user_regurlar
-||agilitydigitalmedia.com^$ctag=user_child|user_regurlar
 ||agilliamethod.in.net^$ctag=user_child|user_regurlar
 ||agjjhgffffdwdf.nekoweb.org^$ctag=user_child|user_regurlar
 ||agkr1-jip-lkkr.s3-eu-west-1.amazonaws.com^$ctag=user_child|user_regurlar
@@ -3292,7 +3217,6 @@
 ||aika-office.com^$ctag=user_child|user_regurlar
 ||ailindustries.za.com^$ctag=user_child|user_regurlar
 ||aim.pp.ua^$ctag=user_child|user_regurlar
-||aimanenterprisemaju.com.nexus-my.com^$ctag=user_child|user_regurlar
 ||aimar-offers.com^$ctag=user_child|user_regurlar
 ||aimedchain-flow.com^$ctag=user_child|user_regurlar
 ||aimetirapro-app.com^$ctag=user_child|user_regurlar
@@ -3342,6 +3266,7 @@
 ||airqlan-sa.com^$ctag=user_child|user_regurlar
 ||airtellwireless.it.com^$ctag=user_child|user_regurlar
 ||airtransairlines.co.cc^$ctag=user_child|user_regurlar
+||airwide-land.com^$ctag=user_child|user_regurlar
 ||ais-usvisa-info.com^$ctag=user_child|user_regurlar
 ||aisani-blog.com^$ctag=user_child|user_regurlar
 ||aiscore.it.com^$ctag=user_child|user_regurlar
@@ -3353,7 +3278,6 @@
 ||aisingapore-news.com^$ctag=user_child|user_regurlar
 ||aisolution-uk.com^$ctag=user_child|user_regurlar
 ||aisr-office.com^$ctag=user_child|user_regurlar
-||aisth.us.cc^$ctag=user_child|user_regurlar
 ||aisunani.oss-ap-southeast-3.aliyuncs.com^$ctag=user_child|user_regurlar
 ||aitcmr.en.ecplaza.net^$ctag=user_child|user_regurlar
 ||aivera-auto.ru^$ctag=user_child|user_regurlar
@@ -3435,7 +3359,6 @@
 ||alan-donaldson.com^$ctag=user_child|user_regurlar
 ||alan.it.com^$ctag=user_child|user_regurlar
 ||alanjal-online.com^$ctag=user_child|user_regurlar
-||alannapornstar.miyuhot.com^$ctag=user_child|user_regurlar
 ||alanteentila.teamtailor.com^$ctag=user_child|user_regurlar
 ||alarabi-kw.com^$ctag=user_child|user_regurlar
 ||alarabiya-live.net^$ctag=user_child|user_regurlar
@@ -3446,10 +3369,8 @@
 ||alaska.xhamster.desi^$ctag=user_child|user_regurlar
 ||alb-bumpyard-webservers-1450783685.eu-west-1.elb.amazonaws.com^$ctag=user_child|user_regurlar
 ||albamariagilflores1764352049831.0410236.misitiohostgator.com^$ctag=user_child|user_regurlar
-||alberafara.com^$ctag=user_child|user_regurlar
 ||albertdigital-ai.com^$ctag=user_child|user_regurlar
 ||alberteddy.podia.com^$ctag=user_child|user_regurlar
-||albertetienne1752715747611.0140026.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||albhuytr1.s3.ap-south-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||albion.zzz.com.ua^$ctag=user_child|user_regurlar
 ||alchemer-space.com^$ctag=user_child|user_regurlar
@@ -3498,10 +3419,8 @@
 ||alexanderprojectmanagement.uk.com^$ctag=user_child|user_regurlar
 ||alexandra-daddario.com^$ctag=user_child|user_regurlar
 ||alexej-borovickov.narod2.ru^$ctag=user_child|user_regurlar
-||alexialuis1756054415000.0251005.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||alexisbeaver-ep.com^$ctag=user_child|user_regurlar
 ||alexisfernandez.doodlekit.com^$ctag=user_child|user_regurlar
-||alexsoff.com^$ctag=user_child|user_regurlar
 ||alfa-www.ru^$ctag=user_child|user_regurlar
 ||alfa.alwaysdata.net^$ctag=user_child|user_regurlar
 ||alfa.br.com^$ctag=user_child|user_regurlar
@@ -3625,7 +3544,6 @@
 ||alliancetg-us.com^$ctag=user_child|user_regurlar
 ||alliber-n8n.cloud^$ctag=user_child|user_regurlar
 ||alliedglobalwealthscoin-online.com^$ctag=user_child|user_regurlar
-||allinline.localto.net^$ctag=user_child|user_regurlar
 ||allinonemessenger.oss-cn-shenzhen.aliyuncs.com^$ctag=user_child|user_regurlar
 ||allmy.bio^$ctag=user_child|user_regurlar
 ||allo-bisnis.com^$ctag=user_child|user_regurlar
@@ -3767,7 +3685,6 @@
 ||always-happy-fortune.com^$ctag=user_child|user_regurlar
 ||alxl13.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||alza-group.com^$ctag=user_child|user_regurlar
-||alza7f.localto.net^$ctag=user_child|user_regurlar
 ||alzabitmarea-ai.com^$ctag=user_child|user_regurlar
 ||alzaher-group.com^$ctag=user_child|user_regurlar
 ||alzahrani-online.com^$ctag=user_child|user_regurlar
@@ -3835,6 +3752,7 @@
 ||amazonaws-assets-secure-node-aws-views.s3.us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||amazonaws-assets-secure-nodes-assets-view.s3.us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||amazoncdns.com^$ctag=user_child|user_regurlar
+||amazone-s3.com^$ctag=user_child|user_regurlar
 ||amazonprime-ch.com^$ctag=user_child|user_regurlar
 ||amazonsale-tr.com^$ctag=user_child|user_regurlar
 ||amazzamboni.sites.uol.com.br^$ctag=user_child|user_regurlar
@@ -3895,7 +3813,6 @@
 ||aml-check24.com^$ctag=user_child|user_regurlar
 ||aml-checkfree.com^$ctag=user_child|user_regurlar
 ||aml-crypto-bot.one^$ctag=user_child|user_regurlar
-||aml-neat.com^$ctag=user_child|user_regurlar
 ||aml-security.org^$ctag=user_child|user_regurlar
 ||aml-sumsub.com^$ctag=user_child|user_regurlar
 ||aml-wise.com^$ctag=user_child|user_regurlar
@@ -3956,7 +3873,6 @@
 ||anago-avocat.fr^$ctag=user_child|user_regurlar
 ||anahatayoga-berlin.de^$ctag=user_child|user_regurlar
 ||anak-test.com^$ctag=user_child|user_regurlar
-||anal-belle-claire.tiktok-pornhub.com^$ctag=user_child|user_regurlar
 ||analisis-luxogenia-ai.com^$ctag=user_child|user_regurlar
 ||analniy4ervyak.zzz.com.ua^$ctag=user_child|user_regurlar
 ||analog-advise-683c9199.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
@@ -3970,7 +3886,6 @@
 ||analytics-office.com^$ctag=user_child|user_regurlar
 ||analytics-stats.com^$ctag=user_child|user_regurlar
 ||analytics.bkav.com^$ctag=user_child|user_regurlar
-||analytics.cherry-ai.com^$ctag=user_child|user_regurlar
 ||analytics.notube.lol^$ctag=user_child|user_regurlar
 ||analytics.qzz.io^$ctag=user_child|user_regurlar
 ||analytics.trackview.net^$ctag=user_child|user_regurlar
@@ -4014,11 +3929,6 @@
 ||andmexbit-engine.com^$ctag=user_child|user_regurlar
 ||andr-vavada.com^$ctag=user_child|user_regurlar
 ||andreasmaschke.s3.amazonaws.com^$ctag=user_child|user_regurlar
-||andrefelipedonascime1753562407700.0461178.meusitehostgator.com.br^$ctag=user_child|user_regurlar
-||andrefelipedonascime1756166725866.0531865.meusitehostgator.com.br^$ctag=user_child|user_regurlar
-||andrefelipedonascime1768785037020.1552093.meusitehostgator.com.br^$ctag=user_child|user_regurlar
-||andrefelipedonascime1772127941945.0062186.meusitehostgator.com.br^$ctag=user_child|user_regurlar
-||andrefelipedonascime1775471117328.2082219.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||andrew-churchill.com^$ctag=user_child|user_regurlar
 ||androclinia-segregationists.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||android-96.do.am^$ctag=user_child|user_regurlar
@@ -4046,7 +3956,6 @@
 ||angst-frankfurt.de^$ctag=user_child|user_regurlar
 ||ani-jut.su^$ctag=user_child|user_regurlar
 ||anibalgaytan1768838866071.0530257.misitiohostgator.com^$ctag=user_child|user_regurlar
-||animalpornvide.sexjanet.com^$ctag=user_child|user_regurlar
 ||animalsdesignsil.it.com^$ctag=user_child|user_regurlar
 ||animaniac-fr.com^$ctag=user_child|user_regurlar
 ||animes-sama.fr^$ctag=user_child|user_regurlar
@@ -4054,8 +3963,6 @@
 ||anindakm.sa.com^$ctag=user_child|user_regurlar
 ||aninis.sa.com^$ctag=user_child|user_regurlar
 ||anioswin.ru.com^$ctag=user_child|user_regurlar
-||aniskilian1750341119799.2261277.meusitehostgator.com.br^$ctag=user_child|user_regurlar
-||anixtv.us.cc^$ctag=user_child|user_regurlar
 ||anjia-life.com^$ctag=user_child|user_regurlar
 ||ankr-app.com^$ctag=user_child|user_regurlar
 ||anlage-wissenschaft.de^$ctag=user_child|user_regurlar
@@ -4067,6 +3974,7 @@
 ||annawonderful.sellfy.store^$ctag=user_child|user_regurlar
 ||anne-frank-house-tickets.com^$ctag=user_child|user_regurlar
 ||annie-deluxe.com^$ctag=user_child|user_regurlar
+||annie-home.com^$ctag=user_child|user_regurlar
 ||annietours.ru.com^$ctag=user_child|user_regurlar
 ||anniversaryclaim.dpdns.org^$ctag=user_child|user_regurlar
 ||annonces-offres-leboncoin.fr^$ctag=user_child|user_regurlar
@@ -4220,7 +4128,7 @@
 ||api-bmtestserver-com.web01-bearingmatrix-com.vps.ezhostingserver.com^$ctag=user_child|user_regurlar
 ||api-booking.com^$ctag=user_child|user_regurlar
 ||api-cdnx-whatsapp.com^$ctag=user_child|user_regurlar
-||api-china.com.cn^$ctag=user_child|user_regurlar
+||api-dc-prod-001.cyou^$ctag=user_child|user_regurlar
 ||api-gateway-prod.com^$ctag=user_child|user_regurlar
 ||api-integrate.com^$ctag=user_child|user_regurlar
 ||api-internal-qa-sprint7.dev.centre.rdd.refinitiv.com^$ctag=user_child|user_regurlar
@@ -4238,7 +4146,6 @@
 ||api-spotify.net^$ctag=user_child|user_regurlar
 ||api-supreme.com^$ctag=user_child|user_regurlar
 ||api-sync-whatsapp.com^$ctag=user_child|user_regurlar
-||api.a11ybar.com^$ctag=user_child|user_regurlar
 ||api.aleonhard-int.azure-test.net^$ctag=user_child|user_regurlar
 ||api.baspo.exigo.ch^$ctag=user_child|user_regurlar
 ||api.dareck.it.com^$ctag=user_child|user_regurlar
@@ -4260,14 +4167,7 @@
 ||api.update2021.oppo.cn.cdn.dnsv1.com.cn^$ctag=user_child|user_regurlar
 ||api.v8club-shopify.com^$ctag=user_child|user_regurlar
 ||api1-jquery.com^$ctag=user_child|user_regurlar
-||api1.cghhqca.cc^$ctag=user_child|user_regurlar
-||api1.colatv88xd.cc^$ctag=user_child|user_regurlar
-||api17.colatv88xd.cc^$ctag=user_child|user_regurlar
-||api19.colatv88xd.cc^$ctag=user_child|user_regurlar
-||api20.colatv88xd.cc^$ctag=user_child|user_regurlar
 ||api4.my-ip.io^$ctag=user_child|user_regurlar
-||api7.colatv88xd.cc^$ctag=user_child|user_regurlar
-||api9.colatv88xd.cc^$ctag=user_child|user_regurlar
 ||apifito.pp.ua^$ctag=user_child|user_regurlar
 ||apifox.it.com^$ctag=user_child|user_regurlar
 ||apify-uploads-prod.s3.us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
@@ -4275,7 +4175,6 @@
 ||apiquerymtls-netflix.cieloecommerce.cielo.com.br^$ctag=user_child|user_regurlar
 ||apiquerymtls-sandbox-netflix.cieloecommerce.cielo.com.br^$ctag=user_child|user_regurlar
 ||apis-roblox.com^$ctag=user_child|user_regurlar
-||apis.cyberprotector.online^$ctag=user_child|user_regurlar
 ||apiswisspass.cluster1.easy-hebergement.net^$ctag=user_child|user_regurlar
 ||apit-sa.com^$ctag=user_child|user_regurlar
 ||apiurl.hs-sites.com^$ctag=user_child|user_regurlar
@@ -4310,7 +4209,6 @@
 ||apollus24.com.com^$ctag=user_child|user_regurlar
 ||apolo.urltemporal.com^$ctag=user_child|user_regurlar
 ||apolon.it.com^$ctag=user_child|user_regurlar
-||apornladies.miyuhot.com^$ctag=user_child|user_regurlar
 ||apos.it.com^$ctag=user_child|user_regurlar
 ||aposte-br.com^$ctag=user_child|user_regurlar
 ||apotheka-online.com^$ctag=user_child|user_regurlar
@@ -4452,8 +4350,8 @@
 ||app-vinci.com^$ctag=user_child|user_regurlar
 ||app-web-whatsapp.com^$ctag=user_child|user_regurlar
 ||app-web-whatsapp.net^$ctag=user_child|user_regurlar
+||app-zh-k1sports-play.com^$ctag=user_child|user_regurlar
 ||app-zoom.com^$ctag=user_child|user_regurlar
-||app.a11ybar.com^$ctag=user_child|user_regurlar
 ||app.aavcsr.eu.com^$ctag=user_child|user_regurlar
 ||app.aaverr.eu.com^$ctag=user_child|user_regurlar
 ||app.aavers.eu.com^$ctag=user_child|user_regurlar
@@ -4493,6 +4391,7 @@
 ||app.pixard-movies.com^$ctag=user_child|user_regurlar
 ||app.promosagora.za.com^$ctag=user_child|user_regurlar
 ||app.qq8893.com^$ctag=user_child|user_regurlar
+||app.rdstation.email^$ctag=user_child|user_regurlar
 ||app.rebirth-your-essence.com^$ctag=user_child|user_regurlar
 ||app.resgatclient.ru.com^$ctag=user_child|user_regurlar
 ||app.resgatepremiado.sa.com^$ctag=user_child|user_regurlar
@@ -4526,16 +4425,16 @@
 ||appbk-whatsapp.com^$ctag=user_child|user_regurlar
 ||appbl-whatsapp.com^$ctag=user_child|user_regurlar
 ||appbm-whatsapp.com^$ctag=user_child|user_regurlar
+||appbs-whatsapp.com^$ctag=user_child|user_regurlar
 ||appc-telegram.com^$ctag=user_child|user_regurlar
 ||appc-vista.com^$ctag=user_child|user_regurlar
 ||appchrolista.s3.amazonaws.com^$ctag=user_child|user_regurlar
 ||appclickidren.hosted.phplist.com^$ctag=user_child|user_regurlar
 ||appcraft-academy.com^$ctag=user_child|user_regurlar
+||appcz-whatsapp.com^$ctag=user_child|user_regurlar
 ||appd-expressvpn.com^$ctag=user_child|user_regurlar
 ||appealcontent-x.com^$ctag=user_child|user_regurlar
 ||appealcontentissue-x.com^$ctag=user_child|user_regurlar
-||appealcontentpost-x.com^$ctag=user_child|user_regurlar
-||appealcontentposts-x.com^$ctag=user_child|user_regurlar
 ||appealcontentsx-x.com^$ctag=user_child|user_regurlar
 ||appealcontentx-x.com^$ctag=user_child|user_regurlar
 ||appealdmcaissue-x.com^$ctag=user_child|user_regurlar
@@ -4544,25 +4443,20 @@
 ||appealhelpform.ueuo.com^$ctag=user_child|user_regurlar
 ||appealissuesx-x.com^$ctag=user_child|user_regurlar
 ||appealissuex-x.com^$ctag=user_child|user_regurlar
-||appealitem-x.com^$ctag=user_child|user_regurlar
-||appealitems-x.com^$ctag=user_child|user_regurlar
-||appealnow-x.com^$ctag=user_child|user_regurlar
 ||appealportalx-x.com^$ctag=user_child|user_regurlar
 ||appealpostissue-x.com^$ctag=user_child|user_regurlar
 ||appealpostissues-x.com^$ctag=user_child|user_regurlar
 ||appealpostsx-x.com^$ctag=user_child|user_regurlar
 ||appealsx-x.com^$ctag=user_child|user_regurlar
-||appealteam-x.com^$ctag=user_child|user_regurlar
 ||appealteams-x.com^$ctag=user_child|user_regurlar
 ||appealteamsx-x.com^$ctag=user_child|user_regurlar
 ||appealteamx-x.com^$ctag=user_child|user_regurlar
 ||appealtickets-x.com^$ctag=user_child|user_regurlar
-||appealx-x.com^$ctag=user_child|user_regurlar
 ||appealxissues-x.com^$ctag=user_child|user_regurlar
 ||appear.oss-eu-central-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||appearlier.eu.org^$ctag=user_child|user_regurlar
 ||appen-ai.com^$ctag=user_child|user_regurlar
-||appeur.gnway.cc^$ctag=user_child|user_regurlar
+||appeo-whatsapp.com^$ctag=user_child|user_regurlar
 ||appfacturation-netflix.com^$ctag=user_child|user_regurlar
 ||appfigures-online.com^$ctag=user_child|user_regurlar
 ||appfinity-home.com^$ctag=user_child|user_regurlar
@@ -4688,6 +4582,7 @@
 ||apple-id.co.com^$ctag=user_child|user_regurlar
 ||apple-in.com^$ctag=user_child|user_regurlar
 ||apple-informa.com^$ctag=user_child|user_regurlar
+||apple-information.com^$ctag=user_child|user_regurlar
 ||apple-jp-co.com^$ctag=user_child|user_regurlar
 ||apple-login-security.com^$ctag=user_child|user_regurlar
 ||apple-m.com^$ctag=user_child|user_regurlar
@@ -4758,6 +4653,7 @@
 ||appnitro-discord.ru.com^$ctag=user_child|user_regurlar
 ||appointment-nerve.com^$ctag=user_child|user_regurlar
 ||appointments-online.com^$ctag=user_child|user_regurlar
+||appollo-plus.com^$ctag=user_child|user_regurlar
 ||apppostesxmx.eu.cc^$ctag=user_child|user_regurlar
 ||appqs-whatsapp.com^$ctag=user_child|user_regurlar
 ||appreciation.com.de^$ctag=user_child|user_regurlar
@@ -4870,7 +4766,6 @@
 ||ara-research.com^$ctag=user_child|user_regurlar
 ||arab-citizen.com^$ctag=user_child|user_regurlar
 ||arab-survey.x0x.online^$ctag=user_child|user_regurlar
-||arabecbbank-ae.com^$ctag=user_child|user_regurlar
 ||arabianoud-online.com^$ctag=user_child|user_regurlar
 ||arabic-blog.com^$ctag=user_child|user_regurlar
 ||arabic-poetry.com^$ctag=user_child|user_regurlar
@@ -4959,7 +4854,6 @@
 ||arging.eu.org^$ctag=user_child|user_regurlar
 ||arha-group.com^$ctag=user_child|user_regurlar
 ||arha-marseille.fr^$ctag=user_child|user_regurlar
-||arhaus-furniture.com^$ctag=user_child|user_regurlar
 ||arhibooks.radio.fm^$ctag=user_child|user_regurlar
 ||aria-hidden.com^$ctag=user_child|user_regurlar
 ||arib-sa.com^$ctag=user_child|user_regurlar
@@ -5039,7 +4933,6 @@
 ||artinfo.tempsite.ws^$ctag=user_child|user_regurlar
 ||artist-group.com^$ctag=user_child|user_regurlar
 ||artist-ledger.com^$ctag=user_child|user_regurlar
-||artmilfilmes.com.9377baab53eb4c5782491761684067229.1381985.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||artre3.fvds.ru^$ctag=user_child|user_regurlar
 ||arts-and-nature.org^$ctag=user_child|user_regurlar
 ||arts-classic.com^$ctag=user_child|user_regurlar
@@ -5054,7 +4947,6 @@
 ||arvest-arvest.com^$ctag=user_child|user_regurlar
 ||arvest-info.com^$ctag=user_child|user_regurlar
 ||arvestsecurity-auth.com^$ctag=user_child|user_regurlar
-||arweave.mainnet.irys.xyz^$ctag=user_child|user_regurlar
 ||arwes-t.com^$ctag=user_child|user_regurlar
 ||as-q.com^$ctag=user_child|user_regurlar
 ||as-telegram.org^$ctag=user_child|user_regurlar
@@ -5117,7 +5009,6 @@
 ||asianfucking-nextdoor.co.uk^$ctag=user_child|user_regurlar
 ||asianfucking-nextdoor.com^$ctag=user_child|user_regurlar
 ||asiano-restaurant.com^$ctag=user_child|user_regurlar
-||asianpornstarmovie.tiktok-pornhub.com^$ctag=user_child|user_regurlar
 ||asianswitch.gb.net^$ctag=user_child|user_regurlar
 ||asiantop.co.cc^$ctag=user_child|user_regurlar
 ||asiapay-carousell.com^$ctag=user_child|user_regurlar
@@ -5146,7 +5037,6 @@
 ||asl-company.ru^$ctag=user_child|user_regurlar
 ||asl-logistics.com^$ctag=user_child|user_regurlar
 ||asm.it.com^$ctag=user_child|user_regurlar
-||asmaa-a.com^$ctag=user_child|user_regurlar
 ||asocijacijagljivara.fungi.mycpanel.rs^$ctag=user_child|user_regurlar
 ||asocks.com^$ctag=user_child|user_regurlar
 ||asoftcro-micrae-tohfcve.s3-ap-southeast-2.amazonaws.com^$ctag=user_child|user_regurlar
@@ -5155,7 +5045,6 @@
 ||aspire-io.com^$ctag=user_child|user_regurlar
 ||aspireapp-my.com^$ctag=user_child|user_regurlar
 ||aspmx-google.com^$ctag=user_child|user_regurlar
-||asri.circleone.net.id^$ctag=user_child|user_regurlar
 ||assa-land.com^$ctag=user_child|user_regurlar
 ||assenmacher-online.de^$ctag=user_child|user_regurlar
 ||asseppn.forum^$ctag=user_child|user_regurlar
@@ -5244,7 +5133,6 @@
 ||asuri.s3.amazonaws.com^$ctag=user_child|user_regurlar
 ||asurion-idp.com^$ctag=user_child|user_regurlar
 ||asus-service-msk.ru^$ctag=user_child|user_regurlar
-||asznz.us.cc^$ctag=user_child|user_regurlar
 ||at-pse.com^$ctag=user_child|user_regurlar
 ||at-slon3.cc^$ctag=user_child|user_regurlar
 ||at-slon4.cc^$ctag=user_child|user_regurlar
@@ -5284,8 +5172,8 @@
 ||atlasox.s3.amazonaws.com^$ctag=user_child|user_regurlar
 ||atlaspros-fr.com^$ctag=user_child|user_regurlar
 ||atlgqc.xyz^$ctag=user_child|user_regurlar
-||atlretf7m.localto.net^$ctag=user_child|user_regurlar
 ||atm-es.com^$ctag=user_child|user_regurlar
+||atmos-hawaii.com^$ctag=user_child|user_regurlar
 ||atmost.oss-ap-northeast-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||atn-uk.com^$ctag=user_child|user_regurlar
 ||atnlftea220.xxxxxxxx.jp^$ctag=user_child|user_regurlar
@@ -5300,6 +5188,7 @@
 ||atossa-immigration.com^$ctag=user_child|user_regurlar
 ||atrium-gs.com^$ctag=user_child|user_regurlar
 ||att-87ihk51.gamma.site^$ctag=user_child|user_regurlar
+||att-assist.com^$ctag=user_child|user_regurlar
 ||att-credit.com^$ctag=user_child|user_regurlar
 ||att-download.com^$ctag=user_child|user_regurlar
 ||att-go.com^$ctag=user_child|user_regurlar
@@ -5343,7 +5232,6 @@
 ||auc.ru.com^$ctag=user_child|user_regurlar
 ||aucma-cn.com^$ctag=user_child|user_regurlar
 ||auction-dom.ru^$ctag=user_child|user_regurlar
-||auction-live.com^$ctag=user_child|user_regurlar
 ||audatech-usa.com^$ctag=user_child|user_regurlar
 ||audi-revolut.com^$ctag=user_child|user_regurlar
 ||audifort-up.com^$ctag=user_child|user_regurlar
@@ -5452,7 +5340,6 @@
 ||auth-webull-v2-online.com^$ctag=user_child|user_regurlar
 ||auth-wps.com^$ctag=user_child|user_regurlar
 ||auth-youtube.com^$ctag=user_child|user_regurlar
-||auth.a11ybar.com^$ctag=user_child|user_regurlar
 ||auth.checkserviceblog.kro.kr^$ctag=user_child|user_regurlar
 ||auth.drp.su^$ctag=user_child|user_regurlar
 ||auth.eboard-blog.kro.kr^$ctag=user_child|user_regurlar
@@ -5675,7 +5562,6 @@
 ||ax00022.s3.us-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||ax00023.s3.us-west-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||ax00024.s3.us-west-1.amazonaws.com^$ctag=user_child|user_regurlar
-||ax8h9m7lf.localto.net^$ctag=user_child|user_regurlar
 ||axa-insurance-blockchain.com^$ctag=user_child|user_regurlar
 ||axa4o7z34jxj.objectstorage.ap-batam-1.oci.customer-oci.com^$ctag=user_child|user_regurlar
 ||axaron.com.de^$ctag=user_child|user_regurlar
@@ -5764,9 +5650,7 @@
 ||b-world.org^$ctag=user_child|user_regurlar
 ||b.zjss.eu.org^$ctag=user_child|user_regurlar
 ||b04iai9xmvjagipqm6fg.s3.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
-||b0dnyoxrn.localto.net^$ctag=user_child|user_regurlar
 ||b1e44f9a11.com^$ctag=user_child|user_regurlar
-||b1upxpt.localto.net^$ctag=user_child|user_regurlar
 ||b1wr1337.zzz.com.ua^$ctag=user_child|user_regurlar
 ||b205.fajnnet.he.cust.gts.sk^$ctag=user_child|user_regurlar
 ||b24-24vc4g.bitrix24.site^$ctag=user_child|user_regurlar
@@ -5782,6 +5666,7 @@
 ||b2c.2go-mobile.net.hosting.internet1.de^$ctag=user_child|user_regurlar
 ||b2i-digital.com^$ctag=user_child|user_regurlar
 ||b34fdbe934.com^$ctag=user_child|user_regurlar
+||b39252dcf20bbf89fcc140a5eff8688e.loophole.site^$ctag=user_child|user_regurlar
 ||b3953dfb4c.com^$ctag=user_child|user_regurlar
 ||b46.oss-cn-hongkong.aliyuncs.com^$ctag=user_child|user_regurlar
 ||b4lry1.co.cc^$ctag=user_child|user_regurlar
@@ -5808,7 +5693,6 @@
 ||babo-therapie.de^$ctag=user_child|user_regurlar
 ||baby-guardian.com^$ctag=user_child|user_regurlar
 ||baby-match.com^$ctag=user_child|user_regurlar
-||baby-slut.com.488442.prohoster.xyz^$ctag=user_child|user_regurlar
 ||babyausstattung-de.com^$ctag=user_child|user_regurlar
 ||babybay-de.com^$ctag=user_child|user_regurlar
 ||babyboomboomads.com^$ctag=user_child|user_regurlar
@@ -5819,6 +5703,7 @@
 ||babyroom-shop.com^$ctag=user_child|user_regurlar
 ||babyseat-shop.com^$ctag=user_child|user_regurlar
 ||bacan4d.jp.net^$ctag=user_child|user_regurlar
+||baccredomatia.eu.cc^$ctag=user_child|user_regurlar
 ||bachi-base.com^$ctag=user_child|user_regurlar
 ||bachiller.uct.cl^$ctag=user_child|user_regurlar
 ||back-pump.fun^$ctag=user_child|user_regurlar
@@ -5983,6 +5868,8 @@
 ||barber-online.de^$ctag=user_child|user_regurlar
 ||barbero.us.com^$ctag=user_child|user_regurlar
 ||barclays-group.com^$ctag=user_child|user_regurlar
+||barclays-international.com^$ctag=user_child|user_regurlar
+||barclayvalnor-engine.com^$ctag=user_child|user_regurlar
 ||barcraft-fx.com^$ctag=user_child|user_regurlar
 ||bardem-offers.com^$ctag=user_child|user_regurlar
 ||bardersanber.clickfunnels.com^$ctag=user_child|user_regurlar
@@ -6040,6 +5927,7 @@
 ||batandball.in.net^$ctag=user_child|user_regurlar
 ||batelco.it.com^$ctag=user_child|user_regurlar
 ||bates-boots.com^$ctag=user_child|user_regurlar
+||batman-gateway.com^$ctag=user_child|user_regurlar
 ||battlecobra.za.com^$ctag=user_child|user_regurlar
 ||battolka.sa.com^$ctag=user_child|user_regurlar
 ||battrf.xyz^$ctag=user_child|user_regurlar
@@ -6098,7 +5986,6 @@
 ||bbvamovil-inicio-app.com^$ctag=user_child|user_regurlar
 ||bbvamovil-webs.com^$ctag=user_child|user_regurlar
 ||bbvla.it.com^$ctag=user_child|user_regurlar
-||bbvlljwwd.localto.net^$ctag=user_child|user_regurlar
 ||bbw59file.oss-accelerate.aliyuncs.com^$ctag=user_child|user_regurlar
 ||bbwgirl-nextdoor.co.uk^$ctag=user_child|user_regurlar
 ||bbwgirl-nextdoor.com^$ctag=user_child|user_regurlar
@@ -6119,7 +6006,6 @@
 ||bcgroup-sa.com^$ctag=user_child|user_regurlar
 ||bci-cl.com^$ctag=user_child|user_regurlar
 ||bck-telegram-w.org^$ctag=user_child|user_regurlar
-||bclub.us.cc^$ctag=user_child|user_regurlar
 ||bcn.pool.minergate.com^$ctag=user_child|user_regurlar
 ||bcn.vip.pool.minergate.com^$ctag=user_child|user_regurlar
 ||bcns-shop.com^$ctag=user_child|user_regurlar
@@ -6144,7 +6030,6 @@
 ||bdirectdownload-about.com^$ctag=user_child|user_regurlar
 ||bdkb0.ru.com^$ctag=user_child|user_regurlar
 ||bdo-ai.cc^$ctag=user_child|user_regurlar
-||bdo-bnd.us.cc^$ctag=user_child|user_regurlar
 ||bdo-ph.eu.cc^$ctag=user_child|user_regurlar
 ||bdo-shop.com^$ctag=user_child|user_regurlar
 ||bdo-web.com^$ctag=user_child|user_regurlar
@@ -6159,6 +6044,7 @@
 ||be-loaded.com^$ctag=user_child|user_regurlar
 ||be-mad-learning.com^$ctag=user_child|user_regurlar
 ||be-space.com^$ctag=user_child|user_regurlar
+||be00ac3c008c6258932d59fa71e42835.loophole.site^$ctag=user_child|user_regurlar
 ||beabipio.com.de^$ctag=user_child|user_regurlar
 ||beachshades.co.com^$ctag=user_child|user_regurlar
 ||beacon-securstead-ai.com^$ctag=user_child|user_regurlar
@@ -6171,6 +6057,7 @@
 ||beapiodrou.ru.com^$ctag=user_child|user_regurlar
 ||beapotrou.ru.com^$ctag=user_child|user_regurlar
 ||bear-ad.oss-us-west-1.aliyuncs.com^$ctag=user_child|user_regurlar
+||bear-into-boots.com^$ctag=user_child|user_regurlar
 ||bear.ru.com^$ctag=user_child|user_regurlar
 ||beast-auth.com^$ctag=user_child|user_regurlar
 ||beast-creators.com^$ctag=user_child|user_regurlar
@@ -6190,7 +6077,6 @@
 ||beauty9-youtube.com^$ctag=user_child|user_regurlar
 ||beautypluscamera.oss-ap-northeast-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||beazeati.sa.com^$ctag=user_child|user_regurlar
-||beblbdzjhs.a.pinggy.link^$ctag=user_child|user_regurlar
 ||bebra-dev.com^$ctag=user_child|user_regurlar
 ||becare-sa.com^$ctag=user_child|user_regurlar
 ||becconsulting.remotewebaccess.com^$ctag=user_child|user_regurlar
@@ -6239,6 +6125,7 @@
 ||belvontrex-ai.com^$ctag=user_child|user_regurlar
 ||bem.unja.ac.id^$ctag=user_child|user_regurlar
 ||bemealspace.com.de^$ctag=user_child|user_regurlar
+||bemobtrcks.com^$ctag=user_child|user_regurlar
 ||benalmadena-es--microsoft.com^$ctag=user_child|user_regurlar
 ||benb-langenberg-amsterdam.nl^$ctag=user_child|user_regurlar
 ||bench-made.com^$ctag=user_child|user_regurlar
@@ -6252,7 +6139,6 @@
 ||benelli-guns.com^$ctag=user_child|user_regurlar
 ||benestimazza-app.com^$ctag=user_child|user_regurlar
 ||benfoster.it.com^$ctag=user_child|user_regurlar
-||benmed1778652514257.2301823.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||benq-vice.s3.us-east-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||benritho.sa.com^$ctag=user_child|user_regurlar
 ||beonlineboo.com^$ctag=user_child|user_regurlar
@@ -6272,6 +6158,7 @@
 ||bershka-france.fr^$ctag=user_child|user_regurlar
 ||bertran.ru.com^$ctag=user_child|user_regurlar
 ||beryx.com.de^$ctag=user_child|user_regurlar
+||beschlaege-markt.de^$ctag=user_child|user_regurlar
 ||bescoin-crypto.com^$ctag=user_child|user_regurlar
 ||besexy-de.com^$ctag=user_child|user_regurlar
 ||besexy-nl.com^$ctag=user_child|user_regurlar
@@ -6350,7 +6237,6 @@
 ||bestjoins-au.com^$ctag=user_child|user_regurlar
 ||bestjoins-au.org^$ctag=user_child|user_regurlar
 ||bestjoins-aus.com^$ctag=user_child|user_regurlar
-||bestmilfsinporn.hotnatalia.com^$ctag=user_child|user_regurlar
 ||bestnow.it.com^$ctag=user_child|user_regurlar
 ||bestone-inc.com^$ctag=user_child|user_regurlar
 ||bestony.club^$ctag=user_child|user_regurlar
@@ -6361,10 +6247,10 @@
 ||bests-datings-haven.com^$ctag=user_child|user_regurlar
 ||bests.zzz.com.ua^$ctag=user_child|user_regurlar
 ||bestservic.in.net^$ctag=user_child|user_regurlar
-||bestsexyblog.com^$ctag=user_child|user_regurlar
 ||besttoolsonline-de.com^$ctag=user_child|user_regurlar
 ||bestupser.awardspace.info^$ctag=user_child|user_regurlar
 ||bestwallet.com.de^$ctag=user_child|user_regurlar
+||bestway-fr.com^$ctag=user_child|user_regurlar
 ||bestway.sa.com^$ctag=user_child|user_regurlar
 ||bestzins-online.com^$ctag=user_child|user_regurlar
 ||bet--office.com^$ctag=user_child|user_regurlar
@@ -6399,7 +6285,6 @@
 ||beta-click.ru^$ctag=user_child|user_regurlar
 ||beta-kering.com^$ctag=user_child|user_regurlar
 ||beta-trustwallet.com^$ctag=user_child|user_regurlar
-||betaashtangayoga1756254981131.0961862.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||betano-online.fr^$ctag=user_child|user_regurlar
 ||betblast-france.fr^$ctag=user_child|user_regurlar
 ||betboom-stake.com^$ctag=user_child|user_regurlar
@@ -6462,6 +6347,8 @@
 ||bfn0807.s3.ap-east-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||bfrbiotech-cn.com^$ctag=user_child|user_regurlar
 ||bfsiapplication.kinsta.cloud^$ctag=user_child|user_regurlar
+||bfsuarl-inc.com^$ctag=user_child|user_regurlar
+||bg-econt-shipment-delivery.com^$ctag=user_child|user_regurlar
 ||bg-helper.kavin.rocks^$ctag=user_child|user_regurlar
 ||bg-live-x.com^$ctag=user_child|user_regurlar
 ||bg-wps.com^$ctag=user_child|user_regurlar
@@ -6478,17 +6365,18 @@
 ||bhabhi-porn.com^$ctag=user_child|user_regurlar
 ||bhagirath-motocorp-khargone-kia.com^$ctag=user_child|user_regurlar
 ||bharalyx-app.com^$ctag=user_child|user_regurlar
+||bharat-healthcare.com^$ctag=user_child|user_regurlar
 ||bharatiya-sakshya-bill.com^$ctag=user_child|user_regurlar
 ||bhdenlinea.frappe.cloud^$ctag=user_child|user_regurlar
 ||bhjasd183.oss-accelerate.aliyuncs.com^$ctag=user_child|user_regurlar
 ||bholauclonline.in.net^$ctag=user_child|user_regurlar
 ||bi-binance.com^$ctag=user_child|user_regurlar
 ||bi-whatsapp.com^$ctag=user_child|user_regurlar
+||bi.live^$ctag=user_child|user_regurlar
 ||bia2clip.co.cc^$ctag=user_child|user_regurlar
 ||biaclienteatendiemento.ru.com^$ctag=user_child|user_regurlar
 ||bian-binance.com^$ctag=user_child|user_regurlar
 ||bian0151.cafe24.com^$ctag=user_child|user_regurlar
-||biancacastrogomes1769819760631.2292159.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||biapontosdigital.ru.com^$ctag=user_child|user_regurlar
 ||biavid.info^$ctag=user_child|user_regurlar
 ||bible-live.com^$ctag=user_child|user_regurlar
@@ -6497,13 +6385,11 @@
 ||bicyclettes-fr.com^$ctag=user_child|user_regurlar
 ||bideo-blog.com^$ctag=user_child|user_regurlar
 ||bideo-chat.com^$ctag=user_child|user_regurlar
-||bidgear.ttrk.io^$ctag=user_child|user_regurlar
 ||bidrudroo.net.ru^$ctag=user_child|user_regurlar
 ||bidu.kro.kr^$ctag=user_child|user_regurlar
 ||biedamsalnkazm-pl.com^$ctag=user_child|user_regurlar
 ||biedronka-lotto.com^$ctag=user_child|user_regurlar
 ||biedronka-pl.com^$ctag=user_child|user_regurlar
-||bienenstock-potsdam.com^$ctag=user_child|user_regurlar
 ||bienlinea.onlineaccount.net^$ctag=user_child|user_regurlar
 ||bierschneider-de.com^$ctag=user_child|user_regurlar
 ||bifa-live.com^$ctag=user_child|user_regurlar
@@ -6659,7 +6545,6 @@
 ||biometrie-carte-public.com^$ctag=user_child|user_regurlar
 ||biomolecular-archaeology.com^$ctag=user_child|user_regurlar
 ||bioqoo.com^$ctag=user_child|user_regurlar
-||bios.jaizioto.sa.com^$ctag=user_child|user_regurlar
 ||biotech-health.com^$ctag=user_child|user_regurlar
 ||biozairio.com.de^$ctag=user_child|user_regurlar
 ||bip-download.com^$ctag=user_child|user_regurlar
@@ -6795,13 +6680,12 @@
 ||bjylhf.oss-ap-southeast-3.aliyuncs.com^$ctag=user_child|user_regurlar
 ||bk-gt.com^$ctag=user_child|user_regurlar
 ||bk-irk.ru^$ctag=user_child|user_regurlar
-||bk7pwxz9yt.localto.net^$ctag=user_child|user_regurlar
 ||bkadbx.za.com^$ctag=user_child|user_regurlar
 ||bkg-fix.com^$ctag=user_child|user_regurlar
+||bkt.clouddn.com^$ctag=user_child|user_regurlar
 ||bkzbkzz.co.cc^$ctag=user_child|user_regurlar
 ||bkzblbk.co.cc^$ctag=user_child|user_regurlar
 ||bl-whatsapp.com^$ctag=user_child|user_regurlar
-||bl4ck.dnsdynamic.com^$ctag=user_child|user_regurlar
 ||blab.za.com^$ctag=user_child|user_regurlar
 ||blablacar.pay.nalozhka.yandex.pochta.sber.pay.id37.aquadacommons.com^$ctag=user_child|user_regurlar
 ||black-ledger.com^$ctag=user_child|user_regurlar
@@ -6823,7 +6707,6 @@
 ||blackjag.s3.eu-north-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||blackops-darknet-link.com^$ctag=user_child|user_regurlar
 ||blackops-url.com^$ctag=user_child|user_regurlar
-||blackpool-live.com^$ctag=user_child|user_regurlar
 ||blackredwhte-pl.com^$ctag=user_child|user_regurlar
 ||blackredwihte-pl.com^$ctag=user_child|user_regurlar
 ||blackrifle.za.com^$ctag=user_child|user_regurlar
@@ -6859,7 +6742,6 @@
 ||blervost-gb.com^$ctag=user_child|user_regurlar
 ||blg-shop.com^$ctag=user_child|user_regurlar
 ||blgmall-shop.com^$ctag=user_child|user_regurlar
-||blhwlxzgy.localto.net^$ctag=user_child|user_regurlar
 ||blindaje-mex.com^$ctag=user_child|user_regurlar
 ||blindchart-pair.com^$ctag=user_child|user_regurlar
 ||blindluck-casino.org^$ctag=user_child|user_regurlar
@@ -6905,7 +6787,6 @@
 ||blog-nequi.com^$ctag=user_child|user_regurlar
 ||blog.microsoftonline-ssl.com^$ctag=user_child|user_regurlar
 ||blog.mygift-giftcardmall.com^$ctag=user_child|user_regurlar
-||blog.sharepoint-microsoft.com^$ctag=user_child|user_regurlar
 ||blog.za.com^$ctag=user_child|user_regurlar
 ||blogcuponess-mx.com^$ctag=user_child|user_regurlar
 ||blogdelbono-mx.com^$ctag=user_child|user_regurlar
@@ -6927,7 +6808,6 @@
 ||blooming.s3.amazonaws.com^$ctag=user_child|user_regurlar
 ||blowjob-xxx.com^$ctag=user_child|user_regurlar
 ||blox-link.net^$ctag=user_child|user_regurlar
-||bloxtools.frii.site^$ctag=user_child|user_regurlar
 ||blportal.rapidns.com^$ctag=user_child|user_regurlar
 ||blrgayxmi.sa.com^$ctag=user_child|user_regurlar
 ||blsecure.s3.eu-north-1.amazonaws.com^$ctag=user_child|user_regurlar
@@ -6939,6 +6819,7 @@
 ||blue-shopping.net^$ctag=user_child|user_regurlar
 ||blue2-sky.com^$ctag=user_child|user_regurlar
 ||blueapron-sg-food.com^$ctag=user_child|user_regurlar
+||blueblackside.com^$ctag=user_child|user_regurlar
 ||bluecat.biz.nf^$ctag=user_child|user_regurlar
 ||bluechip-ai.com^$ctag=user_child|user_regurlar
 ||bluefields-sa.com^$ctag=user_child|user_regurlar
@@ -6970,7 +6851,6 @@
 ||bms-ufuk-live-streamer-ogm-tr.com^$ctag=user_child|user_regurlar
 ||bmscentral.gb.net^$ctag=user_child|user_regurlar
 ||bmtp.oceania.com.au^$ctag=user_child|user_regurlar
-||bmtxf0usc.localto.net^$ctag=user_child|user_regurlar
 ||bmw-ent.com^$ctag=user_child|user_regurlar
 ||bmw.ccb.com.cdn.dnsv1.com.cn^$ctag=user_child|user_regurlar
 ||bmwmt2025mall.sa.com^$ctag=user_child|user_regurlar
@@ -6995,17 +6875,16 @@
 ||bni-ai.com^$ctag=user_child|user_regurlar
 ||bni-life.com^$ctag=user_child|user_regurlar
 ||bni-mail.com^$ctag=user_child|user_regurlar
+||bnicr.eu.cc^$ctag=user_child|user_regurlar
 ||bnidiirect-bni.com^$ctag=user_child|user_regurlar
 ||bniidirect-bni.com^$ctag=user_child|user_regurlar
 ||bnin.net^$ctag=user_child|user_regurlar
-||bnli8khzo.localto.net^$ctag=user_child|user_regurlar
 ||bnp-paribas-france.fr.gd^$ctag=user_child|user_regurlar
 ||bnpp-demo.powerappsportals.com^$ctag=user_child|user_regurlar
 ||bnpparibas-email.com^$ctag=user_child|user_regurlar
 ||bnpparibas-eu.com^$ctag=user_child|user_regurlar
 ||bnpparibasbanque.finance.blog^$ctag=user_child|user_regurlar
 ||boa-manage-control.com^$ctag=user_child|user_regurlar
-||boa-security.com^$ctag=user_child|user_regurlar
 ||boa03auth-online.com^$ctag=user_child|user_regurlar
 ||boa03sec-online.com^$ctag=user_child|user_regurlar
 ||boa05sec-online.com^$ctag=user_child|user_regurlar
@@ -7051,7 +6930,6 @@
 ||bold-fable.com^$ctag=user_child|user_regurlar
 ||bold-stud.com^$ctag=user_child|user_regurlar
 ||boles-water.com^$ctag=user_child|user_regurlar
-||bolinet-st.com^$ctag=user_child|user_regurlar
 ||bollyflix.supply^$ctag=user_child|user_regurlar
 ||bolsa-777.com^$ctag=user_child|user_regurlar
 ||bolt-courier.com^$ctag=user_child|user_regurlar
@@ -7075,6 +6953,7 @@
 ||bonseydesign-evolve.com^$ctag=user_child|user_regurlar
 ||bonseydesign-scale.com^$ctag=user_child|user_regurlar
 ||bontec.in.net^$ctag=user_child|user_regurlar
+||bonus-amazon.com^$ctag=user_child|user_regurlar
 ||bonus-casino-ua.com^$ctag=user_child|user_regurlar
 ||bonus-defisaver.com^$ctag=user_child|user_regurlar
 ||bonus-lighter.xyz^$ctag=user_child|user_regurlar
@@ -7112,7 +6991,6 @@
 ||booking.approve-check-in.com^$ctag=user_child|user_regurlar
 ||booking.check-3ds-eu.com^$ctag=user_child|user_regurlar
 ||booking.ferry-booking.com^$ctag=user_child|user_regurlar
-||booking.guests-info.com^$ctag=user_child|user_regurlar
 ||booking.number-room-eu.com^$ctag=user_child|user_regurlar
 ||booking.reservations-gate.com^$ctag=user_child|user_regurlar
 ||booking.rezerwacja76353-online.com^$ctag=user_child|user_regurlar
@@ -7191,7 +7069,6 @@
 ||bottlebottle-france.fr^$ctag=user_child|user_regurlar
 ||bouceazea.sa.com^$ctag=user_child|user_regurlar
 ||boucruwai.ru.com^$ctag=user_child|user_regurlar
-||boukake.expde-transit-app.com^$ctag=user_child|user_regurlar
 ||boulder-de.com^$ctag=user_child|user_regurlar
 ||boumouwio.it.com^$ctag=user_child|user_regurlar
 ||bountypool-stake.com^$ctag=user_child|user_regurlar
@@ -7419,6 +7296,7 @@
 ||broken-fun.com^$ctag=user_child|user_regurlar
 ||broker-group.com^$ctag=user_child|user_regurlar
 ||broker.hivemq.com^$ctag=user_child|user_regurlar
+||brokerrise-ai.com^$ctag=user_child|user_regurlar
 ||bronvalnex-nl.com^$ctag=user_child|user_regurlar
 ||brook-nhw0bpetal.vorto.sa.com^$ctag=user_child|user_regurlar
 ||brookfarmfestive.sellfy.store^$ctag=user_child|user_regurlar
@@ -7499,6 +7377,7 @@
 ||btc-bitcoin-mixer.com^$ctag=user_child|user_regurlar
 ||btc-convert.com^$ctag=user_child|user_regurlar
 ||btc-eprex-pro-app.com^$ctag=user_child|user_regurlar
+||btc-evex-uk.com^$ctag=user_child|user_regurlar
 ||btc-go.com^$ctag=user_child|user_regurlar
 ||btc-live.com^$ctag=user_child|user_regurlar
 ||btc-rexsol-ai.com^$ctag=user_child|user_regurlar
@@ -7549,6 +7428,7 @@
 ||btvibrant.sellfy.store^$ctag=user_child|user_regurlar
 ||btworldd.ck.page^$ctag=user_child|user_regurlar
 ||btx.it.com^$ctag=user_child|user_regurlar
+||bty-bwin.com^$ctag=user_child|user_regurlar
 ||bty-club-live.com^$ctag=user_child|user_regurlar
 ||bty-nbdl4-backstage.com^$ctag=user_child|user_regurlar
 ||bty-seo2-backstage.com^$ctag=user_child|user_regurlar
@@ -7586,7 +7466,6 @@
 ||bufriocrai.ru.com^$ctag=user_child|user_regurlar
 ||bufrstllarkcdmzxynivrsion.sa.com^$ctag=user_child|user_regurlar
 ||bugallow-force.com^$ctag=user_child|user_regurlar
-||buglwf041.localto.net^$ctag=user_child|user_regurlar
 ||buhlfp.ru.com^$ctag=user_child|user_regurlar
 ||buhuhu.com.de^$ctag=user_child|user_regurlar
 ||build-fight-fun.com^$ctag=user_child|user_regurlar
@@ -7597,12 +7476,10 @@
 ||building-ledger.com^$ctag=user_child|user_regurlar
 ||buildings-one.com^$ctag=user_child|user_regurlar
 ||built.it.com^$ctag=user_child|user_regurlar
-||buinspost.us.cc^$ctag=user_child|user_regurlar
 ||buisness.it.com^$ctag=user_child|user_regurlar
 ||buitalanbu6.co.cc^$ctag=user_child|user_regurlar
 ||buji-live.net^$ctag=user_child|user_regurlar
 ||bulaxior-ai.com^$ctag=user_child|user_regurlar
-||bule-777.com^$ctag=user_child|user_regurlar
 ||buletin-bola.com^$ctag=user_child|user_regurlar
 ||bulgar-rus.ru^$ctag=user_child|user_regurlar
 ||bulk-shop.com^$ctag=user_child|user_regurlar
@@ -7620,6 +7497,7 @@
 ||buly.kr^$ctag=user_child|user_regurlar
 ||bum.ru.com^$ctag=user_child|user_regurlar
 ||bumbara.co.cc^$ctag=user_child|user_regurlar
+||bumbleshrimp.com^$ctag=user_child|user_regurlar
 ||bumm.live^$ctag=user_child|user_regurlar
 ||bumrang-shop.com^$ctag=user_child|user_regurlar
 ||bumxkqgxu.biz^$ctag=user_child|user_regurlar
@@ -7641,7 +7519,6 @@
 ||burson-china.com^$ctag=user_child|user_regurlar
 ||bursonglobals-hr.com^$ctag=user_child|user_regurlar
 ||bus1etkj8x.s3.eu-west-2.amazonaws.com^$ctag=user_child|user_regurlar
-||bus3qryk9y.localto.net^$ctag=user_child|user_regurlar
 ||buscar-dispositivo-es-apple.com^$ctag=user_child|user_regurlar
 ||buscar-mi-apple.com^$ctag=user_child|user_regurlar
 ||buscarmi-icloud.com^$ctag=user_child|user_regurlar
@@ -7720,7 +7597,6 @@
 ||bwin-play.com^$ctag=user_child|user_regurlar
 ||bwinpromocode-uk.com^$ctag=user_child|user_regurlar
 ||bwpkizpfms.funnelish.com^$ctag=user_child|user_regurlar
-||bx-blogger.com^$ctag=user_child|user_regurlar
 ||bx58080.rdock.ru^$ctag=user_child|user_regurlar
 ||bxaeah.eu.cc^$ctag=user_child|user_regurlar
 ||bxe.za.com^$ctag=user_child|user_regurlar
@@ -7772,8 +7648,8 @@
 ||c-zs.com^$ctag=user_child|user_regurlar
 ||c.cx^$ctag=user_child|user_regurlar
 ||c.imau.eu.org^$ctag=user_child|user_regurlar
-||c0a7a9c937.com^$ctag=user_child|user_regurlar
 ||c0utr1d0c8te3pb5a02.s3.us-east-1.amazonaws.com^$ctag=user_child|user_regurlar
+||c1.biz^$ctag=user_child|user_regurlar
 ||c1.zedo.com^$ctag=user_child|user_regurlar
 ||c120035.sgvps.net^$ctag=user_child|user_regurlar
 ||c168-co.com^$ctag=user_child|user_regurlar
@@ -7829,6 +7705,7 @@
 ||cacaobliss-web.com^$ctag=user_child|user_regurlar
 ||cache.netflix.com.dev.pointserver.dpdns.org^$ctag=user_child|user_regurlar
 ||cache.netflix.com.pro.kaisarstore.dpdns.org^$ctag=user_child|user_regurlar
+||cache.netflix.com.sentosa-1.vpn-premium.pp.ua^$ctag=user_child|user_regurlar
 ||cache.netflix.com.vip10.cepat.eu.cc^$ctag=user_child|user_regurlar
 ||cache3-712-node44-service.in.net^$ctag=user_child|user_regurlar
 ||cache3-ip-712-node44-service.in.net^$ctag=user_child|user_regurlar
@@ -7987,7 +7864,6 @@
 ||cancore-app.com^$ctag=user_child|user_regurlar
 ||candanchucd.gb.net^$ctag=user_child|user_regurlar
 ||cander-office.com^$ctag=user_child|user_regurlar
-||candice-michelle-porn.tiktok-pornhub.com^$ctag=user_child|user_regurlar
 ||candle-even-river.com^$ctag=user_child|user_regurlar
 ||candy-captcha.com^$ctag=user_child|user_regurlar
 ||candy-casino-online.de^$ctag=user_child|user_regurlar
@@ -8267,7 +8143,6 @@
 ||carlos-coinbase.com^$ctag=user_child|user_regurlar
 ||carmax-app.com^$ctag=user_child|user_regurlar
 ||carmenbintz-live.com^$ctag=user_child|user_regurlar
-||carmenbrosa1768827392980.0951940.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||carmona-live.com^$ctag=user_child|user_regurlar
 ||carni-shop.com^$ctag=user_child|user_regurlar
 ||carnie-life.com^$ctag=user_child|user_regurlar
@@ -8313,12 +8188,14 @@
 ||cas-it.net^$ctag=user_child|user_regurlar
 ||cas-remote.unt.ad.unt.edu^$ctag=user_child|user_regurlar
 ||cas-srv4.unomaha.edu^$ctag=user_child|user_regurlar
+||cas2.loophole.site^$ctag=user_child|user_regurlar
 ||cas7.co.cc^$ctag=user_child|user_regurlar
 ||casa-milano-es.com^$ctag=user_child|user_regurlar
 ||casa-moderna-it.com^$ctag=user_child|user_regurlar
 ||casacam.net^$ctag=user_child|user_regurlar
 ||casacivilcegovbr.moonfruit.com^$ctag=user_child|user_regurlar
 ||casadasaguas.ufes.br^$ctag=user_child|user_regurlar
+||casal-777.com^$ctag=user_child|user_regurlar
 ||casamango.freehostia.com^$ctag=user_child|user_regurlar
 ||casaos.oss-cn-shanghai.aliyuncs.com^$ctag=user_child|user_regurlar
 ||casateixeira.sites.uol.com.br^$ctag=user_child|user_regurlar
@@ -8468,6 +8345,7 @@
 ||catch-me-now.com^$ctag=user_child|user_regurlar
 ||catchmymail.carrefour.com^$ctag=user_child|user_regurlar
 ||catfishdashiki.sa.com^$ctag=user_child|user_regurlar
+||cathay-life.com^$ctag=user_child|user_regurlar
 ||cathohai.ru.com^$ctag=user_child|user_regurlar
 ||catmore88.com^$ctag=user_child|user_regurlar
 ||catmos99.com^$ctag=user_child|user_regurlar
@@ -8554,7 +8432,6 @@
 ||cdek.rest^$ctag=user_child|user_regurlar
 ||cdek.ru.com^$ctag=user_child|user_regurlar
 ||cdgreat-furniture.com^$ctag=user_child|user_regurlar
-||cdgsrv.com^$ctag=user_child|user_regurlar
 ||cdh-saarland.de^$ctag=user_child|user_regurlar
 ||cdhgwnjjcw.xyz^$ctag=user_child|user_regurlar
 ||cdn-360.com^$ctag=user_child|user_regurlar
@@ -8625,6 +8502,7 @@
 ||cdxcfvgh.s3.eu-north-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||ce-fx.com^$ctag=user_child|user_regurlar
 ||ce.ncarb.org^$ctag=user_child|user_regurlar
+||ce06346ab546e95714b24383642e7e33.loophole.site^$ctag=user_child|user_regurlar
 ||ce16f0cf56.com^$ctag=user_child|user_regurlar
 ||ce6dih8s0p5bk5ma.s3.ap-south-2.amazonaws.com^$ctag=user_child|user_regurlar
 ||cea-security.com^$ctag=user_child|user_regurlar
@@ -8645,6 +8523,7 @@
 ||ceeuxg.sa.com^$ctag=user_child|user_regurlar
 ||cefacefa21saf.s3.eu-central-1.amazonaws.com^$ctag=user_child|user_regurlar
 ||cegid-public.fr^$ctag=user_child|user_regurlar
+||ceit.it.com^$ctag=user_child|user_regurlar
 ||cekas-office.com^$ctag=user_child|user_regurlar
 ||cel-id120-hotmail.com^$ctag=user_child|user_regurlar
 ||celearai.com.de^$ctag=user_child|user_regurlar
@@ -8662,7 +8541,6 @@
 ||cell-8wmstoneon.odmcqxhq.sa.com^$ctag=user_child|user_regurlar
 ||cellopmimosa.in.net^$ctag=user_child|user_regurlar
 ||cellphone-savers.com^$ctag=user_child|user_regurlar
-||cellynamanuellesilva1772807695000.2051889.meusitehostgator.com.br^$ctag=user_child|user_regurlar
 ||celnazyskovera-pl.com^$ctag=user_child|user_regurlar
 ||celsiuscasino-france.fr^$ctag=user_child|user_regurlar
 ||celts-design.com^$ctag=user_child|user_regurlar
@@ -8718,10 +8596,8 @@
 ||cezcoiner-app.com^$ctag=user_child|user_regurlar
 ||cezfinpro-app.com^$ctag=user_child|user_regurlar
 ||cf-1.6aenihvs.eu.org^$ctag=user_child|user_regurlar
-||cf-1.mkuhz4h.eu.org^$ctag=user_child|user_regurlar
 ||cf-2-up.com^$ctag=user_child|user_regurlar
 ||cf-2.u3ebx09.eu.org^$ctag=user_child|user_regurlar
-||cf-4.mkuhz4h.eu.org^$ctag=user_child|user_regurlar
 ||cf-host.com^$ctag=user_child|user_regurlar
 ||cf.ixh5635.eu.org^$ctag=user_child|user_regurlar
 ||cf11a725f0.com^$ctag=user_child|user_regurlar
@@ -8740,10 +8616,9 @@
 ||cfy.sa.com^$ctag=user_child|user_regurlar
 ||cfyes.eu.org^$ctag=user_child|user_regurlar
 ||cg-interior-design.com^$ctag=user_child|user_regurlar
+||cghhqca.cc^$ctag=user_child|user_regurlar
 ||cgi-view-item-co-uk.xf.cz^$ctag=user_child|user_regurlar
 ||cgicounter.onlinehome.de^$ctag=user_child|user_regurlar
-||cgim5hrh18vvdb38d1905iah3br5dyhji.oast.pro^$ctag=user_child|user_regurlar
-||cgim5hrh18vvdb38d190nnkcjrgc11cns.oast.pro^$ctag=user_child|user_regurlar
 ||cgpt-chaingpt-unleash-the-power-of-blockchain-ai.com^$ctag=user_child|user_regurlar
 ||ch-bezahlung-web.com^$ctag=user_child|user_regurlar
 ||ch-bing.com^$ctag=user_child|user_regurlar
@@ -8791,7 +8666,6 @@
 ||chainexelonfin-app.com^$ctag=user_child|user_regurlar
 ||chainkinrixsys-it.com^$ctag=user_child|user_regurlar
 ||chainlink.eu.cc^$ctag=user_child|user_regurlar
-||chainlink.us.cc^$ctag=user_child|user_regurlar
 ||chainlotemaxpro-it.com^$ctag=user_child|user_regurlar
 ||chainwire.org^$ctag=user_child|user_regurlar
 ||chaiyoupe.sa.com^$ctag=user_child|user_regurlar
@@ -8809,6 +8683,7 @@
 ||change-now-io.com^$ctag=user_child|user_regurlar
 ||change-now.to^$ctag=user_child|user_regurlar
 ||changeip.co^$ctag=user_child|user_regurlar
+||changeip.name^$ctag=user_child|user_regurlar
 ||changellys.co.com^$ctag=user_child|user_regurlar
 ||changeno-w.org^$ctag=user_child|user_regurlar
 ||changenow-io.com^$ctag=user_child|user_regurlar
@@ -8822,7 +8697,6 @@
 ||chaoss.televancess.us.com^$ctag=user_child|user_regurlar
 ||chapeline-home.com^$ctag=user_child|user_regurlar
 ||chapters-ea.com^$ctag=user_child|user_regurlar
-||charaporn.hotnatalia.com^$ctag=user_child|user_regurlar
 ||chargerlogistics-delivery.com^$ctag=user_child|user_regurlar
 ||chargerlogistics-office.com^$ctag=user_child|user_regurlar
 ||charguers-pcc.com^$ctag=user_child|user_regurlar
@@ -8839,6 +8713,7 @@
 ||chartered-app.com^$ctag=user_child|user_regurlar
 ||chase-app.com^$ctag=user_child|user_regurlar
 ||chase-service-verification.secure.com.de^$ctag=user_child|user_regurlar
+||chase.pcj-group.com^$ctag=user_child|user_regurlar
 ||chasekyc.firewall-gateway.com^$ctag=user_child|user_regurlar
 ||chasheafrou.ru.com^$ctag=user_child|user_regurlar
 ||chat-and-fun.com^$ctag=user_child|user_regurlar
@@ -8848,7 +8723,6 @@
 ||chat-pump.fun^$ctag=user_child|user_regurlar
 ||chat-search.com^$ctag=user_child|user_regurlar
 ||chat.niedersachsen-web-radio.net^$ctag=user_child|user_regurlar
-||chat.origin.ds.metapoint.club^$ctag=user_child|user_regurlar
 ||chat.taotao158.eu.org^$ctag=user_child|user_regurlar
 ||chat.ygosu.com^$ctag=user_child|user_regurlar
 ||chatbot-for-whatsapp.net^$ctag=user_child|user_regurlar
@@ -8947,11 +8821,9 @@
 ||chemlabshop-online.com^$ctag=user_child|user_regurlar
 ||chen-coinbase.com^$ctag=user_child|user_regurlar
 ||chen-group.com^$ctag=user_child|user_regurlar
-||cheng.win123888.com^$ctag=user_child|user_regurlar
 ||chenllx-buc.oss-us-east-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||chennai-india.com^$ctag=user_child|user_regurlar
 ||chenx24.sg-host.com^$ctag=user_child|user_regurlar
-||cheripetiteporn.miyuhot.com^$ctag=user_child|user_regurlar
 ||cherlyy.itch.io^$ctag=user_child|user_regurlar
 ||cherry-boost.com^$ctag=user_child|user_regurlar
 ||cherry-orchard.com^$ctag=user_child|user_regurlar
@@ -8968,6 +8840,7 @@
 ||chf-courier.com^$ctag=user_child|user_regurlar
 ||chgls3sx-online.de^$ctag=user_child|user_regurlar
 ||chi-gd.com^$ctag=user_child|user_regurlar
+||chiangraiporn.bestsexyblog.com^$ctag=user_child|user_regurlar
 ||chibijoo.sa.com^$ctag=user_child|user_regurlar
 ||chica-group.com^$ctag=user_child|user_regurlar
 ||chicco.com.de^$ctag=user_child|user_regurlar
@@ -8986,6 +8859,7 @@
 ||chief-ai-office.com^$ctag=user_child|user_regurlar
 ||chiemgu-online.com^$ctag=user_child|user_regurlar
 ||chifotou.za.com^$ctag=user_child|user_regurlar
+||chiicken-road-play.com^$ctag=user_child|user_regurlar
 ||chiken-road.cc^$ctag=user_child|user_regurlar
 ||chiken-time.com^$ctag=user_child|user_regurlar
 ||chikenroad-slot-au.com^$ctag=user_child|user_regurlar
@@ -9175,7 +9049,9 @@
 ||ciprofloxacin.it.com^$ctag=user_child|user_regurlar
 ||circ-cn.com^$ctag=user_child|user_regurlar
 ||circle-kite.com^$ctag=user_child|user_regurlar
+||circle-porsche.com^$ctag=user_child|user_regurlar
 ||circle-trustwallet.com^$ctag=user_child|user_regurlar
+||circleone.net.id^$ctag=user_child|user_regurlar
 ||circlesquare-international.com^$ctag=user_child|user_regurlar
 ||circuit-power.com^$ctag=user_child|user_regurlar
 ||circunferia.za.com^$ctag=user_child|user_regurlar
@@ -9216,7 +9092,6 @@
 ||cjjx.sellfy.store^$ctag=user_child|user_regurlar
 ||cjmar-group.com^$ctag=user_child|user_regurlar
 ||cjs-nyc.com^$ctag=user_child|user_regurlar
-||cjturs3.localto.net^$ctag=user_child|user_regurlar
 ||cjvgcl.biz^$ctag=user_child|user_regurlar
 ||cjws.co.cc^$ctag=user_child|user_regurlar
 ||ck-delta.ru^$ctag=user_child|user_regurlar
@@ -9227,6 +9102,7 @@
 ||cky-telegram.com^$ctag=user_child|user_regurlar
 ||cl-ledger.com^$ctag=user_child|user_regurlar
 ||cl-microsoft.com^$ctag=user_child|user_regurlar
+||cl-play.com^$ctag=user_child|user_regurlar
 ||cl-stack.com^$ctag=user_child|user_regurlar
 ||claim-compass-app.com^$ctag=user_child|user_regurlar
 ||claim-dexscreener.com^$ctag=user_child|user_regurlar
@@ -9286,10 +9162,8 @@
 ||clarlichidarial-ai.com^$ctag=user_child|user_regurlar
 ||claro-search.com^$ctag=user_child|user_regurlar
 ||clarofintrix-app.com^$ctag=user_child|user_regurlar
-||clarotorps.h1.ru^$ctag=user_child|user_regurlar
 ||clarte-fincore-ai-fr.com^$ctag=user_child|user_regurlar
 ||clarte-fincore-ai.com^$ctag=user_child|user_regurlar
-||clarumvalnex-engine.com^$ctag=user_child|user_regurlar
 ||class-link.com^$ctag=user_child|user_regurlar
 ||class1004.dothome.co.kr^$ctag=user_child|user_regurlar
 ||classes-cap.gl.joinmc.link^$ctag=user_child|user_regurlar
@@ -9342,6 +9216,7 @@
 ||clearview-cpa.ca^$ctag=user_child|user_regurlar
 ||clefdigital-activation-fr.com^$ctag=user_child|user_regurlar
 ||cleftteam-ui.com^$ctag=user_child|user_regurlar
+||clemanimpianti.it.com^$ctag=user_child|user_regurlar
 ||cleobetra-it.net^$ctag=user_child|user_regurlar
 ||cleopatra-slot.com^$ctag=user_child|user_regurlar
 ||clever-office.de^$ctag=user_child|user_regurlar
@@ -9388,7 +9263,6 @@
 ||client.portail-havas.com^$ctag=user_child|user_regurlar
 ||client.publish.kro.kr^$ctag=user_child|user_regurlar
 ||client.signin-katapult.com^$ctag=user_child|user_regurlar
-||client.traumvillen.de.com^$ctag=user_child|user_regurlar
 ||client45-ip-863-server-interface16.in.net^$ctag=user_child|user_regurlar
 ||clientcare-coinbase.com^$ctag=user_child|user_regurlar
 ||cliente-app-es.com^$ctag=user_child|user_regurlar
@@ -9429,7 +9303,6 @@
 ||clip-live.com^$ctag=user_child|user_regurlar
 ||clip-which-build.com^$ctag=user_child|user_regurlar
 ||clka.bondagevalley.cc^$ctag=user_child|user_regurlar
-||cllseidns.us.cc^$ctag=user_child|user_regurlar
 ||cloakhost-test.com^$ctag=user_child|user_regurlar
 ||clob-polymarket.com^$ctag=user_child|user_regurlar
 ||clonix.pp.ua^$ctag=user_child|user_regurlar
@@ -9480,7 +9353,6 @@
 ||cloudflare-app.net^$ctag=user_child|user_regurlar
 ||cloudflare-gate.com^$ctag=user_child|user_regurlar
 ||cloudflare-okta.com^$ctag=user_child|user_regurlar
-||cloudflare-r2-geox.com^$ctag=user_child|user_regurlar
 ||cloudflare.nid-recaptcha.kro.kr^$ctag=user_child|user_regurlar
 ||cloudflare.nid-recheck.kro.kr^$ctag=user_child|user_regurlar
 ||cloudflare.ru.com^$ctag=user_child|user_regurlar
@@ -9517,7 +9389,6 @@
 ||club-search.com^$ctag=user_child|user_regurlar
 ||club-windows7.gb.net^$ctag=user_child|user_regurlar
 ||club214879461.orgs.biz^$ctag=user_child|user_regurlar
-||clubamillblpssdd.us.cc^$ctag=user_child|user_regurlar
 ||clubhousefire-com.com^$ctag=user_child|user_regurlar
 ||cluckergifts.ecwid.com^$ctag=user_child|user_regurlar
 ||cludara.it.com^$ctag=user_child|user_regurlar
@@ -9553,10 +9424,10 @@
 ||cn-ag-live.com^$ctag=user_child|user_regurlar
 ||cn-app-wanmei.com^$ctag=user_child|user_regurlar
 ||cn-ayx-live.com^$ctag=user_child|user_regurlar
+||cn-bcgame.com^$ctag=user_child|user_regurlar
 ||cn-bian-app.net^$ctag=user_child|user_regurlar
 ||cn-classic.com^$ctag=user_child|user_regurlar
 ||cn-crypto-gg.com^$ctag=user_child|user_regurlar
-||cn-discord.com^$ctag=user_child|user_regurlar
 ||cn-dongqiudi-live.com^$ctag=user_child|user_regurlar
 ||cn-douyu.com^$ctag=user_child|user_regurlar
 ||cn-fedex.com^$ctag=user_child|user_regurlar
@@ -9578,11 +9449,13 @@
 ||cn-top10.com^$ctag=user_child|user_regurlar
 ||cn-trezor.io^$ctag=user_child|user_regurlar
 ||cn-user.com^$ctag=user_child|user_regurlar
+||cn-xiaohongshu.com^$ctag=user_child|user_regurlar
 ||cn-xingkong-live.com^$ctag=user_child|user_regurlar
 ||cn-yandex.com^$ctag=user_child|user_regurlar
 ||cn-zh-bet365.com^$ctag=user_child|user_regurlar
 ||cn-zhiboba-live.com^$ctag=user_child|user_regurlar
 ||cn-zone-hupu.com^$ctag=user_child|user_regurlar
+||cn1-china.kututu.cc^$ctag=user_child|user_regurlar
 ||cn2-protonvpn.com^$ctag=user_child|user_regurlar
 ||cn3.suite.partner.microsoftonline.cn^$ctag=user_child|user_regurlar
 ||cn3.webshell.suite.partner.microsoftonline.cn^$ctag=user_child|user_regurlar
@@ -9597,7 +9470,6 @@
 ||cnc.fungoa.kro.kr^$ctag=user_child|user_regurlar
 ||cnc0098510m.cz.cc^$ctag=user_child|user_regurlar
 ||cnea3-02.echo.teams.microsoftonline.cn^$ctag=user_child|user_regurlar
-||cnet-search.com^$ctag=user_child|user_regurlar
 ||cnewufinqfcq.oss-accelerate.aliyuncs.com^$ctag=user_child|user_regurlar
 ||cnffurdl.dscloud.biz^$ctag=user_child|user_regurlar
 ||cnfrm-booking.com^$ctag=user_child|user_regurlar
@@ -9654,6 +9526,7 @@
 ||coc-blog.com^$ctag=user_child|user_regurlar
 ||cocacola-arena-ae.com^$ctag=user_child|user_regurlar
 ||cocacola-br.com^$ctag=user_child|user_regurlar
+||cocoa3432kr.gb.net^$ctag=user_child|user_regurlar
 ||cococo.zzz.com.ua^$ctag=user_child|user_regurlar
 ||cocoinexlogm-us.imweb.me^$ctag=user_child|user_regurlar
 ||coconutmilk-shop.com^$ctag=user_child|user_regurlar
@@ -9723,7 +9596,6 @@
 ||coinbase-core.com^$ctag=user_child|user_regurlar
 ||coinbase-details.com^$ctag=user_child|user_regurlar
 ||coinbase-email-server.com^$ctag=user_child|user_regurlar
-||coinbase-exchange.us.cc^$ctag=user_child|user_regurlar
 ||coinbase-expertise.com^$ctag=user_child|user_regurlar
 ||coinbase-guard.com^$ctag=user_child|user_regurlar
 ||coinbase-guardian.com^$ctag=user_child|user_regurlar
@@ -9765,6 +9637,7 @@
 ||coinftx-wb.com^$ctag=user_child|user_regurlar
 ||coingpt-app.com^$ctag=user_child|user_regurlar
 ||coinhive.com^$ctag=user_child|user_regurlar
+||coinhub-mining.com^$ctag=user_child|user_regurlar
 ||coinlako-t.com^$ctag=user_child|user_regurlar
 ||coinmarketcapv1.co.com^$ctag=user_child|user_regurlar
 ||coinomi-support.com^$ctag=user_child|user_regurlar
@@ -9779,11 +9652,13 @@
 ||col-nov.com^$ctag=user_child|user_regurlar
 ||col.postcards.com.de^$ctag=user_child|user_regurlar
 ||colaba.ru.com^$ctag=user_child|user_regurlar
+||colatv88xd.cc^$ctag=user_child|user_regurlar
 ||coldmusik.myshopify.com^$ctag=user_child|user_regurlar
 ||coldraven.eu.com^$ctag=user_child|user_regurlar
 ||coldwater-creek-us.com^$ctag=user_child|user_regurlar
 ||coles-flybuys293884php.swanndvr.net^$ctag=user_child|user_regurlar
 ||colette-paris.fr^$ctag=user_child|user_regurlar
+||colibrim.com^$ctag=user_child|user_regurlar
 ||colina--777.com^$ctag=user_child|user_regurlar
 ||colis-dhl-ch.com^$ctag=user_child|user_regurlar
 ||colis-info.com^$ctag=user_child|user_regurlar
@@ -9849,6 +9724,7 @@
 ||com-bam.com^$ctag=user_child|user_regurlar
 ||com-best.com^$ctag=user_child|user_regurlar
 ||com-bet.com^$ctag=user_child|user_regurlar
+||com-booking.com^$ctag=user_child|user_regurlar
 ||com-buscar-es.com^$ctag=user_child|user_regurlar
 ||com-calendar.com^$ctag=user_child|user_regurlar
 ||com-calendly.com^$ctag=user_child|user_regurlar
@@ -9856,6 +9732,7 @@
 ||com-chain-web3-app.com^$ctag=user_child|user_regurlar
 ||com-check-out.com^$ctag=user_child|user_regurlar
 ||com-cn-pg.com^$ctag=user_child|user_regurlar
+||com-com-com-com.com^$ctag=user_child|user_regurlar
 ||com-conflrm-appart-eu.com^$ctag=user_child|user_regurlar
 ||com-conflrm-eu.com^$ctag=user_child|user_regurlar
 ||com-conflrm-reservation-eu.com^$ctag=user_child|user_regurlar
@@ -9930,6 +9807,7 @@
 ||com-zgzcw.com^$ctag=user_child|user_regurlar
 ||com.conn.fr.nf^$ctag=user_child|user_regurlar
 ||com.stream.gscdn.net^$ctag=user_child|user_regurlar
+||com2.z0.glb.qiniucdn.com^$ctag=user_child|user_regurlar
 ||combat-ledger.com^$ctag=user_child|user_regurlar
 ||combinvignette.in.net^$ctag=user_child|user_regurlar
 ||combo-fix.com^$ctag=user_child|user_regurlar
@@ -9939,6 +9817,7 @@
 ||comericawebbanking.co.com^$ctag=user_child|user_regurlar
 ||comet-live.com^$ctag=user_child|user_regurlar
 ||comex-mx.com^$ctag=user_child|user_regurlar
+||comfermt.loophole.site^$ctag=user_child|user_regurlar
 ||comfi-top.com^$ctag=user_child|user_regurlar
 ||comforty.oss-us-east-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||comfucios.s3.us-west-2.amazonaws.com^$ctag=user_child|user_regurlar
@@ -10046,6 +9925,7 @@
 ||compte-free.fr^$ctag=user_child|user_regurlar
 ||comptwetransfclient.dyndns1.de^$ctag=user_child|user_regurlar
 ||compu-z.com^$ctag=user_child|user_regurlar
+||compucali-tv.com^$ctag=user_child|user_regurlar
 ||compunet.sa.com^$ctag=user_child|user_regurlar
 ||computacenter-france.fr^$ctag=user_child|user_regurlar
 ||computadorpj.com^$ctag=user_child|user_regurlar
@@ -10339,7 +10219,6 @@
 ||contacto-ing.com^$ctag=user_child|user_regurlar
 ||contacto-local.com^$ctag=user_child|user_regurlar
 ||contactus.com.de^$ctag=user_child|user_regurlar
-||contador.hut2.ru^$ctag=user_child|user_regurlar
 ||container-security.com^$ctag=user_child|user_regurlar
 ||containoa.com.se^$ctag=user_child|user_regurlar
 ||contaprotegida.ru.com^$ctag=user_child|user_regurlar
@@ -10433,7 +10312,6 @@
 ||coo3.oss-eu-west-1.aliyuncs.com^$ctag=user_child|user_regurlar
 ||coodraige.za.com^$ctag=user_child|user_regurlar
 ||coofubi.it.com^$ctag=user_child|user_regurlar
-||cook-care.com^$ctag=user_child|user_regurlar
 ||cook-life-fb.ru^$ctag=user_child|user_regurlar
 ||cookie-master2.com^$ctag=user_child|user_regurlar
 ||cookieplay252511.s3.amazonaws.com^$ctag=user_child|user_regurlar
@@ -10444,6 +10322,7 @@
 ||cool-solar-africa.com^$ctag=user_child|user_regurlar
 ||coolbuddy.com^$ctag=user_child|user_regurlar
 ||coolefrai.com.de^$ctag=user_child|user_regurlar
+||coolfilesearch.com^$ctag=user_child|user_regurlar
 ||coolidge-realty.com^$ctag=user_child|user_regurlar
 ||cooling-ace.de^$ctag=user_child|user_regurlar
 ||coolmath.ueuo.com^$ctag=user_child|user_regurlar
@@ -10529,7 +10408,6 @@
 ||correct-score-live.com^$ctag=user_child|user_regurlar
 ||correctscore-live.com^$ctag=user_child|user_regurlar
 ||correo-ag.com^$ctag=user_child|user_regurlar
-||correo-zwebmail-cl.my-free.website^$ctag=user_child|user_regurlar
 ||correo.mypixieset.com^$ctag=user_child|user_regurlar
 ||corrumpskeptic.cyou^$ctag=user_child|user_regurlar
 ||cors-app.com^$ctag=user_child|user_regurlar
@@ -10544,6 +10422,7 @@
 ||corvianu.sa.com^$ctag=user_child|user_regurlar
 ||corvus-talent.com^$ctag=user_child|user_regurlar
 ||corvus.com.de^$ctag=user_child|user_regurlar
+||cos-office.com^$ctag=user_child|user_regurlar
 ||cosibellapl-co.com^$ctag=user_child|user_regurlar
 ||cosit-care.com^$ctag=user_child|user_regurlar
 ||cosmetic-berlin.de^$ctag=user_child|user_regurlar
@@ -10563,7 +10442,6 @@
 ||cotshld.sa.com^$ctag=user_child|user_regurlar
 ||cotshop-us.com^$ctag=user_child|user_regurlar
 ||cottagenet.ru^$ctag=user_child|user_regurlar
-||cou369ppsh.localto.net^$ctag=user_child|user_regurlar
 ||cougarmature-nextdoor.co.uk^$ctag=user_child|user_regurlar
 ||cougarmature-nextdoor.com^$ctag=user_child|user_regurlar
 ||coukoofo.com.de^$ctag=user_child|user_regurlar
