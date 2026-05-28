@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1779855312 (Epoch)
+! Version: 1779941712 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -32,6 +32,7 @@
 ||a.kubik3.ru^$ctag=user_child
 ||a.thefreedictionary.com^$ctag=user_child
 ||a.votpusk.ru^$ctag=user_child
+||a4.censor.net^$ctag=user_child
 ||abqjst.com^$ctag=user_child
 ||action.evrikak.ru^$ctag=user_child
 ||ad.cbonds.info^$ctag=user_child
@@ -52,6 +53,7 @@
 ||adghndou0sdh.ru^$ctag=user_child
 ||adiam.tech^$ctag=user_child
 ||admulti.com^$ctag=user_child
+||adpartner.pro^$ctag=user_child
 ||ads-delivery.gameforge.com^$ctag=user_child
 ||ads.211.ru^$ctag=user_child
 ||ads.dfiles.ru^$ctag=user_child
