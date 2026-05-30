@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1780028117 (Epoch)
+! Version: 1780114519 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -244,6 +244,7 @@
 ||pheasantnt.com^$ctag=user_child
 ||pjkyxrd15e.ru^$ctag=user_child
 ||pkoqeg.com^$ctag=user_child
+||placeholder.treeum.net^$ctag=user_child
 ||pmi1yarhxx.com^$ctag=user_child
 ||portoteamo.com^$ctag=user_child
 ||post.rmbn.ru^$ctag=user_child
