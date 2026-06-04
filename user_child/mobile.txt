@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1780460112 (Epoch)
+! Version: 1780546512 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -9,6 +9,7 @@
 ||247realmedia.com^$ctag=user_child
 ||883.engine.mobileapptracking.com^$ctag=user_child
 ||a.applvn.com^$ctag=user_child
+||a.line.me^$ctag=user_child
 ||aag.yahooapis.jp^$ctag=user_child
 ||aatkit.com^$ctag=user_child
 ||abbott.vo.llnwd.net^$ctag=user_child
