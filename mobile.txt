@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1780892110 (Epoch)
+! Version: 1780978513 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -858,6 +858,7 @@
 ||u-ad.info^$ctag=user_child
 ||ucads.ucweb.com^$ctag=user_child
 ||ufz.doesxyz.com^$ctag=user_child
+||uibjh29vqc.com^$ctag=user_child
 ||ultraadserver.com^$ctag=user_child
 ||umbel.com^$ctag=user_child
 ||umphek.com^$ctag=user_child
