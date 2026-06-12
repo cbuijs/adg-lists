@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1781151312 (Epoch)
+! Version: 1781237714 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -58,7 +58,6 @@
 ||ads.211.ru^$ctag=user_child
 ||ads.dfiles.ru^$ctag=user_child
 ||ads.digitalcaramel.com^$ctag=user_child
-||ads.go2net.com.ua^$ctag=user_child
 ||ads.interfax.ru^$ctag=user_child
 ||ads.kingads.digital^$ctag=user_child
 ||ads.livetvcdn.net^$ctag=user_child
@@ -70,6 +69,7 @@
 ||adtec.ru^$ctag=user_child
 ||adtscriptshark.com^$ctag=user_child
 ||adv.topvideo.tj^$ctag=user_child
+||adv.ukrinform.com^$ctag=user_child
 ||adv.vz.ru^$ctag=user_child
 ||advast.sibnet.ru^$ctag=user_child
 ||advscdn.com^$ctag=user_child
@@ -232,6 +232,7 @@
 ||go.ukrleads.com^$ctag=user_child
 ||go.xl.ua^$ctag=user_child
 ||go.zdos.ru^$ctag=user_child
+||go2net.com.ua^$ctag=user_child
 ||gocheewimtie.xyz^$ctag=user_child
 ||gorod.tunt.lv^$ctag=user_child
 ||gredinatib.org^$ctag=user_child
@@ -494,6 +495,7 @@
 ||voidnetwork.cloud^$ctag=user_child
 ||vozer.voffka.com^$ctag=user_child
 ||vqhrqt.com^$ctag=user_child
+||vrglcmzgbj.com^$ctag=user_child
 ||vst.dfn-network.pro^$ctag=user_child
 ||vvdrhe.win^$ctag=user_child
 ||vw1.gestimnogo.net^$ctag=user_child

@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1781151314 (Epoch)
+! Version: 1781237716 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -40,13 +40,13 @@
 ||admulti.com^$ctag=user_child
 ||adpartner.pro^$ctag=user_child
 ||ads.digitalcaramel.com^$ctag=user_child
-||ads.go2net.com.ua^$ctag=user_child
 ||ads.kingads.digital^$ctag=user_child
 ||ads.people-group.net^$ctag=user_child
 ||ads2.pbxware.ru^$ctag=user_child
 ||adstag0102.xyz^$ctag=user_child
 ||adtec.ru^$ctag=user_child
 ||adtscriptshark.com^$ctag=user_child
+||adv.ukrinform.com^$ctag=user_child
 ||adv.vz.ru^$ctag=user_child
 ||advscdn.com^$ctag=user_child
 ||adwadvert.com.ua^$ctag=user_child
@@ -161,6 +161,7 @@
 ||go.ukrleads.com^$ctag=user_child
 ||go.xl.ua^$ctag=user_child
 ||go.zdos.ru^$ctag=user_child
+||go2net.com.ua^$ctag=user_child
 ||gocheewimtie.xyz^$ctag=user_child
 ||gredinatib.org^$ctag=user_child
 ||h5r2dzdwqk.com^$ctag=user_child
@@ -356,6 +357,7 @@
 ||vnrvss.com^$ctag=user_child
 ||voidnetwork.cloud^$ctag=user_child
 ||vqhrqt.com^$ctag=user_child
+||vrglcmzgbj.com^$ctag=user_child
 ||vst.dfn-network.pro^$ctag=user_child
 ||vvdrhe.win^$ctag=user_child
 ||w716eb02n9.ru^$ctag=user_child
