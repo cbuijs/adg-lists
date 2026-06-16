@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1781496912 (Epoch)
+! Version: 1781583311 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -30,6 +30,7 @@
 ||a.kakoysegodnyaprazdnik.ru^$ctag=user_child
 ||a.kidstaff.net^$ctag=user_child
 ||a.kubik3.ru^$ctag=user_child
+||a.rutube.ru^$ctag=user_child
 ||a.thefreedictionary.com^$ctag=user_child
 ||a.votpusk.ru^$ctag=user_child
 ||a4.censor.net^$ctag=user_child
@@ -336,7 +337,6 @@
 ||partners.vsemayki.ru^$ctag=user_child
 ||pb.plat.services^$ctag=user_child
 ||pheasantnt.com^$ctag=user_child
-||pic.rutube.ru^$ctag=user_child
 ||pipki.r.worldssl.net^$ctag=user_child
 ||pjkyxrd15e.ru^$ctag=user_child
 ||pkoqeg.com^$ctag=user_child
