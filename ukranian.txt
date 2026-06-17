@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1781583313 (Epoch)
+! Version: 1781669717 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -68,6 +68,7 @@
 ||backromy.com^$ctag=user_child
 ||ban.mirorgazma.ru^$ctag=user_child
 ||banner.lbs.km.ru^$ctag=user_child
+||banner.volynnews.com^$ctag=user_child
 ||banners.getiton.com^$ctag=user_child
 ||bannet.fryazino.net^$ctag=user_child
 ||bc-news.net^$ctag=user_child
@@ -275,6 +276,7 @@
 ||roomgome.com^$ctag=user_child
 ||rot.rusoul.ru^$ctag=user_child
 ||rqnvci.com^$ctag=user_child
+||ruehofmdhvu.com^$ctag=user_child
 ||s.cummerata.link^$ctag=user_child
 ||s.holder.com.ua^$ctag=user_child
 ||s2517.com^$ctag=user_child
@@ -296,6 +298,7 @@
 ||smatr.net^$ctag=user_child
 ||snsv.ru^$ctag=user_child
 ||socdem-enrich.getshop.tv^$ctag=user_child
+||solutionsin103.net^$ctag=user_child
 ||sparelli.com^$ctag=user_child
 ||spdcdnmpg.com^$ctag=user_child
 ||spitter.pauk.ru^$ctag=user_child
