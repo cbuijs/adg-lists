@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1782792910 (Epoch)
+! Version: 1782879312 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -55,6 +55,7 @@
 ||adiam.tech^$ctag=user_child
 ||admulti.com^$ctag=user_child
 ||adpartner.pro^$ctag=user_child
+||adport.net^$ctag=user_child
 ||ads-delivery.gameforge.com^$ctag=user_child
 ||ads.211.ru^$ctag=user_child
 ||ads.dfiles.ru^$ctag=user_child
@@ -502,6 +503,7 @@
 ||vqhrqt.com^$ctag=user_child
 ||vrglcmzgbj.com^$ctag=user_child
 ||vst.dfn-network.pro^$ctag=user_child
+||vvapi.org^$ctag=user_child
 ||vvdrhe.win^$ctag=user_child
 ||vw1.gestimnogo.net^$ctag=user_child
 ||w716eb02n9.ru^$ctag=user_child

@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1782792913 (Epoch)
+! Version: 1782879315 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -39,6 +39,7 @@
 ||adiam.tech^$ctag=user_child
 ||admulti.com^$ctag=user_child
 ||adpartner.pro^$ctag=user_child
+||adport.net^$ctag=user_child
 ||ads.digitalcaramel.com^$ctag=user_child
 ||ads.kingads.digital^$ctag=user_child
 ||ads.people-group.net^$ctag=user_child
@@ -365,6 +366,7 @@
 ||vqhrqt.com^$ctag=user_child
 ||vrglcmzgbj.com^$ctag=user_child
 ||vst.dfn-network.pro^$ctag=user_child
+||vvapi.org^$ctag=user_child
 ||vvdrhe.win^$ctag=user_child
 ||w716eb02n9.ru^$ctag=user_child
 ||webmedia.co.il^$ctag=user_child
