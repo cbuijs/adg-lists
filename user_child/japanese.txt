@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1782965713 (Epoch)
+! Version: 1783052111 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -150,6 +150,7 @@
 ||ov.yahoo.co.jp^$ctag=user_child
 ||paradise1972.com^$ctag=user_child
 ||partner.become.co.jp^$ctag=user_child
+||phileweb-amzrank.vercel.app^$ctag=user_child
 ||ploud-crew.net^$ctag=user_child
 ||prime-ever.com^$ctag=user_child
 ||primead.jp^$ctag=user_child
