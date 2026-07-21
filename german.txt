@@ -1,5 +1,5 @@
 ! Title: GERMAN for CTAG "user_child".
-! Version: 1784520909 (Epoch)
+! Version: 1784607309 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
@@ -39,6 +39,7 @@
 ||fsm2.spiegel.de^$ctag=user_child
 ||gayads.biz^$ctag=user_child
 ||generic.gmx.net^$ctag=user_child
+||generic.web.de^$ctag=user_child
 ||hybrid-prd.ad-prd.s.joyn.de^$ctag=user_child
 ||ikjnbvf.de^$ctag=user_child
 ||inv.lapippa.com^$ctag=user_child

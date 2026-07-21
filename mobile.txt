@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1784520910 (Epoch)
+! Version: 1784607310 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -89,6 +89,7 @@
 ||adgrx.com^$ctag=user_child
 ||adhitzads.com^$ctag=user_child
 ||adhood.com^$ctag=user_child
+||adhub.porcino-kinoko.workers.dev^$ctag=user_child
 ||adinfo.tango.me^$ctag=user_child
 ||adition.com^$ctag=user_child
 ||adkmob.com^$ctag=user_child
