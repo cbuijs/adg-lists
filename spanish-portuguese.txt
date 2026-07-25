@@ -1,5 +1,5 @@
 ! Title: SPANISH-PORTUGUESE for CTAG "user_child".
-! Version: 1784866516 (Epoch)
+! Version: 1784952917 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
@@ -35,6 +35,7 @@
 ||ak-ads-ns.prisasd.com^$ctag=user_child
 ||analytic.337.com^$ctag=user_child
 ||anunciospatrocinados.com^$ctag=user_child
+||azureedge-global-fastly-cloudfront-ondigitalocean-stackpathcdn.buzz^$ctag=user_child
 ||banners.emol.com^$ctag=user_child
 ||banners.inforchannel.com.br^$ctag=user_child
 ||banners.todoconsolas.com^$ctag=user_child
@@ -43,6 +44,7 @@
 ||byfoongusor.com^$ctag=user_child
 ||cdn-4k-webp.site^$ctag=user_child
 ||ceremonyjogglecling.com^$ctag=user_child
+||chorumebbbbgoza.xyz^$ctag=user_child
 ||classic-bonus.com^$ctag=user_child
 ||clicks.abril.com.br^$ctag=user_child
 ||comprargratis.com.br^$ctag=user_child
