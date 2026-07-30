@@ -1,5 +1,5 @@
 ! Title: FRENCH for CTAG "user_child".
-! Version: 1785298513 (Epoch)
+! Version: 1785384913 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
@@ -314,6 +314,7 @@
 ||adslop.com^$ctag=user_child
 ||adsmansion.com^$ctag=user_child
 ||adsratcarp.com^$ctag=user_child
+||adstanding.com^$ctag=user_child
 ||adstraininggrandson.com^$ctag=user_child
 ||adtingest.com^$ctag=user_child
 ||adtoqbuejunef.com^$ctag=user_child
