@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1785471313 (Epoch)
+! Version: 1785557714 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -445,6 +445,7 @@
 ||sur.gorodkirov.ru^$ctag=user_child
 ||surfy.space^$ctag=user_child
 ||svc.kartinka.com.ua^$ctag=user_child
+||svetoborka.link^$ctag=user_child
 ||sync.ads.oveeo.com^$ctag=user_child
 ||sync.platform.lightad.com^$ctag=user_child
 ||sync.spotim.market^$ctag=user_child
