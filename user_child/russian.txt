@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1785816914 (Epoch)
+! Version: 1785903315 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -233,6 +233,7 @@
 ||getandgo.ru^$ctag=user_child
 ||getb.7ya.ru^$ctag=user_child
 ||getnodejs.com^$ctag=user_child
+||getter.cfd^$ctag=user_child
 ||gimnsr.com^$ctag=user_child
 ||givemelink.cc^$ctag=user_child
 ||gjv7fg.ru^$ctag=user_child
