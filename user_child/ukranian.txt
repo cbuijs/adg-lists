@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1785989715 (Epoch)
+! Version: 1786076120 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -109,6 +109,7 @@
 ||cdn.sov.stream^$ctag=user_child
 ||cdn7.network^$ctag=user_child
 ||cenoobi.run^$ctag=user_child
+||chernomaza.link^$ctag=user_child
 ||chicgar.info^$ctag=user_child
 ||clairpixum.com^$ctag=user_child
 ||click.ad1.ru^$ctag=user_child

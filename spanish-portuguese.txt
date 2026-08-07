@@ -1,5 +1,5 @@
 ! Title: SPANISH-PORTUGUESE for CTAG "user_child".
-! Version: 1785989713 (Epoch)
+! Version: 1786076117 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
@@ -39,6 +39,7 @@
 ||banners.emol.com^$ctag=user_child
 ||banners.inforchannel.com.br^$ctag=user_child
 ||banners.todoconsolas.com^$ctag=user_child
+||bivogrvfyoj.in^$ctag=user_child
 ||bowedcounty.com^$ctag=user_child
 ||bserver.gp-guia.net^$ctag=user_child
 ||byfoongusor.com^$ctag=user_child
