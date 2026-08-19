@@ -1,5 +1,5 @@
 ! Title: SPANISH-PORTUGUESE for CTAG "user_child".
-! Version: 1787026515 (Epoch)
+! Version: 1787112914 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
@@ -64,6 +64,7 @@
 ||landings.zcoptry.com^$ctag=user_child
 ||mathilde-ads.com^$ctag=user_child
 ||navdmp.com^$ctag=user_child
+||otzads.net^$ctag=user_child
 ||p.lasexta.com^$ctag=user_child
 ||parceria.americanas.com.br^$ctag=user_child
 ||ppi.terra.com.br^$ctag=user_child
