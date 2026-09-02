@@ -1,5 +1,5 @@
 ! Title: GERMAN for CTAG "user_child".
-! Version: 1788236112 (Epoch)
+! Version: 1788322512 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
@@ -73,6 +73,7 @@
 ||promotionmaterial.betacash.com^$ctag=user_child
 ||quartermedia-ad-service.net^$ctag=user_child
 ||qvid2.b-cdn.net^$ctag=user_child
+||remp-beam.golem.de^$ctag=user_child
 ||remp-campaign.golem.de^$ctag=user_child
 ||res.ki.de^$ctag=user_child
 ||rev.lapippa.com^$ctag=user_child
