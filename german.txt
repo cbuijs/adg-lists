@@ -1,5 +1,5 @@
 ! Title: GERMAN for CTAG "user_child".
-! Version: 1788408915 (Epoch)
+! Version: 1788495317 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
@@ -30,7 +30,6 @@
 ||commsvc.essen-und-trinken.de^$ctag=user_child
 ||commsvc.gala.de^$ctag=user_child
 ||commsvc.stern.de^$ctag=user_child
-||cpg-cdn.com^$ctag=user_child
 ||delmovip.com^$ctag=user_child
 ||emmi-findet.de^$ctag=user_child
 ||f11-ads.com^$ctag=user_child
