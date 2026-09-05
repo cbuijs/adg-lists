@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1788495318 (Epoch)
+! Version: 1788581716 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -130,6 +130,7 @@
 ||ads-gdl.imovideo.ru^$ctag=user_child
 ||ads-interfaces.sc-cdn.net^$ctag=user_child
 ||ads-leaseweb.appsgeyser.com^$ctag=user_child
+||ads-m.rustore.ru^$ctag=user_child
 ||ads-resources.waze.com^$ctag=user_child
 ||ads-router-noneu.truecaller.com^$ctag=user_child
 ||ads-sdk.mattel163.com^$ctag=user_child
