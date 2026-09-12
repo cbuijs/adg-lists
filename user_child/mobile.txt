@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1789100118 (Epoch)
+! Version: 1789186517 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -65,6 +65,7 @@
 ||ad.youku.com^$ctag=user_child
 ||ad.zankhana.ltd^$ctag=user_child
 ||ad.zijieapi.com^$ctag=user_child
+||ad2.fivecdm.com^$ctag=user_child
 ||ad6media.fr^$ctag=user_child
 ||adadvisor.net^$ctag=user_child
 ||adballoon.sooplive.com^$ctag=user_child

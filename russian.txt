@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1789100119 (Epoch)
+! Version: 1789186517 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -427,6 +427,7 @@
 ||simplejsmenu.com^$ctag=user_child
 ||sinehut.com^$ctag=user_child
 ||skcrtxr.com^$ctag=user_child
+||skwstat.ru^$ctag=user_child
 ||slopeac.com^$ctag=user_child
 ||smatr.net^$ctag=user_child
 ||snsv.ru^$ctag=user_child
