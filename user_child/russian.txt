@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1790050515 (Epoch)
+! Version: 1790136916 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -85,6 +85,7 @@
 ||aglurj.com^$ctag=user_child
 ||aj0453.top^$ctag=user_child
 ||aj2517.bid^$ctag=user_child
+||aj2663.bid^$ctag=user_child
 ||all-audio.pro^$ctag=user_child
 ||alloviewroll.com^$ctag=user_child
 ||alpharockone.com^$ctag=user_child
@@ -334,6 +335,7 @@
 ||ncs.eadaily.com^$ctag=user_child
 ||ndegj3peoh.com^$ctag=user_child
 ||neobasnet.timeout.ru^$ctag=user_child
+||nevalyashka.link^$ctag=user_child
 ||newrotatormarch23.bid^$ctag=user_child
 ||news.truth.delivery^$ctag=user_child
 ||nkstkp.com^$ctag=user_child
