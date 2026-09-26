@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1790309715 (Epoch)
+! Version: 1790396114 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -271,6 +271,7 @@
 ||app-ads-services.com^$ctag=user_child
 ||app.adjust.net.in^$ctag=user_child
 ||app.adjust.world^$ctag=user_child
+||app.bxapi.de^$ctag=user_child
 ||app.ssp.yahoo.com^$ctag=user_child
 ||appbaqend.com^$ctag=user_child
 ||appboy-images.com^$ctag=user_child
@@ -672,6 +673,7 @@
 ||p16-ad.byteoversea.com^$ctag=user_child
 ||p3-ad-sign.byteimg.com^$ctag=user_child
 ||p3-ad-sign.byteimg.com.queniusy.com^$ctag=user_child
+||palateonce.com^$ctag=user_child
 ||pangle.io^$ctag=user_child
 ||pangolin16.isnssdk.com^$ctag=user_child
 ||pangolin16.sgsnssdk.com^$ctag=user_child
