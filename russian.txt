@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1790396114 (Epoch)
+! Version: 1790482518 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -109,6 +109,7 @@
 ||b13.penzainform.ru^$ctag=user_child
 ||b666.penzainform.ru^$ctag=user_child
 ||backromy.com^$ctag=user_child
+||balamutka.link^$ctag=user_child
 ||ban.mirorgazma.ru^$ctag=user_child
 ||ban.zab.ru^$ctag=user_child
 ||banner.kaktus.media^$ctag=user_child

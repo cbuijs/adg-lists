@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1790396118 (Epoch)
+! Version: 1790482522 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -72,6 +72,7 @@
 ||b.ddestiny.ru^$ctag=user_child
 ||b.we-are-anon.com^$ctag=user_child
 ||backromy.com^$ctag=user_child
+||balamutka.link^$ctag=user_child
 ||ban.mirorgazma.ru^$ctag=user_child
 ||banner.lbs.km.ru^$ctag=user_child
 ||banner.volynnews.com^$ctag=user_child
