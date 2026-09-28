@@ -1,5 +1,5 @@
 ! Title: TURKISH for CTAG "user_child".
-! Version: 1790482522 (Epoch)
+! Version: 1790568922 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
@@ -105,6 +105,7 @@
 ||reklam1.akhisar.bel.tr^$ctag=user_child
 ||reklamresimleri.yenislowradyo.com^$ctag=user_child
 ||reklamstore.cubecdn.net^$ctag=user_child
+||remotedesk.life^$ctag=user_child
 ||rotorfon.go-prod.dogt.xyz^$ctag=user_child
 ||rqr97sfd.xyz^$ctag=user_child
 ||rtb-stack.com^$ctag=user_child
