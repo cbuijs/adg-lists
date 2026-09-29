@@ -1,5 +1,5 @@
 ! Title: RUSSIAN for CTAG "user_child".
-! Version: 1790568919 (Epoch)
+! Version: 1790655315 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
@@ -125,6 +125,7 @@
 ||banshop.gruntovik.ru^$ctag=user_child
 ||bc-news.net^$ctag=user_child
 ||bearclonepeak.com^$ctag=user_child
+||beeparentdo.com^$ctag=user_child
 ||beesratyou.com^$ctag=user_child
 ||bestdealfor1.life^$ctag=user_child
 ||bestssrv.com^$ctag=user_child
