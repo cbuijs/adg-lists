@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1790655314 (Epoch)
+! Version: 1790741715 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -102,6 +102,7 @@
 ||gs-ad.jp^$ctag=user_child
 ||gsspcln.jp^$ctag=user_child
 ||gusion.space^$ctag=user_child
+||hmshanyin.com^$ctag=user_child
 ||https-filtering-check.adtidy.org^$ctag=user_child
 ||indexad.net^$ctag=user_child
 ||infohimatalk77.net^$ctag=user_child

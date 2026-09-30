@@ -1,5 +1,5 @@
 ! Title: GERMAN for CTAG "user_child".
-! Version: 1790655313 (Epoch)
+! Version: 1790741715 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
@@ -7,6 +7,7 @@
 ||1t2.alpin.de^$ctag=user_child
 ||1t2.kicker.de^$ctag=user_child
 ||a.zdg.de^$ctag=user_child
+||a.zentrum-der-gesundheit.de^$ctag=user_child
 ||a3.zdg.de^$ctag=user_child
 ||acdn.literatur-couch.de^$ctag=user_child
 ||ad.71i.de^$ctag=user_child
