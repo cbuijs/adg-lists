@@ -1,5 +1,5 @@
 ! Title: TURKISH for CTAG "user_child".
-! Version: 1791173717 (Epoch)
+! Version: 1791260114 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
@@ -66,6 +66,7 @@
 ||dolarkurum.com^$ctag=user_child
 ||dontmakethem.club^$ctag=user_child
 ||ds.macellan.online^$ctag=user_child
+||geniusclickad.cc^$ctag=user_child
 ||gr.hdream.cfd^$ctag=user_child
 ||hemenindir.to^$ctag=user_child
 ||hepsiads-gw.hepsiburada.com^$ctag=user_child
