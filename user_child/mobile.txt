@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1791346514 (Epoch)
+! Version: 1791432915 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -17,6 +17,7 @@
 ||abroad-ad.kingsoft-office-service.com^$ctag=user_child
 ||abtest.mistat.xiaomi.com^$ctag=user_child
 ||abtest.swrve.com^$ctag=user_child
+||acdn.newshuntads.com^$ctag=user_child
 ||activity.browser.intl.miui.com^$ctag=user_child
 ||ad-api.ehawk.com^$ctag=user_child
 ||ad-api.maxnapps.com^$ctag=user_child
