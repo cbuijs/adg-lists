@@ -1,5 +1,5 @@
 ! Title: FRENCH for CTAG "user_child".
-! Version: 1791864913 (Epoch)
+! Version: 1791951314 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
@@ -4430,6 +4430,7 @@
 ||stat.ovh^$ctag=user_child
 ||statdynamic.com^$ctag=user_child
 ||statelinear.com^$ctag=user_child
+||static.gimii.fr^$ctag=user_child
 ||static.mntzm.com^$ctag=user_child
 ||statstools.porn.fr^$ctag=user_child
 ||stdwound.cfd^$ctag=user_child
