@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1791951315 (Epoch)
+! Version: 1792037713 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -138,6 +138,7 @@
 ||myiads.com^$ctag=user_child
 ||nkis.nikkei.com^$ctag=user_child
 ||okbp.xyz^$ctag=user_child
+||onergogogo.com^$ctag=user_child
 ||ov.yahoo.co.jp^$ctag=user_child
 ||paradise1972.com^$ctag=user_child
 ||partner.become.co.jp^$ctag=user_child
