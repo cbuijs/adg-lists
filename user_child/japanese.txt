@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1792210516 (Epoch)
+! Version: 1792296916 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -9,6 +9,7 @@
 ||ad-hatena.com^$ctag=user_child
 ||ad-optima.com^$ctag=user_child
 ||ad-seek.jp^$ctag=user_child
+||ad.001zb.com^$ctag=user_child
 ||ad.abema.io^$ctag=user_child
 ||ad.api.yyapi.net^$ctag=user_child
 ||ad.atown.jp^$ctag=user_child
