@@ -1,5 +1,5 @@
 ! Title: CNAME-TRACKERS for CTAG "".
-! Version: 1792469719 (Epoch)
+! Version: 1792556118 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/refs/heads/master/domains
@@ -35,6 +35,8 @@
 ||customer.etracker.com^$ctag=
 ||cz.affilbox.cz^$ctag=
 ||data.adobedc.net^$ctag=
+||datafa.st^$ctag=
+||datafast.io^$ctag=
 ||dataunlocker.com^$ctag=
 ||dnsdelegation.io^$ctag=
 ||e.customeriomail.com^$ctag=
@@ -43,6 +45,7 @@
 ||edgetag.io^$ctag=
 ||emtag.net^$ctag=
 ||eulerian.net^$ctag=
+||europehog.com^$ctag=
 ||exacttarget.com^$ctag=
 ||extole.com^$ctag=
 ||extole.io^$ctag=
@@ -76,6 +79,7 @@
 ||pl02.prolitteris.2cnt.net^$ctag=
 ||popcashjs.b-cdn.net^$ctag=
 ||postrelease.com^$ctag=
+||proxyhog.com^$ctag=
 ||rdtk.io^$ctag=
 ||rttrk.com^$ctag=
 ||sailthru.com^$ctag=
