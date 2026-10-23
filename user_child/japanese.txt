@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1792642518 (Epoch)
+! Version: 1792728919 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -92,6 +92,7 @@
 ||eisys-bcs.jp^$ctag=user_child
 ||enmusubimail000.com^$ctag=user_child
 ||expdirclk.com^$ctag=user_child
+||fanza.ftbucket.info^$ctag=user_child
 ||freeadd.me^$ctag=user_child
 ||genieedmp.com^$ctag=user_child
 ||genieesspv.jp^$ctag=user_child

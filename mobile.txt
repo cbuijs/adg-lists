@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1792642518 (Epoch)
+! Version: 1792728920 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -408,6 +408,7 @@
 ||d3hdbjtb1686tn.cloudfront.net^$ctag=user_child
 ||d3vgkjyuhp91nc.cloudfront.net^$ctag=user_child
 ||d830x8j3o1b2k.cloudfront.net^$ctag=user_child
+||da.flvcdn.net^$ctag=user_child
 ||dad-api.dcard.tw^$ctag=user_child
 ||data-optout-service.uca.cloud.unity3d.com^$ctag=user_child
 ||data2.doodlemobile.com^$ctag=user_child
@@ -741,6 +742,7 @@
 ||rqmob.com^$ctag=user_child
 ||rtapi.abbi.io^$ctag=user_child
 ||rtb.appbid.com^$ctag=user_child
+||rtb.nefta.app^$ctag=user_child
 ||rtblab.net^$ctag=user_child
 ||rugfrfji.win^$ctag=user_child
 ||ruuaqkw.com^$ctag=user_child
