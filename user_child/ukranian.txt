@@ -1,5 +1,5 @@
 ! Title: UKRANIAN for CTAG "user_child".
-! Version: 1793078124 (Epoch)
+! Version: 1793164520 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt
@@ -64,6 +64,7 @@
 ||alloviewroll.com^$ctag=user_child
 ||alpharockone.com^$ctag=user_child
 ||alsmdb.com^$ctag=user_child
+||antonshipanov.org^$ctag=user_child
 ||api.moonanime.art^$ctag=user_child
 ||api.native-track.com^$ctag=user_child
 ||appcodedark.com^$ctag=user_child
@@ -93,6 +94,7 @@
 ||bn.orthodoxy.ru^$ctag=user_child
 ||bngdyn.com^$ctag=user_child
 ||bngtrak.com^$ctag=user_child
+||bns.bluesystem.world^$ctag=user_child
 ||bolayaros.com^$ctag=user_child
 ||brocode1s.com^$ctag=user_child
 ||brocode3s.com^$ctag=user_child

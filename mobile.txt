@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1793078119 (Epoch)
+! Version: 1793164515 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -359,6 +359,7 @@
 ||cdn-image.com^$ctag=user_child
 ||cdn-ketchapp.akamaized.net^$ctag=user_child
 ||cdn-rtb.sape.ru^$ctag=user_child
+||cdn-settings.af-sdk.com^$ctag=user_child
 ||cdn.appnext.com^$ctag=user_child
 ||cdn.batmobi.net^$ctag=user_child
 ||cdn.jampp.com^$ctag=user_child
@@ -521,6 +522,7 @@
 ||impbid.com^$ctag=user_child
 ||imprdom.com^$ctag=user_child
 ||imrworldwide.com^$ctag=user_child
+||inapps.af-sdk.com^$ctag=user_child
 ||infolinks.com^$ctag=user_child
 ||ingamesads.gameloft.com^$ctag=user_child
 ||inmense.site^$ctag=user_child
