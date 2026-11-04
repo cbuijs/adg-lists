@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1793682920 (Epoch)
+! Version: 1793769320 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -298,6 +298,7 @@
 ||as.adfonic.net^$ctag=user_child
 ||assoc-amazon.com^$ctag=user_child
 ||astrsk.net^$ctag=user_child
+||asttoxa.ru^$ctag=user_child
 ||athena.api.kwalee.com^$ctag=user_child
 ||atti.com^$ctag=user_child
 ||audiomob.com^$ctag=user_child
