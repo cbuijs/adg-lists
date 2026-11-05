@@ -1,5 +1,5 @@
 ! Title: SPANISH-PORTUGUESE for CTAG "user_child".
-! Version: 1793769321 (Epoch)
+! Version: 1793855715 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
@@ -52,6 +52,7 @@
 ||comprargratis.com.br^$ctag=user_child
 ||compras.periodistadigital.com^$ctag=user_child
 ||crummydevioussucculent.com^$ctag=user_child
+||e-afiliacao.estadao.com.br^$ctag=user_child
 ||eru5tdmbuwxm.com^$ctag=user_child
 ||estadisticas.lanacion.com.ar^$ctag=user_child
 ||estaticos.soitu.es^$ctag=user_child
@@ -76,6 +77,7 @@
 ||publipagos.com^$ctag=user_child
 ||publyads.jstag.space^$ctag=user_child
 ||pubs.xl.pt^$ctag=user_child
+||smartads.estadao.com.br^$ctag=user_child
 ||softclick.com.br^$ctag=user_child
 ||solution911.com^$ctag=user_child
 ||stats.folha.com.br^$ctag=user_child
