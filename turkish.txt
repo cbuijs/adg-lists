@@ -1,5 +1,5 @@
 ! Title: TURKISH for CTAG "user_child".
-! Version: 1794374116 (Epoch)
+! Version: 1794460520 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
@@ -56,6 +56,7 @@
 ||campaign.nmobs.com^$ctag=user_child
 ||cdn.cdnhipter.xyz^$ctag=user_child
 ||cdn.eksiup.com^$ctag=user_child
+||certainlywhen.com^$ctag=user_child
 ||clbanners9.com^$ctag=user_child
 ||d1d8vn0fpluuz7.cloudfront.net^$ctag=user_child
 ||d2pspvbdjxwkpo.cloudfront.net^$ctag=user_child

@@ -1,5 +1,5 @@
 ! Title: MOBILE for CTAG "user_child".
-! Version: 1794374113 (Epoch)
+! Version: 1794460516 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
@@ -214,6 +214,7 @@
 ||adversal.com^$ctag=user_child
 ||adverticum.net^$ctag=user_child
 ||advertise.com^$ctag=user_child
+||advertising.amazon.dev^$ctag=user_child
 ||advertising.com^$ctag=user_child
 ||advertur.ru^$ctag=user_child
 ||advil.waze.com^$ctag=user_child
