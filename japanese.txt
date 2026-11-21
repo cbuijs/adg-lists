@@ -1,5 +1,5 @@
 ! Title: JAPANESE for CTAG "user_child".
-! Version: 1795151724 (Epoch)
+! Version: 1795238114 (Epoch)
 !
 ! Sources:
 !   https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
@@ -49,13 +49,16 @@
 ||ads.nicovideo.jp^$ctag=user_child
 ||ads.nijiurachan.net^$ctag=user_child
 ||ads.pipaffiliates.com^$ctag=user_child
+||ads.tver.jp^$ctag=user_child
 ||ads.world-fusigi.net^$ctag=user_child
 ||adsby.2bet.co.jp^$ctag=user_child
 ||adserv2.suumo.jp^$ctag=user_child
+||adsvr.tver.jp^$ctag=user_child
 ||adtechjp.com^$ctag=user_child
 ||advert.punyu.com^$ctag=user_child
 ||advortex.cloud^$ctag=user_child
 ||affiliate-script-pr.firebaseapp.com^$ctag=user_child
+||afhovwatn.in^$ctag=user_child
 ||agilemedia.jp^$ctag=user_child
 ||aimg.fc2.com^$ctag=user_child
 ||ala.durasite.net^$ctag=user_child
@@ -94,7 +97,9 @@
 ||enmusubimail000.com^$ctag=user_child
 ||expdirclk.com^$ctag=user_child
 ||fanza.ftbucket.info^$ctag=user_child
+||fod-cm-ad-v.webcdn.stream.ne.jp^$ctag=user_child
 ||freeadd.me^$ctag=user_child
+||fujckovr.in^$ctag=user_child
 ||genieedmp.com^$ctag=user_child
 ||genieesspv.jp^$ctag=user_child
 ||geotg.jp^$ctag=user_child
